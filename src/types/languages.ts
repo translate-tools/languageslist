@@ -1,8 +1,8 @@
 /* eslint-disable camelcase */
 import z from 'zod';
 
-export const LANGUAGE_2LETTER_CODE = z.string().lowercase().length(2);
-export const LANGUAGE_3LETTER_CODE = z.string().lowercase().length(3);
+export const LANGUAGE_2LETTER_CODE = z.string().toLowerCase().length(2);
+export const LANGUAGE_3LETTER_CODE = z.string().toLowerCase().length(3);
 
 export const LanguageCodesScheme = z.object({
 	iso639_1: LANGUAGE_2LETTER_CODE.optional(),

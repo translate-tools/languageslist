@@ -2,7 +2,7 @@ import z from 'zod';
 
 import { LANGUAGE_2LETTER_CODE } from './languages';
 
-export const COUNTRY_2LETTER_CODE = z.string().lowercase().length(2);
+export const COUNTRY_2LETTER_CODE = z.string().toUpperCase().length(2);
 
 export const CountrySummaryScheme = z.object({
 	code: COUNTRY_2LETTER_CODE,
