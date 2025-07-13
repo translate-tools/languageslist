@@ -1,0 +1,907 @@
+[
+	{
+		"code": "cn",
+		"population": 1442965000,
+		"languages": []
+	},
+	{
+		"code": "in",
+		"population": 1326093247,
+		"languages": ["hi", "en"]
+	},
+	{
+		"code": "us",
+		"population": 340110988,
+		"languages": ["en"]
+	},
+	{
+		"code": "id",
+		"population": 275439000,
+		"languages": ["id"]
+	},
+	{
+		"code": "pk",
+		"population": 223773700,
+		"languages": ["ur", "en"]
+	},
+	{
+		"code": "ng",
+		"population": 211400708,
+		"languages": ["en"]
+	},
+	{
+		"code": "br",
+		"population": 203062512,
+		"languages": ["pt"]
+	},
+	{
+		"code": "bd",
+		"population": 171466990,
+		"languages": ["bn"]
+	},
+	{
+		"code": "ru",
+		"population": 146119928,
+		"languages": ["ru"]
+	},
+	{
+		"code": "et",
+		"population": 128691692,
+		"languages": ["am"]
+	},
+	{
+		"code": "mx",
+		"population": 124777324,
+		"languages": ["es"]
+	},
+	{
+		"code": "jp",
+		"population": 123802000,
+		"languages": ["ja"]
+	},
+	{
+		"code": "eg",
+		"population": 114535772,
+		"languages": ["ar"]
+	},
+	{
+		"code": "ph",
+		"population": 109035343,
+		"languages": ["en"]
+	},
+	{
+		"code": "cd",
+		"population": 105789731,
+		"languages": ["fr"]
+	},
+	{
+		"code": "vn",
+		"population": 96208984,
+		"languages": ["vi"]
+	},
+	{
+		"code": "ir",
+		"population": 92417700,
+		"languages": ["fa"]
+	},
+	{
+		"code": "tr",
+		"population": 85372377,
+		"languages": ["tr"]
+	},
+	{
+		"code": "de",
+		"population": 83577140,
+		"languages": ["de"]
+	},
+	{
+		"code": "fr",
+		"population": 68373433,
+		"languages": ["fr"]
+	},
+	{
+		"code": "gb",
+		"population": 67326569,
+		"languages": ["en"]
+	},
+	{
+		"code": "th",
+		"population": 66188503,
+		"languages": ["th"]
+	},
+	{
+		"code": "za",
+		"population": 62027503,
+		"languages": ["en", "zu", "xh", "af", "ve", "ss", "tn", "ts", "st", "nr"]
+	},
+	{
+		"code": "it",
+		"population": 58850717,
+		"languages": ["it"]
+	},
+	{
+		"code": "tz",
+		"population": 57310019,
+		"languages": ["en", "sw"]
+	},
+	{
+		"code": "mm",
+		"population": 53370609,
+		"languages": ["my"]
+	},
+	{
+		"code": "co",
+		"population": 52321152,
+		"languages": ["es"]
+	},
+	{
+		"code": "kr",
+		"population": 51466201,
+		"languages": ["ko"]
+	},
+	{
+		"code": "es",
+		"population": 48592909,
+		"languages": ["es"]
+	},
+	{
+		"code": "ke",
+		"population": 48468138,
+		"languages": ["en", "sw"]
+	},
+	{
+		"code": "ar",
+		"population": 47327407,
+		"languages": ["es"]
+	},
+	{
+		"code": "ug",
+		"population": 47123531,
+		"languages": ["en", "sw"]
+	},
+	{
+		"code": "dz",
+		"population": 46164219,
+		"languages": ["ar"]
+	},
+	{
+		"code": "af",
+		"population": 41454761,
+		"languages": ["uz", "tk", "ar", "ps"]
+	},
+	{
+		"code": "sd",
+		"population": 40533330,
+		"languages": ["en", "ar"]
+	},
+	{
+		"code": "iq",
+		"population": 38274618,
+		"languages": ["ar", "ku"]
+	},
+	{
+		"code": "pl",
+		"population": 37563071,
+		"languages": ["pl"]
+	},
+	{
+		"code": "ma",
+		"population": 37076584,
+		"languages": ["ar"]
+	},
+	{
+		"code": "ca",
+		"population": 36991981,
+		"languages": ["fr", "en"]
+	},
+	{
+		"code": "ma",
+		"population": 36828330,
+		"languages": ["ar"]
+	},
+	{
+		"code": "ao",
+		"population": 36749906,
+		"languages": ["pt"]
+	},
+	{
+		"code": "uz",
+		"population": 34915100,
+		"languages": ["uz"]
+	},
+	{
+		"code": "sa",
+		"population": 33000000,
+		"languages": ["ar"]
+	},
+	{
+		"code": "gh",
+		"population": 32833031,
+		"languages": ["en"]
+	},
+	{
+		"code": "my",
+		"population": 32447385,
+		"languages": ["ms"]
+	},
+	{
+		"code": "ci",
+		"population": 31165654,
+		"languages": ["fr"]
+	},
+	{
+		"code": "np",
+		"population": 29164578,
+		"languages": ["ne"]
+	},
+	{
+		"code": "ve",
+		"population": 28515829,
+		"languages": ["es"]
+	},
+	{
+		"code": "cm",
+		"population": 28372687,
+		"languages": ["fr", "en"]
+	},
+	{
+		"code": "ye",
+		"population": 28250420,
+		"languages": ["ar"]
+	},
+	{
+		"code": "au",
+		"population": 27309396,
+		"languages": []
+	},
+	{
+		"code": "kp",
+		"population": 26418204,
+		"languages": ["ko"]
+	},
+	{
+		"code": "sy",
+		"population": 23865423,
+		"languages": ["ar"]
+	},
+	{
+		"code": "tw",
+		"population": 23409323,
+		"languages": []
+	},
+	{
+		"code": "bf",
+		"population": 23025776,
+		"languages": []
+	},
+	{
+		"code": "ne",
+		"population": 21477348,
+		"languages": ["ha"]
+	},
+	{
+		"code": "lk",
+		"population": 21444000,
+		"languages": ["ta", "si"]
+	},
+	{
+		"code": "ml",
+		"population": 20250833,
+		"languages": ["bm", "ff"]
+	},
+	{
+		"code": "kz",
+		"population": 20139914,
+		"languages": ["ru", "kk"]
+	},
+	{
+		"code": "zm",
+		"population": 19610769,
+		"languages": ["en"]
+	},
+	{
+		"code": "cl",
+		"population": 19458000,
+		"languages": ["es"]
+	},
+	{
+		"code": "td",
+		"population": 19319064,
+		"languages": ["fr", "ar"]
+	},
+	{
+		"code": "ro",
+		"population": 19053815,
+		"languages": ["ro"]
+	},
+	{
+		"code": "mw",
+		"population": 18622104,
+		"languages": ["en", "ny"]
+	},
+	{
+		"code": "kh",
+		"population": 17423880,
+		"languages": ["km"]
+	},
+	{
+		"code": "gt",
+		"population": 17263239,
+		"languages": ["es"]
+	},
+	{
+		"code": "nl",
+		"population": 17100715,
+		"languages": ["nl"]
+	},
+	{
+		"code": "ec",
+		"population": 16938986,
+		"languages": ["es"]
+	},
+	{
+		"code": "sn",
+		"population": 16876720,
+		"languages": ["fr", "wo"]
+	},
+	{
+		"code": "zw",
+		"population": 15178979,
+		"languages": ["en", "xh", "ve", "ny", "sn", "tn", "ts", "st", "nd"]
+	},
+	{
+		"code": "rw",
+		"population": 14569341,
+		"languages": ["fr", "en", "sw", "rw"]
+	},
+	{
+		"code": "bj",
+		"population": 14111034,
+		"languages": ["fr"]
+	},
+	{
+		"code": "bi",
+		"population": 13689450,
+		"languages": ["fr", "en", "rn"]
+	},
+	{
+		"code": "gn",
+		"population": 12717176,
+		"languages": ["fr"]
+	},
+	{
+		"code": "ss",
+		"population": 12575714,
+		"languages": ["en", "ar"]
+	},
+	{
+		"code": "bo",
+		"population": 12244159,
+		"languages": ["es", "ay", "qu", "gn"]
+	},
+	{
+		"code": "be",
+		"population": 11584008,
+		"languages": ["fr", "de", "nl"]
+	},
+	{
+		"code": "tn",
+		"population": 11565204,
+		"languages": ["ar"]
+	},
+	{
+		"code": "so",
+		"population": 11031386,
+		"languages": ["so", "ar"]
+	},
+	{
+		"code": "hn",
+		"population": 11002356,
+		"languages": ["es"]
+	},
+	{
+		"code": "cu",
+		"population": 10985974,
+		"languages": ["es"]
+	},
+	{
+		"code": "cz",
+		"population": 10909500,
+		"languages": ["cs"]
+	},
+	{
+		"code": "do",
+		"population": 10760028,
+		"languages": ["es"]
+	},
+	{
+		"code": "se",
+		"population": 10591058,
+		"languages": ["sv"]
+	},
+	{
+		"code": "gr",
+		"population": 10482487,
+		"languages": ["el"]
+	},
+	{
+		"code": "jo",
+		"population": 10428241,
+		"languages": ["ar"]
+	},
+	{
+		"code": "pt",
+		"population": 10347892,
+		"languages": ["pt"]
+	},
+	{
+		"code": "az",
+		"population": 10145212,
+		"languages": ["az"]
+	},
+	{
+		"code": "ae",
+		"population": 9890400,
+		"languages": ["ar"]
+	},
+	{
+		"code": "il",
+		"population": 9840000,
+		"languages": ["he"]
+	},
+	{
+		"code": "hu",
+		"population": 9603634,
+		"languages": ["hu"]
+	},
+	{
+		"code": "tj",
+		"population": 9504000,
+		"languages": ["ru", "tg"]
+	},
+	{
+		"code": "by",
+		"population": 9109280,
+		"languages": ["ru", "be"]
+	},
+	{
+		"code": "at",
+		"population": 8979894,
+		"languages": ["de"]
+	},
+	{
+		"code": "pg",
+		"population": 8935000,
+		"languages": ["en", "ho"]
+	},
+	{
+		"code": "ch",
+		"population": 8902308,
+		"languages": ["fr", "de", "it", "rm"]
+	},
+	{
+		"code": "tg",
+		"population": 7797694,
+		"languages": ["fr"]
+	},
+	{
+		"code": "sl",
+		"population": 7557212,
+		"languages": ["en"]
+	},
+	{
+		"code": "kg",
+		"population": 7281800,
+		"languages": ["ky"]
+	},
+	{
+		"code": "ni",
+		"population": 7005764,
+		"languages": ["es"]
+	},
+	{
+		"code": "la",
+		"population": 6858160,
+		"languages": ["lo"]
+	},
+	{
+		"code": "py",
+		"population": 6811297,
+		"languages": ["es", "gn"]
+	},
+	{
+		"code": "ly",
+		"population": 6678567,
+		"languages": ["ar"]
+	},
+	{
+		"code": "bg",
+		"population": 6437360,
+		"languages": ["bg"]
+	},
+	{
+		"code": "cg",
+		"population": 6142180,
+		"languages": ["fr"]
+	},
+	{
+		"code": "tm",
+		"population": 6117933,
+		"languages": ["tk"]
+	},
+	{
+		"code": "lb",
+		"population": 6100075,
+		"languages": ["ar"]
+	},
+	{
+		"code": "sv",
+		"population": 6029976,
+		"languages": ["es"]
+	},
+	{
+		"code": "sg",
+		"population": 5866139,
+		"languages": ["en", "ta", "ms"]
+	},
+	{
+		"code": "dk",
+		"population": 5827463,
+		"languages": ["da"]
+	},
+	{
+		"code": "fi",
+		"population": 5608218,
+		"languages": ["fi", "sv"]
+	},
+	{
+		"code": "no",
+		"population": 5594340,
+		"languages": ["no", "nn", "nb"]
+	},
+	{
+		"code": "sk",
+		"population": 5419451,
+		"languages": ["sk"]
+	},
+	{
+		"code": "cr",
+		"population": 5265575,
+		"languages": ["es"]
+	},
+	{
+		"code": "ps",
+		"population": 5227193,
+		"languages": ["ar"]
+	},
+	{
+		"code": "lr",
+		"population": 5214030,
+		"languages": ["en"]
+	},
+	{
+		"code": "cf",
+		"population": 5152421,
+		"languages": ["fr", "sg"]
+	},
+	{
+		"code": "ie",
+		"population": 5149139,
+		"languages": ["en", "ga"]
+	},
+	{
+		"code": "nz",
+		"population": 5118700,
+		"languages": ["en", "mi"]
+	},
+	{
+		"code": "om",
+		"population": 4829480,
+		"languages": ["ar"]
+	},
+	{
+		"code": "mr",
+		"population": 4736139,
+		"languages": ["ar"]
+	},
+	{
+		"code": "hr",
+		"population": 3871833,
+		"languages": ["hr"]
+	},
+	{
+		"code": "ba",
+		"population": 3816459,
+		"languages": ["hr", "sr", "bs"]
+	},
+	{
+		"code": "er",
+		"population": 3497000,
+		"languages": ["en", "ar", "ti"]
+	},
+	{
+		"code": "uy",
+		"population": 3444263,
+		"languages": ["es"]
+	},
+	{
+		"code": "mn",
+		"population": 3409939,
+		"languages": ["mn"]
+	},
+	{
+		"code": "am",
+		"population": 2930450,
+		"languages": ["hy"]
+	},
+	{
+		"code": "lt",
+		"population": 2860002,
+		"languages": ["lt"]
+	},
+	{
+		"code": "al",
+		"population": 2811655,
+		"languages": ["sq"]
+	},
+	{
+		"code": "jm",
+		"population": 2697983,
+		"languages": ["en"]
+	},
+	{
+		"code": "gm",
+		"population": 2639916,
+		"languages": ["en"]
+	},
+	{
+		"code": "qa",
+		"population": 2639211,
+		"languages": ["ar"]
+	},
+	{
+		"code": "na",
+		"population": 2533794,
+		"languages": ["en"]
+	},
+	{
+		"code": "bw",
+		"population": 2480244,
+		"languages": ["en"]
+	},
+	{
+		"code": "si",
+		"population": 2066880,
+		"languages": ["sl"]
+	},
+	{
+		"code": "ga",
+		"population": 2025137,
+		"languages": ["fr"]
+	},
+	{
+		"code": "ls",
+		"population": 2007201,
+		"languages": ["en", "st"]
+	},
+	{
+		"code": "lv",
+		"population": 1871882,
+		"languages": ["lv"]
+	},
+	{
+		"code": "mk",
+		"population": 1836713,
+		"languages": ["sq", "mk"]
+	},
+	{
+		"code": "xk",
+		"population": 1586659,
+		"languages": ["sq", "sr"]
+	},
+	{
+		"code": "bh",
+		"population": 1569666,
+		"languages": ["ar"]
+	},
+	{
+		"code": "ee",
+		"population": 1369995,
+		"languages": ["et"]
+	},
+	{
+		"code": "tt",
+		"population": 1369125,
+		"languages": ["en"]
+	},
+	{
+		"code": "cy",
+		"population": 1344976,
+		"languages": ["tr", "el"]
+	},
+	{
+		"code": "mu",
+		"population": 1264613,
+		"languages": ["fr", "en"]
+	},
+	{
+		"code": "tl",
+		"population": 1243235,
+		"languages": ["pt"]
+	},
+	{
+		"code": "dj",
+		"population": 1152944,
+		"languages": ["fr", "ar"]
+	},
+	{
+		"code": "fj",
+		"population": 926276,
+		"languages": ["en", "fj"]
+	},
+	{
+		"code": "km",
+		"population": 902348,
+		"languages": ["fr", "ar"]
+	},
+	{
+		"code": "bt",
+		"population": 787424,
+		"languages": ["dz"]
+	},
+	{
+		"code": "gy",
+		"population": 777859,
+		"languages": ["en"]
+	},
+	{
+		"code": "lu",
+		"population": 681987,
+		"languages": ["fr", "de", "lb"]
+	},
+	{
+		"code": "me",
+		"population": 617213,
+		"languages": []
+	},
+	{
+		"code": "sb",
+		"population": 611343,
+		"languages": ["en"]
+	},
+	{
+		"code": "cv",
+		"population": 555988,
+		"languages": ["pt"]
+	},
+	{
+		"code": "mt",
+		"population": 553214,
+		"languages": ["en", "mt"]
+	},
+	{
+		"code": "bn",
+		"population": 458949,
+		"languages": ["ms"]
+	},
+	{
+		"code": "mv",
+		"population": 436330,
+		"languages": ["dv"]
+	},
+	{
+		"code": "bs",
+		"population": 399440,
+		"languages": ["en"]
+	},
+	{
+		"code": "is",
+		"population": 364260,
+		"languages": ["is"]
+	},
+	{
+		"code": "vu",
+		"population": 300019,
+		"languages": ["fr", "en", "bi"]
+	},
+	{
+		"code": "st",
+		"population": 204327,
+		"languages": ["pt"]
+	},
+	{
+		"code": "ws",
+		"population": 200010,
+		"languages": ["en", "sm"]
+	},
+	{
+		"code": "lc",
+		"population": 167591,
+		"languages": ["en"]
+	},
+	{
+		"code": "sc",
+		"population": 119773,
+		"languages": ["fr", "en"]
+	},
+	{
+		"code": "gd",
+		"population": 114299,
+		"languages": ["en"]
+	},
+	{
+		"code": "vc",
+		"population": 109897,
+		"languages": ["en"]
+	},
+	{
+		"code": "aw",
+		"population": 106739,
+		"languages": ["nl"]
+	},
+	{
+		"code": "fm",
+		"population": 105544,
+		"languages": ["en"]
+	},
+	{
+		"code": "ag",
+		"population": 101489,
+		"languages": ["en"]
+	},
+	{
+		"code": "ad",
+		"population": 87486,
+		"languages": ["ca"]
+	},
+	{
+		"code": "dm",
+		"population": 74656,
+		"languages": ["en"]
+	},
+	{
+		"code": "kn",
+		"population": 46922,
+		"languages": ["en"]
+	},
+	{
+		"code": "sx",
+		"population": 43847,
+		"languages": ["en", "nl"]
+	},
+	{
+		"code": "li",
+		"population": 37922,
+		"languages": ["de"]
+	},
+	{
+		"code": "pw",
+		"population": 21729,
+		"languages": ["en", "ja"]
+	},
+	{
+		"code": "ck",
+		"population": 14222,
+		"languages": ["en"]
+	},
+	{
+		"code": "nr",
+		"population": 13650,
+		"languages": ["en", "na"]
+	},
+	{
+		"code": "tv",
+		"population": 10643,
+		"languages": ["en"]
+	},
+	{
+		"code": "nu",
+		"population": 1933,
+		"languages": ["en"]
+	},
+	{
+		"code": "va",
+		"population": 882,
+		"languages": ["fr", "la", "it"]
+	}
+]

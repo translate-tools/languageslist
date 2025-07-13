@@ -1,8 +1,9 @@
 /* eslint-disable camelcase */
 import z from 'zod';
 
-import { LanguageInfoScheme } from '../types/languages';
-import { LanguageInfoFetcher } from '.';
+import { LanguageInfoScheme } from '../../types/languages';
+
+import { SummaryFetcher } from '..';
 
 const query = `
 PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
@@ -64,7 +65,7 @@ const ResponseScheme = z.object({
 	}),
 });
 
-export class WikidataLanguagesInfoFetcher implements LanguageInfoFetcher {
+export class WikidataLanguagesInfoFetcher implements SummaryFetcher<LanguageInfo[]> {
 	constructor(private readonly options: { apiEndpoint?: string } = {}) {}
 	public async fetch() {
 		const pageSize = 500;
