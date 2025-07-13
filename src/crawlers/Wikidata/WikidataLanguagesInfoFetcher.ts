@@ -1,7 +1,7 @@
 /* eslint-disable camelcase */
 import z from 'zod';
 
-import { LanguageInfoScheme } from '../../types/languages';
+import { LanguageSummaryScheme } from '../../types/languages';
 
 import { SummaryFetcher } from '..';
 
@@ -44,7 +44,7 @@ WHERE {
 ORDER BY DESC(?numberOfSpeakers) DESC(?speakersTime)
 `;
 
-export type LanguageInfo = z.TypeOf<typeof LanguageInfoScheme>;
+export type LanguageInfo = z.TypeOf<typeof LanguageSummaryScheme>;
 
 const RowScheme = z
 	.object({

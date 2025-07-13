@@ -9,11 +9,11 @@ export const LanguageCodesScheme = z.object({
 	iso639_3: LANGUAGE_3LETTER_CODE.optional(),
 });
 
-export const LanguageInfoScheme = z.object({
+export const LanguageSummaryScheme = z.object({
 	codes: LanguageCodesScheme,
 	speakers: z.object({
 		total: z.number(),
 	}),
 });
 
-export type LanguageInfo = z.TypeOf<typeof LanguageInfoScheme>;
+export type LanguageSummary = z.TypeOf<typeof LanguageSummaryScheme>;
