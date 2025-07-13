@@ -11,3 +11,5 @@ node_modules
 *.html
 *.md
 package-lock.json
+
+src/**/*.json
