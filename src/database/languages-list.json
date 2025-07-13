@@ -1,0 +1,13451 @@
+[
+	{
+		"codes": {
+			"iso639_1": "zh",
+			"iso639_3": "zho"
+		},
+		"speakers": {
+			"total": 1299877520
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "en",
+			"iso639_3": "eng"
+		},
+		"speakers": {
+			"total": 1132366680
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "cmn"
+		},
+		"speakers": {
+			"total": 897071810
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "es",
+			"iso639_3": "spa"
+		},
+		"speakers": {
+			"total": 485000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "ar",
+			"iso639_3": "ara"
+		},
+		"speakers": {
+			"total": 422000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "bn",
+			"iso639_3": "ben"
+		},
+		"speakers": {
+			"total": 300000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "pt",
+			"iso639_3": "por"
+		},
+		"speakers": {
+			"total": 254300000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "fr",
+			"iso639_3": "fra"
+		},
+		"speakers": {
+			"total": 208157220
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "id",
+			"iso639_3": "ind"
+		},
+		"speakers": {
+			"total": 198996550
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "ru",
+			"iso639_3": "rus"
+		},
+		"speakers": {
+			"total": 171428900
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "ja",
+			"iso639_3": "jpn"
+		},
+		"speakers": {
+			"total": 128000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "pa",
+			"iso639_3": "pan"
+		},
+		"speakers": {
+			"total": 125000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "de",
+			"iso639_3": "deu"
+		},
+		"speakers": {
+			"total": 105000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "arz"
+		},
+		"speakers": {
+			"total": 100542400
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "jv",
+			"iso639_3": "jav"
+		},
+		"speakers": {
+			"total": 84308740
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "mr",
+			"iso639_3": "mar"
+		},
+		"speakers": {
+			"total": 83100000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "swh"
+		},
+		"speakers": {
+			"total": 82300000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "tr",
+			"iso639_3": "tur"
+		},
+		"speakers": {
+			"total": 82231620
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "te",
+			"iso639_3": "tel"
+		},
+		"speakers": {
+			"total": 82000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "wuu"
+		},
+		"speakers": {
+			"total": 81400000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "ko",
+			"iso639_3": "kor"
+		},
+		"speakers": {
+			"total": 77300000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "ms",
+			"iso639_3": "msa"
+		},
+		"speakers": {
+			"total": 77000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "vi",
+			"iso639_3": "vie"
+		},
+		"speakers": {
+			"total": 76000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "ta",
+			"iso639_3": "tam"
+		},
+		"speakers": {
+			"total": 75000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "yue"
+		},
+		"speakers": {
+			"total": 73100000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "fa",
+			"iso639_3": "fas"
+		},
+		"speakers": {
+			"total": 70000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "it",
+			"iso639_3": "ita"
+		},
+		"speakers": {
+			"total": 64819790
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "gu",
+			"iso639_3": "guj"
+		},
+		"speakers": {
+			"total": 56400000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "pes"
+		},
+		"speakers": {
+			"total": 52800000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bho"
+		},
+		"speakers": {
+			"total": 52200000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "nan"
+		},
+		"speakers": {
+			"total": 50100000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "ps",
+			"iso639_3": "pus"
+		},
+		"speakers": {
+			"total": 50000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "hak"
+		},
+		"speakers": {
+			"total": 48200000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "pcm"
+		},
+		"speakers": {
+			"total": 47500000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "cjy"
+		},
+		"speakers": {
+			"total": 46900000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "rom"
+		},
+		"speakers": {
+			"total": 46000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "tl",
+			"iso639_3": "tgl"
+		},
+		"speakers": {
+			"total": 45000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "apc"
+		},
+		"speakers": {
+			"total": 44000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "ha",
+			"iso639_3": "hau"
+		},
+		"speakers": {
+			"total": 43900000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "kn",
+			"iso639_3": "kan"
+		},
+		"speakers": {
+			"total": 43600000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "arq"
+		},
+		"speakers": {
+			"total": 42252851
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "pl",
+			"iso639_3": "pol"
+		},
+		"speakers": {
+			"total": 40200000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "yo",
+			"iso639_3": "yor"
+		},
+		"speakers": {
+			"total": 40000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "th",
+			"iso639_3": "tha"
+		},
+		"speakers": {
+			"total": 40000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "hsn"
+		},
+		"speakers": {
+			"total": 37300000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "ml",
+			"iso639_3": "mal"
+		},
+		"speakers": {
+			"total": 37100000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "raj"
+		},
+		"speakers": {
+			"total": 36000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "om",
+			"iso639_3": "orm"
+		},
+		"speakers": {
+			"total": 36000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "az",
+			"iso639_3": "aze"
+		},
+		"speakers": {
+			"total": 35000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "uk",
+			"iso639_3": "ukr"
+		},
+		"speakers": {
+			"total": 34710100
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "or",
+			"iso639_3": "ory"
+		},
+		"speakers": {
+			"total": 34500000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mai"
+		},
+		"speakers": {
+			"total": 33900000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "my",
+			"iso639_3": "mya"
+		},
+		"speakers": {
+			"total": 32900000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "su",
+			"iso639_3": "sun"
+		},
+		"speakers": {
+			"total": 32400000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "apd"
+		},
+		"speakers": {
+			"total": 31900000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ary"
+		},
+		"speakers": {
+			"total": 27500000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "ig",
+			"iso639_3": "ibo"
+		},
+		"speakers": {
+			"total": 27000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "uz",
+			"iso639_3": "uzb"
+		},
+		"speakers": {
+			"total": 27000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "sd",
+			"iso639_3": "snd"
+		},
+		"speakers": {
+			"total": 25000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "am",
+			"iso639_3": "amh"
+		},
+		"speakers": {
+			"total": 25000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "ro",
+			"iso639_3": "ron"
+		},
+		"speakers": {
+			"total": 24300000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "ne",
+			"iso639_3": "nep"
+		},
+		"speakers": {
+			"total": 24131000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "ff",
+			"iso639_3": "ful"
+		},
+		"speakers": {
+			"total": 24000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "nl",
+			"iso639_3": "nld"
+		},
+		"speakers": {
+			"total": 23100000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "aec"
+		},
+		"speakers": {
+			"total": 22400000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "gan"
+		},
+		"speakers": {
+			"total": 22100000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "awa"
+		},
+		"speakers": {
+			"total": 22000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "ku",
+			"iso639_3": "kur"
+		},
+		"speakers": {
+			"total": 21000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "pbu"
+		},
+		"speakers": {
+			"total": 20900000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mag"
+		},
+		"speakers": {
+			"total": 20700000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "skr"
+		},
+		"speakers": {
+			"total": 20009000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "ln",
+			"iso639_3": "lin"
+		},
+		"speakers": {
+			"total": 20000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "sh",
+			"iso639_3": "hbs"
+		},
+		"speakers": {
+			"total": 19000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "mg",
+			"iso639_3": "mlg"
+		},
+		"speakers": {
+			"total": 18138380
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "tzm"
+		},
+		"speakers": {
+			"total": 17000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "km",
+			"iso639_3": "khm"
+		},
+		"speakers": {
+			"total": 16600000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "hne"
+		},
+		"speakers": {
+			"total": 16300000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "so",
+			"iso639_3": "som"
+		},
+		"speakers": {
+			"total": 16200000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "tk",
+			"iso639_3": "tuk"
+		},
+		"speakers": {
+			"total": 16000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "za",
+			"iso639_3": "zha"
+		},
+		"speakers": {
+			"total": 16000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ceb"
+		},
+		"speakers": {
+			"total": 15900000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "acm"
+		},
+		"speakers": {
+			"total": 15700000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "zu",
+			"iso639_3": "zul"
+		},
+		"speakers": {
+			"total": 15700000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "sw",
+			"iso639_3": "swa"
+		},
+		"speakers": {
+			"total": 15437390
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "si",
+			"iso639_3": "sin"
+		},
+		"speakers": {
+			"total": 15300000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "as",
+			"iso639_3": "asm"
+		},
+		"speakers": {
+			"total": 15300000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "azb"
+		},
+		"speakers": {
+			"total": 15000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mad"
+		},
+		"speakers": {
+			"total": 15000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "tts"
+		},
+		"speakers": {
+			"total": 15000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "el",
+			"iso639_3": "ell"
+		},
+		"speakers": {
+			"total": 15000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "kr",
+			"iso639_3": "kau"
+		},
+		"speakers": {
+			"total": 15000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kmr"
+		},
+		"speakers": {
+			"total": 14600000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "fuv"
+		},
+		"speakers": {
+			"total": 14500000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bar"
+		},
+		"speakers": {
+			"total": 14100000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "tg",
+			"iso639_3": "tgk"
+		},
+		"speakers": {
+			"total": 14000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mwr"
+		},
+		"speakers": {
+			"total": 14000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bgc"
+		},
+		"speakers": {
+			"total": 14000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "syl"
+		},
+		"speakers": {
+			"total": 13980000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "kk",
+			"iso639_3": "kaz"
+		},
+		"speakers": {
+			"total": 13161980
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ctg"
+		},
+		"speakers": {
+			"total": 13000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "ts",
+			"iso639_3": "tso"
+		},
+		"speakers": {
+			"total": 13000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "hu",
+			"iso639_3": "hun"
+		},
+		"speakers": {
+			"total": 12600000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "rw",
+			"iso639_3": "kin"
+		},
+		"speakers": {
+			"total": 12100000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "ny",
+			"iso639_3": "nya"
+		},
+		"speakers": {
+			"total": 12000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "aeb"
+		},
+		"speakers": {
+			"total": 11600000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ajp"
+		},
+		"speakers": {
+			"total": 11600000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ayn"
+		},
+		"speakers": {
+			"total": 11400000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mnp"
+		},
+		"speakers": {
+			"total": 11000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "aka"
+		},
+		"speakers": {
+			"total": 11000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "xh",
+			"iso639_3": "xho"
+		},
+		"speakers": {
+			"total": 11000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "yi",
+			"iso639_3": "yid"
+		},
+		"speakers": {
+			"total": 11000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "pbt"
+		},
+		"speakers": {
+			"total": 10900000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "rn",
+			"iso639_3": "run"
+		},
+		"speakers": {
+			"total": 10800000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "cs",
+			"iso639_3": "ces"
+		},
+		"speakers": {
+			"total": 10700000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "acq"
+		},
+		"speakers": {
+			"total": 10500000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "ug",
+			"iso639_3": "uig"
+		},
+		"speakers": {
+			"total": 10400000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "cdo"
+		},
+		"speakers": {
+			"total": 10300000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "af",
+			"iso639_3": "afr"
+		},
+		"speakers": {
+			"total": 10300000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mup"
+		},
+		"speakers": {
+			"total": 10000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "prs"
+		},
+		"speakers": {
+			"total": 9600000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "dhd"
+		},
+		"speakers": {
+			"total": 9600000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "ht",
+			"iso639_3": "hat"
+		},
+		"speakers": {
+			"total": 9600000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "he",
+			"iso639_3": "heb"
+		},
+		"speakers": {
+			"total": 9303950
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "sv",
+			"iso639_3": "swe"
+		},
+		"speakers": {
+			"total": 9244250
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "azj"
+		},
+		"speakers": {
+			"total": 9220610
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ilo"
+		},
+		"speakers": {
+			"total": 9100000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "swc"
+		},
+		"speakers": {
+			"total": 9100000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "sn",
+			"iso639_3": "sna"
+		},
+		"speakers": {
+			"total": 9023000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "bg",
+			"iso639_3": "bul"
+		},
+		"speakers": {
+			"total": 9000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "qu",
+			"iso639_3": "que"
+		},
+		"speakers": {
+			"total": 8900000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "hmn"
+		},
+		"speakers": {
+			"total": 8400000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "hil"
+		},
+		"speakers": {
+			"total": 8200000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bfy"
+		},
+		"speakers": {
+			"total": 8000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "shi"
+		},
+		"speakers": {
+			"total": 8000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "be",
+			"iso639_3": "bel"
+		},
+		"speakers": {
+			"total": 7900000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "rwr"
+		},
+		"speakers": {
+			"total": 7856410
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bal"
+		},
+		"speakers": {
+			"total": 7600000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mos"
+		},
+		"speakers": {
+			"total": 7600000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "ti",
+			"iso639_3": "tir"
+		},
+		"speakers": {
+			"total": 7507780
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "nap"
+		},
+		"speakers": {
+			"total": 7500000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "vmw"
+		},
+		"speakers": {
+			"total": 7430000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kok"
+		},
+		"speakers": {
+			"total": 7400000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ckb"
+		},
+		"speakers": {
+			"total": 7250000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "sat"
+		},
+		"speakers": {
+			"total": 7200000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "sck"
+		},
+		"speakers": {
+			"total": 7000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "hr",
+			"iso639_3": "hrv"
+		},
+		"speakers": {
+			"total": 7000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "mn",
+			"iso639_3": "mon"
+		},
+		"speakers": {
+			"total": 7000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "tum"
+		},
+		"speakers": {
+			"total": 7000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "ks",
+			"iso639_3": "kas"
+		},
+		"speakers": {
+			"total": 6900000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "hy",
+			"iso639_3": "hye"
+		},
+		"speakers": {
+			"total": 6700000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "ki",
+			"iso639_3": "kik"
+		},
+		"speakers": {
+			"total": 6623000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "pst"
+		},
+		"speakers": {
+			"total": 6520000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "lua"
+		},
+		"speakers": {
+			"total": 6300000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "sq",
+			"iso639_3": "sqi"
+		},
+		"speakers": {
+			"total": 6200000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "nod"
+		},
+		"speakers": {
+			"total": 6029500
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "lmn"
+		},
+		"speakers": {
+			"total": 6000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "umb"
+		},
+		"speakers": {
+			"total": 6000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "da",
+			"iso639_3": "dan"
+		},
+		"speakers": {
+			"total": 6000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "sk",
+			"iso639_3": "slk"
+		},
+		"speakers": {
+			"total": 6000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "st",
+			"iso639_3": "sot"
+		},
+		"speakers": {
+			"total": 6000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "wal"
+		},
+		"speakers": {
+			"total": 5830000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kab"
+		},
+		"speakers": {
+			"total": 5586000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "min"
+		},
+		"speakers": {
+			"total": 5530000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "suk"
+		},
+		"speakers": {
+			"total": 5430000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "tt",
+			"iso639_3": "tat"
+		},
+		"speakers": {
+			"total": 5427318
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "fi",
+			"iso639_3": "fin"
+		},
+		"speakers": {
+			"total": 5413380
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "lo",
+			"iso639_3": "lao"
+		},
+		"speakers": {
+			"total": 5225552
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "nor"
+		},
+		"speakers": {
+			"total": 5200000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "ca",
+			"iso639_3": "cat"
+		},
+		"speakers": {
+			"total": 5100000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bug"
+		},
+		"speakers": {
+			"total": 5017800
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "kg",
+			"iso639_3": "kon"
+		},
+		"speakers": {
+			"total": 5016500
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "gpe"
+		},
+		"speakers": {
+			"total": 5000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "wtm"
+		},
+		"speakers": {
+			"total": 5000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mtr"
+		},
+		"speakers": {
+			"total": 5000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "nds"
+		},
+		"speakers": {
+			"total": 5000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "gn",
+			"iso639_3": "grn"
+		},
+		"speakers": {
+			"total": 4850000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "scn"
+		},
+		"speakers": {
+			"total": 4700000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "sg",
+			"iso639_3": "sag"
+		},
+		"speakers": {
+			"total": 4600000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "czh"
+		},
+		"speakers": {
+			"total": 4600000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "ky",
+			"iso639_3": "kir"
+		},
+		"speakers": {
+			"total": 4568480
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "sou"
+		},
+		"speakers": {
+			"total": 4500000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "tn",
+			"iso639_3": "tsn"
+		},
+		"speakers": {
+			"total": 4500000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ayh"
+		},
+		"speakers": {
+			"total": 4473000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "fuc"
+		},
+		"speakers": {
+			"total": 4450000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "rif"
+		},
+		"speakers": {
+			"total": 4399000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ayl"
+		},
+		"speakers": {
+			"total": 4320500
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "bm",
+			"iso639_3": "bam"
+		},
+		"speakers": {
+			"total": 4200000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "uzs"
+		},
+		"speakers": {
+			"total": 4165700
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "lg",
+			"iso639_3": "lug"
+		},
+		"speakers": {
+			"total": 4100000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "nso"
+		},
+		"speakers": {
+			"total": 4100000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "ay",
+			"iso639_3": "aym"
+		},
+		"speakers": {
+			"total": 4000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "wry"
+		},
+		"speakers": {
+			"total": 4000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ksw"
+		},
+		"speakers": {
+			"total": 4000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "lt",
+			"iso639_3": "lit"
+		},
+		"speakers": {
+			"total": 4000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "nb",
+			"iso639_3": "nob"
+		},
+		"speakers": {
+			"total": 4000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ban"
+		},
+		"speakers": {
+			"total": 4000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "tpi"
+		},
+		"speakers": {
+			"total": 4000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "lmo"
+		},
+		"speakers": {
+			"total": 3900000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kam"
+		},
+		"speakers": {
+			"total": 3893000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mey"
+		},
+		"speakers": {
+			"total": 3763900
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "ka",
+			"iso639_3": "kat"
+		},
+		"speakers": {
+			"total": 3700000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "wo",
+			"iso639_3": "wol"
+		},
+		"speakers": {
+			"total": 3700000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "gom"
+		},
+		"speakers": {
+			"total": 3633900
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bem"
+		},
+		"speakers": {
+			"total": 3600000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ace"
+		},
+		"speakers": {
+			"total": 3500032
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bhb"
+		},
+		"speakers": {
+			"total": 3310000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "myq"
+		},
+		"speakers": {
+			"total": 3300000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mzn"
+		},
+		"speakers": {
+			"total": 3270000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "jam"
+		},
+		"speakers": {
+			"total": 3200000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "dag"
+		},
+		"speakers": {
+			"total": 3160000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "war"
+		},
+		"speakers": {
+			"total": 3100000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "abr"
+		},
+		"speakers": {
+			"total": 3000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bzs"
+		},
+		"speakers": {
+			"total": 3000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "gbm"
+		},
+		"speakers": {
+			"total": 3000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "als"
+		},
+		"speakers": {
+			"total": 3000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "sdh"
+		},
+		"speakers": {
+			"total": 3000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "luo"
+		},
+		"speakers": {
+			"total": 3000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "shn"
+		},
+		"speakers": {
+			"total": 3000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "ee",
+			"iso639_3": "ewe"
+		},
+		"speakers": {
+			"total": 3000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "tw",
+			"iso639_3": "twi"
+		},
+		"speakers": {
+			"total": 3000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "gon"
+		},
+		"speakers": {
+			"total": 2984453
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "khk"
+		},
+		"speakers": {
+			"total": 2704030
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "dyu"
+		},
+		"speakers": {
+			"total": 2700000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "efi"
+		},
+		"speakers": {
+			"total": 2693000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "spv"
+		},
+		"speakers": {
+			"total": 2630000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "glk"
+		},
+		"speakers": {
+			"total": 2550000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "cpx"
+		},
+		"speakers": {
+			"total": 2500000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "gl",
+			"iso639_3": "glg"
+		},
+		"speakers": {
+			"total": 2500000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "sus"
+		},
+		"speakers": {
+			"total": 2400000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "sl",
+			"iso639_3": "slv"
+		},
+		"speakers": {
+			"total": 2400000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "cgg"
+		},
+		"speakers": {
+			"total": 2390000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "shy"
+		},
+		"speakers": {
+			"total": 2300000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kfy"
+		},
+		"speakers": {
+			"total": 2300000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "nyn"
+		},
+		"speakers": {
+			"total": 2300000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "iba"
+		},
+		"speakers": {
+			"total": 2300000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "haz"
+		},
+		"speakers": {
+			"total": 2221000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "laj"
+		},
+		"speakers": {
+			"total": 2100000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "ss",
+			"iso639_3": "ssw"
+		},
+		"speakers": {
+			"total": 2034200
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "eo",
+			"iso639_3": "epo"
+		},
+		"speakers": {
+			"total": 2000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "iii"
+		},
+		"speakers": {
+			"total": 2000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "sxu"
+		},
+		"speakers": {
+			"total": 2000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "wes"
+		},
+		"speakers": {
+			"total": 2000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "dgo"
+		},
+		"speakers": {
+			"total": 2000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bbc"
+		},
+		"speakers": {
+			"total": 2000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "sas"
+		},
+		"speakers": {
+			"total": 2000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "mk",
+			"iso639_3": "mkd"
+		},
+		"speakers": {
+			"total": 2000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "pms"
+		},
+		"speakers": {
+			"total": 2000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "vec"
+		},
+		"speakers": {
+			"total": 2000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kru"
+		},
+		"speakers": {
+			"total": 2000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "tcy"
+		},
+		"speakers": {
+			"total": 2000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "pcc"
+		},
+		"speakers": {
+			"total": 2000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "shk"
+		},
+		"speakers": {
+			"total": 2000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "quc"
+		},
+		"speakers": {
+			"total": 2000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "zyb"
+		},
+		"speakers": {
+			"total": 1980000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "fon"
+		},
+		"speakers": {
+			"total": 1935500
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bgq"
+		},
+		"speakers": {
+			"total": 1890815
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "rhg"
+		},
+		"speakers": {
+			"total": 1800000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kai"
+		},
+		"speakers": {
+			"total": 1800000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "brh"
+		},
+		"speakers": {
+			"total": 1800000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "sid"
+		},
+		"speakers": {
+			"total": 1800000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kde"
+		},
+		"speakers": {
+			"total": 1700000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "zza"
+		},
+		"speakers": {
+			"total": 1640000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "quh"
+		},
+		"speakers": {
+			"total": 1616120
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bin"
+		},
+		"speakers": {
+			"total": 1600000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kbd"
+		},
+		"speakers": {
+			"total": 1600000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "li",
+			"iso639_3": "lim"
+		},
+		"speakers": {
+			"total": 1600000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "aa",
+			"iso639_3": "aar"
+		},
+		"speakers": {
+			"total": 1600000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mak"
+		},
+		"speakers": {
+			"total": 1600000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "nde"
+		},
+		"speakers": {
+			"total": 1572800
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "guw"
+		},
+		"speakers": {
+			"total": 1539000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "lrc"
+		},
+		"speakers": {
+			"total": 1500000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "noe"
+		},
+		"speakers": {
+			"total": 1500000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "quz"
+		},
+		"speakers": {
+			"total": 1500000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "unr"
+		},
+		"speakers": {
+			"total": 1500000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "tyz"
+		},
+		"speakers": {
+			"total": 1500000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "lki"
+		},
+		"speakers": {
+			"total": 1500000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "khg"
+		},
+		"speakers": {
+			"total": 1500000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "lv",
+			"iso639_3": "lav"
+		},
+		"speakers": {
+			"total": 1500000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "sco"
+		},
+		"speakers": {
+			"total": 1500000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "hoc"
+		},
+		"speakers": {
+			"total": 1500000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "khn"
+		},
+		"speakers": {
+			"total": 1500000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kbr"
+		},
+		"speakers": {
+			"total": 1500000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kmc"
+		},
+		"speakers": {
+			"total": 1500000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "brx"
+		},
+		"speakers": {
+			"total": 1482929
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "sgw"
+		},
+		"speakers": {
+			"total": 1480000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mfa"
+		},
+		"speakers": {
+			"total": 1470000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mni"
+		},
+		"speakers": {
+			"total": 1470000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kxm"
+		},
+		"speakers": {
+			"total": 1400000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "vls"
+		},
+		"speakers": {
+			"total": 1400000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "hyw"
+		},
+		"speakers": {
+			"total": 1395240
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "ce",
+			"iso639_3": "che"
+		},
+		"speakers": {
+			"total": 1393900
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "din"
+		},
+		"speakers": {
+			"total": 1365900
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mnk"
+		},
+		"speakers": {
+			"total": 1350000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "rmt"
+		},
+		"speakers": {
+			"total": 1340000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "sc",
+			"iso639_3": "srd"
+		},
+		"speakers": {
+			"total": 1300000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "ve",
+			"iso639_3": "ven"
+		},
+		"speakers": {
+			"total": 1300000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "egl"
+		},
+		"speakers": {
+			"total": 1300000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "cv",
+			"iso639_3": "chv"
+		},
+		"speakers": {
+			"total": 1279650
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "toi"
+		},
+		"speakers": {
+			"total": 1270000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "et",
+			"iso639_3": "est"
+		},
+		"speakers": {
+			"total": 1251770
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "tmh"
+		},
+		"speakers": {
+			"total": 1248200
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "ba",
+			"iso639_3": "bak"
+		},
+		"speakers": {
+			"total": 1200000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "tsc"
+		},
+		"speakers": {
+			"total": 1200000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "bo",
+			"iso639_3": "bod"
+		},
+		"speakers": {
+			"total": 1200000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ach"
+		},
+		"speakers": {
+			"total": 1200000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "srr"
+		},
+		"speakers": {
+			"total": 1200000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "taj"
+		},
+		"speakers": {
+			"total": 1180000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bej"
+		},
+		"speakers": {
+			"total": 1178000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ekk"
+		},
+		"speakers": {
+			"total": 1164770
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mtq"
+		},
+		"speakers": {
+			"total": 1140000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ajg"
+		},
+		"speakers": {
+			"total": 1133000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "urh"
+		},
+		"speakers": {
+			"total": 1100000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mdh"
+		},
+		"speakers": {
+			"total": 1100000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "rgn"
+		},
+		"speakers": {
+			"total": 1100000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "shu"
+		},
+		"speakers": {
+			"total": 1100000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "tsg"
+		},
+		"speakers": {
+			"total": 1100000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "btm"
+		},
+		"speakers": {
+			"total": 1100000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "pag"
+		},
+		"speakers": {
+			"total": 1100000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "dga"
+		},
+		"speakers": {
+			"total": 1100000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "snk"
+		},
+		"speakers": {
+			"total": 1096795
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "krj"
+		},
+		"speakers": {
+			"total": 1056093
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "ga",
+			"iso639_3": "gle"
+		},
+		"speakers": {
+			"total": 1030000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "zmi"
+		},
+		"speakers": {
+			"total": 1010000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kbp"
+		},
+		"speakers": {
+			"total": 1000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "gor"
+		},
+		"speakers": {
+			"total": 1000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bqi"
+		},
+		"speakers": {
+			"total": 1000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "luz"
+		},
+		"speakers": {
+			"total": 1000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "pfl"
+		},
+		"speakers": {
+			"total": 1000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "new"
+		},
+		"speakers": {
+			"total": 1000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "grt"
+		},
+		"speakers": {
+			"total": 1000000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "qxq"
+		},
+		"speakers": {
+			"total": 995000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "haq"
+		},
+		"speakers": {
+			"total": 990000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ryu"
+		},
+		"speakers": {
+			"total": 984000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "drs"
+		},
+		"speakers": {
+			"total": 980000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "nym"
+		},
+		"speakers": {
+			"total": 980000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "cy",
+			"iso639_3": "cym"
+		},
+		"speakers": {
+			"total": 977366
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "its"
+		},
+		"speakers": {
+			"total": 940000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kac"
+		},
+		"speakers": {
+			"total": 940000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "stv"
+		},
+		"speakers": {
+			"total": 935000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "quy"
+		},
+		"speakers": {
+			"total": 918200
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mqy"
+		},
+		"speakers": {
+			"total": 900000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mjl"
+		},
+		"speakers": {
+			"total": 900000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "nus"
+		},
+		"speakers": {
+			"total": 900000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ktb"
+		},
+		"speakers": {
+			"total": 890000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kmz"
+		},
+		"speakers": {
+			"total": 886000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kea"
+		},
+		"speakers": {
+			"total": 871000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kha"
+		},
+		"speakers": {
+			"total": 865000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bum"
+		},
+		"speakers": {
+			"total": 860000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "fan"
+		},
+		"speakers": {
+			"total": 858000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mnw"
+		},
+		"speakers": {
+			"total": 850000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "xmm"
+		},
+		"speakers": {
+			"total": 850000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "nut"
+		},
+		"speakers": {
+			"total": 850000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "fy",
+			"iso639_3": "fry"
+		},
+		"speakers": {
+			"total": 845100
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "nia"
+		},
+		"speakers": {
+			"total": 825768
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "gur"
+		},
+		"speakers": {
+			"total": 820000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "swg"
+		},
+		"speakers": {
+			"total": 820000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ium"
+		},
+		"speakers": {
+			"total": 820000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "ng",
+			"iso639_3": "ndo"
+		},
+		"speakers": {
+			"total": 810000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "adx"
+		},
+		"speakers": {
+			"total": 810000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "pga"
+		},
+		"speakers": {
+			"total": 800000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "nup"
+		},
+		"speakers": {
+			"total": 800000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "tig"
+		},
+		"speakers": {
+			"total": 800000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "dty"
+		},
+		"speakers": {
+			"total": 790000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "xal"
+		},
+		"speakers": {
+			"total": 780000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mrw"
+		},
+		"speakers": {
+			"total": 780000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "pnt"
+		},
+		"speakers": {
+			"total": 778000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "zap"
+		},
+		"speakers": {
+			"total": 777000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "av",
+			"iso639_3": "ava"
+		},
+		"speakers": {
+			"total": 766500
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "rki"
+		},
+		"speakers": {
+			"total": 765000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "tly"
+		},
+		"speakers": {
+			"total": 764400
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "blt"
+		},
+		"speakers": {
+			"total": 760000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "eu",
+			"iso639_3": "eus"
+		},
+		"speakers": {
+			"total": 750000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "fvr"
+		},
+		"speakers": {
+			"total": 746000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "gaa"
+		},
+		"speakers": {
+			"total": 745000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "hni"
+		},
+		"speakers": {
+			"total": 740000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "rng"
+		},
+		"speakers": {
+			"total": 722000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "scl"
+		},
+		"speakers": {
+			"total": 720200
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "yua"
+		},
+		"speakers": {
+			"total": 706000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "hwc"
+		},
+		"speakers": {
+			"total": 700000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "gyn"
+		},
+		"speakers": {
+			"total": 700000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "khb"
+		},
+		"speakers": {
+			"total": 700000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "lic"
+		},
+		"speakers": {
+			"total": 700000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "pcd"
+		},
+		"speakers": {
+			"total": 700000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "trp"
+		},
+		"speakers": {
+			"total": 700000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kri"
+		},
+		"speakers": {
+			"total": 692000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ruf"
+		},
+		"speakers": {
+			"total": 692000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mgr"
+		},
+		"speakers": {
+			"total": 674000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ksb"
+		},
+		"speakers": {
+			"total": 664000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "tyr"
+		},
+		"speakers": {
+			"total": 650000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "tdd"
+		},
+		"speakers": {
+			"total": 650000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "uki"
+		},
+		"speakers": {
+			"total": 645000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ttq"
+		},
+		"speakers": {
+			"total": 640000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "nr",
+			"iso639_3": "nbl"
+		},
+		"speakers": {
+			"total": 640000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "lez"
+		},
+		"speakers": {
+			"total": 633610
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "rag"
+		},
+		"speakers": {
+			"total": 618300
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "rue"
+		},
+		"speakers": {
+			"total": 610000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "koo"
+		},
+		"speakers": {
+			"total": 609000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ahk"
+		},
+		"speakers": {
+			"total": 600000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "wa",
+			"iso639_3": "wln"
+		},
+		"speakers": {
+			"total": 600000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "btx"
+		},
+		"speakers": {
+			"total": 600000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mfe"
+		},
+		"speakers": {
+			"total": 600000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "vav"
+		},
+		"speakers": {
+			"total": 600000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "loz"
+		},
+		"speakers": {
+			"total": 600000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "os",
+			"iso639_3": "oss"
+		},
+		"speakers": {
+			"total": 599250
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kaa"
+		},
+		"speakers": {
+			"total": 583410
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "leb"
+		},
+		"speakers": {
+			"total": 580000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ewo"
+		},
+		"speakers": {
+			"total": 578000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ady"
+		},
+		"speakers": {
+			"total": 575900
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "mt",
+			"iso639_3": "mlt"
+		},
+		"speakers": {
+			"total": 570000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kfp"
+		},
+		"speakers": {
+			"total": 570000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "rmn"
+		},
+		"speakers": {
+			"total": 563670
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "crh"
+		},
+		"speakers": {
+			"total": 552740
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "oc",
+			"iso639_3": "oci"
+		},
+		"speakers": {
+			"total": 542000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "rmy"
+		},
+		"speakers": {
+			"total": 538480
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "szl"
+		},
+		"speakers": {
+			"total": 522000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "taq"
+		},
+		"speakers": {
+			"total": 500000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "sgs"
+		},
+		"speakers": {
+			"total": 500000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "qxp"
+		},
+		"speakers": {
+			"total": 500000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "asa"
+		},
+		"speakers": {
+			"total": 500000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "lus"
+		},
+		"speakers": {
+			"total": 500000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "fly"
+		},
+		"speakers": {
+			"total": 500000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "pov"
+		},
+		"speakers": {
+			"total": 500000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "cak"
+		},
+		"speakers": {
+			"total": 500000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "lij"
+		},
+		"speakers": {
+			"total": 500000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "sda"
+		},
+		"speakers": {
+			"total": 500000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "awn"
+		},
+		"speakers": {
+			"total": 490000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kdt"
+		},
+		"speakers": {
+			"total": 488900
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mhr"
+		},
+		"speakers": {
+			"total": 482000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kjg"
+		},
+		"speakers": {
+			"total": 480000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kfq"
+		},
+		"speakers": {
+			"total": 478000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "chm"
+		},
+		"speakers": {
+			"total": 470000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kge"
+		},
+		"speakers": {
+			"total": 470000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bgx"
+		},
+		"speakers": {
+			"total": 464000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "tet"
+		},
+		"speakers": {
+			"total": 463500
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "irk"
+		},
+		"speakers": {
+			"total": 460000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "sah"
+		},
+		"speakers": {
+			"total": 450000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ast"
+		},
+		"speakers": {
+			"total": 450000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "lhu"
+		},
+		"speakers": {
+			"total": 450000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "lob"
+		},
+		"speakers": {
+			"total": 440000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kum"
+		},
+		"speakers": {
+			"total": 426212
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "lif"
+		},
+		"speakers": {
+			"total": 420000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bsq"
+		},
+		"speakers": {
+			"total": 420000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kek"
+		},
+		"speakers": {
+			"total": 420000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "sm",
+			"iso639_3": "smo"
+		},
+		"speakers": {
+			"total": 415720
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "srn"
+		},
+		"speakers": {
+			"total": 415700
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "dyo"
+		},
+		"speakers": {
+			"total": 410000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "srb"
+		},
+		"speakers": {
+			"total": 410000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ibg"
+		},
+		"speakers": {
+			"total": 400000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mrh"
+		},
+		"speakers": {
+			"total": 400000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "anc"
+		},
+		"speakers": {
+			"total": 400000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "dug"
+		},
+		"speakers": {
+			"total": 397000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "pbv"
+		},
+		"speakers": {
+			"total": 395124
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "lb",
+			"iso639_3": "ltz"
+		},
+		"speakers": {
+			"total": 391200
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bwx"
+		},
+		"speakers": {
+			"total": 390000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "tap"
+		},
+		"speakers": {
+			"total": 382000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "hif"
+		},
+		"speakers": {
+			"total": 380000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "wti"
+		},
+		"speakers": {
+			"total": 367000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kyk"
+		},
+		"speakers": {
+			"total": 363000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "is",
+			"iso639_3": "isl"
+		},
+		"speakers": {
+			"total": 358000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ziw"
+		},
+		"speakers": {
+			"total": 355000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "msb"
+		},
+		"speakers": {
+			"total": 350000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "peg"
+		},
+		"speakers": {
+			"total": 350000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kxv"
+		},
+		"speakers": {
+			"total": 350000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "rej"
+		},
+		"speakers": {
+			"total": 350000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "tzo"
+		},
+		"speakers": {
+			"total": 350000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ank"
+		},
+		"speakers": {
+			"total": 347005
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bcq"
+		},
+		"speakers": {
+			"total": 347000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "xmf"
+		},
+		"speakers": {
+			"total": 345530
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "fj",
+			"iso639_3": "fij"
+		},
+		"speakers": {
+			"total": 341270
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "udm"
+		},
+		"speakers": {
+			"total": 340530
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "dv",
+			"iso639_3": "div"
+		},
+		"speakers": {
+			"total": 340500
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bua"
+		},
+		"speakers": {
+			"total": 329000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bfi"
+		},
+		"speakers": {
+			"total": 327000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ccp"
+		},
+		"speakers": {
+			"total": 326000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "inh"
+		},
+		"speakers": {
+			"total": 322900
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "pap"
+		},
+		"speakers": {
+			"total": 321300
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ebu"
+		},
+		"speakers": {
+			"total": 320000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "zdj"
+		},
+		"speakers": {
+			"total": 312000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "krc"
+		},
+		"speakers": {
+			"total": 310400
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "nyd"
+		},
+		"speakers": {
+			"total": 310000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "nbf"
+		},
+		"speakers": {
+			"total": 310000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "nxq"
+		},
+		"speakers": {
+			"total": 310000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "jab"
+		},
+		"speakers": {
+			"total": 300000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "say"
+		},
+		"speakers": {
+			"total": 300000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "swi"
+		},
+		"speakers": {
+			"total": 300000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "fur"
+		},
+		"speakers": {
+			"total": 300000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "osi"
+		},
+		"speakers": {
+			"total": 300000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ish"
+		},
+		"speakers": {
+			"total": 300000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "smw"
+		},
+		"speakers": {
+			"total": 300000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "gcr"
+		},
+		"speakers": {
+			"total": 300000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mnb"
+		},
+		"speakers": {
+			"total": 300000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "saz"
+		},
+		"speakers": {
+			"total": 300000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "arn"
+		},
+		"speakers": {
+			"total": 300000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "tyv"
+		},
+		"speakers": {
+			"total": 297000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mde"
+		},
+		"speakers": {
+			"total": 296000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "khw"
+		},
+		"speakers": {
+			"total": 290000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "alw"
+		},
+		"speakers": {
+			"total": 287000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "aiw"
+		},
+		"speakers": {
+			"total": 285000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "fsl"
+		},
+		"speakers": {
+			"total": 283000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "zib"
+		},
+		"speakers": {
+			"total": 280000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mne"
+		},
+		"speakers": {
+			"total": 280000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "twh"
+		},
+		"speakers": {
+			"total": 280000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "tza"
+		},
+		"speakers": {
+			"total": 278000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "wni"
+		},
+		"speakers": {
+			"total": 275000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "zag"
+		},
+		"speakers": {
+			"total": 274000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "wss"
+		},
+		"speakers": {
+			"total": 273000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ssy"
+		},
+		"speakers": {
+			"total": 271180
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "njo"
+		},
+		"speakers": {
+			"total": 261000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "pdt"
+		},
+		"speakers": {
+			"total": 261000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ngb"
+		},
+		"speakers": {
+			"total": 250290
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "eth"
+		},
+		"speakers": {
+			"total": 250000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "eto"
+		},
+		"speakers": {
+			"total": 250000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ase"
+		},
+		"speakers": {
+			"total": 250000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "lzz"
+		},
+		"speakers": {
+			"total": 250000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bde"
+		},
+		"speakers": {
+			"total": 250000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "thz"
+		},
+		"speakers": {
+			"total": 250000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "naq"
+		},
+		"speakers": {
+			"total": 250000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kua"
+		},
+		"speakers": {
+			"total": 247000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kxc"
+		},
+		"speakers": {
+			"total": 240000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "xbr"
+		},
+		"speakers": {
+			"total": 240000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "dz",
+			"iso639_3": "dzo"
+		},
+		"speakers": {
+			"total": 237080
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "her"
+		},
+		"speakers": {
+			"total": 237000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "aii"
+		},
+		"speakers": {
+			"total": 232300
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "enq"
+		},
+		"speakers": {
+			"total": 230000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bto"
+		},
+		"speakers": {
+			"total": 230000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "njz"
+		},
+		"speakers": {
+			"total": 230000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bas"
+		},
+		"speakers": {
+			"total": 230000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "frp"
+		},
+		"speakers": {
+			"total": 227000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "zea"
+		},
+		"speakers": {
+			"total": 220000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "kv",
+			"iso639_3": "kom"
+		},
+		"speakers": {
+			"total": 219100
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bxr"
+		},
+		"speakers": {
+			"total": 219000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "guk"
+		},
+		"speakers": {
+			"total": 219000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "lam"
+		},
+		"speakers": {
+			"total": 219000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "mi",
+			"iso639_3": "mri"
+		},
+		"speakers": {
+			"total": 213849
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "enn"
+		},
+		"speakers": {
+			"total": 211000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bdr"
+		},
+		"speakers": {
+			"total": 210000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "xan"
+		},
+		"speakers": {
+			"total": 210000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "br",
+			"iso639_3": "bre"
+		},
+		"speakers": {
+			"total": 206000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ext"
+		},
+		"speakers": {
+			"total": 201500
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "frs"
+		},
+		"speakers": {
+			"total": 200000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ltg"
+		},
+		"speakers": {
+			"total": 200000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "yba"
+		},
+		"speakers": {
+			"total": 200000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "sce"
+		},
+		"speakers": {
+			"total": 200000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kfa"
+		},
+		"speakers": {
+			"total": 200000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mvz"
+		},
+		"speakers": {
+			"total": 195000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "fip"
+		},
+		"speakers": {
+			"total": 195000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "ab",
+			"iso639_3": "abk"
+		},
+		"speakers": {
+			"total": 190110
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "cab"
+		},
+		"speakers": {
+			"total": 190000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "to",
+			"iso639_3": "ton"
+		},
+		"speakers": {
+			"total": 186010
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "uum"
+		},
+		"speakers": {
+			"total": 185000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "slp"
+		},
+		"speakers": {
+			"total": 180000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kvk"
+		},
+		"speakers": {
+			"total": 180000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "hmo"
+		},
+		"speakers": {
+			"total": 180000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "dnw"
+		},
+		"speakers": {
+			"total": 180000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "dtp"
+		},
+		"speakers": {
+			"total": 180000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "miq"
+		},
+		"speakers": {
+			"total": 180000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ctu"
+		},
+		"speakers": {
+			"total": 180000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "njh"
+		},
+		"speakers": {
+			"total": 179467
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "thk"
+		},
+		"speakers": {
+			"total": 176000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "cla"
+		},
+		"speakers": {
+			"total": 176000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ski"
+		},
+		"speakers": {
+			"total": 175000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "tsz"
+		},
+		"speakers": {
+			"total": 175000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "tsj"
+		},
+		"speakers": {
+			"total": 175000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "rsb"
+		},
+		"speakers": {
+			"total": 170000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "qus"
+		},
+		"speakers": {
+			"total": 170000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "nv",
+			"iso639_3": "nav"
+		},
+		"speakers": {
+			"total": 169369
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bkd"
+		},
+		"speakers": {
+			"total": 168234
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "hns"
+		},
+		"speakers": {
+			"total": 165000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "dop"
+		},
+		"speakers": {
+			"total": 160000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bdq"
+		},
+		"speakers": {
+			"total": 160000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kqy"
+		},
+		"speakers": {
+			"total": 159200
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kdn"
+		},
+		"speakers": {
+			"total": 157000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kpv"
+		},
+		"speakers": {
+			"total": 156000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "leh"
+		},
+		"speakers": {
+			"total": 156000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "lbe"
+		},
+		"speakers": {
+			"total": 154820
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mjg"
+		},
+		"speakers": {
+			"total": 152000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "co",
+			"iso639_3": "cos"
+		},
+		"speakers": {
+			"total": 151000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mzb"
+		},
+		"speakers": {
+			"total": 150000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kyu"
+		},
+		"speakers": {
+			"total": 150000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mhy"
+		},
+		"speakers": {
+			"total": 150000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "xsr"
+		},
+		"speakers": {
+			"total": 150000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ngu"
+		},
+		"speakers": {
+			"total": 150000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "aig"
+		},
+		"speakers": {
+			"total": 150000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "rmc"
+		},
+		"speakers": {
+			"total": 150000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "fit"
+		},
+		"speakers": {
+			"total": 150000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bno"
+		},
+		"speakers": {
+			"total": 150000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mki"
+		},
+		"speakers": {
+			"total": 150000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "hus"
+		},
+		"speakers": {
+			"total": 150000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "gag"
+		},
+		"speakers": {
+			"total": 148720
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "pdc"
+		},
+		"speakers": {
+			"total": 148000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mve"
+		},
+		"speakers": {
+			"total": 146000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "nka"
+		},
+		"speakers": {
+			"total": 146000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "pua"
+		},
+		"speakers": {
+			"total": 140000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "jbn"
+		},
+		"speakers": {
+			"total": 140000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "anu"
+		},
+		"speakers": {
+			"total": 140000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "pbb"
+		},
+		"speakers": {
+			"total": 140000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "pmf"
+		},
+		"speakers": {
+			"total": 137000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bfq"
+		},
+		"speakers": {
+			"total": 134000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mrr"
+		},
+		"speakers": {
+			"total": 134000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ngp"
+		},
+		"speakers": {
+			"total": 132000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mgm"
+		},
+		"speakers": {
+			"total": 130000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "pof"
+		},
+		"speakers": {
+			"total": 130000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "tan"
+		},
+		"speakers": {
+			"total": 130000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "tab"
+		},
+		"speakers": {
+			"total": 126900
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "cnh"
+		},
+		"speakers": {
+			"total": 125000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "end"
+		},
+		"speakers": {
+			"total": 124000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "rsl"
+		},
+		"speakers": {
+			"total": 120000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "cyo"
+		},
+		"speakers": {
+			"total": 120000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kkh"
+		},
+		"speakers": {
+			"total": 120000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ymk"
+		},
+		"speakers": {
+			"total": 119700
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bpy"
+		},
+		"speakers": {
+			"total": 117500
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "etu"
+		},
+		"speakers": {
+			"total": 116700
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "gil"
+		},
+		"speakers": {
+			"total": 116280
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "qul"
+		},
+		"speakers": {
+			"total": 116000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "rup"
+		},
+		"speakers": {
+			"total": 112960
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "thv"
+		},
+		"speakers": {
+			"total": 112900
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kkv"
+		},
+		"speakers": {
+			"total": 110000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "hvn"
+		},
+		"speakers": {
+			"total": 110000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ibl"
+		},
+		"speakers": {
+			"total": 110000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "yka"
+		},
+		"speakers": {
+			"total": 110000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bzj"
+		},
+		"speakers": {
+			"total": 110000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "yky"
+		},
+		"speakers": {
+			"total": 110000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "csb"
+		},
+		"speakers": {
+			"total": 108000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "jdt"
+		},
+		"speakers": {
+			"total": 106000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ljl"
+		},
+		"speakers": {
+			"total": 105000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "nbw"
+		},
+		"speakers": {
+			"total": 105000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "sty"
+		},
+		"speakers": {
+			"total": 101000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "fay"
+		},
+		"speakers": {
+			"total": 100000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "tjl"
+		},
+		"speakers": {
+			"total": 100000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "dsq"
+		},
+		"speakers": {
+			"total": 100000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "wmw"
+		},
+		"speakers": {
+			"total": 100000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "sdn"
+		},
+		"speakers": {
+			"total": 100000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "sdc"
+		},
+		"speakers": {
+			"total": 100000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "niy"
+		},
+		"speakers": {
+			"total": 100000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ked"
+		},
+		"speakers": {
+			"total": 100000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "nto"
+		},
+		"speakers": {
+			"total": 100000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "aae"
+		},
+		"speakers": {
+			"total": 100000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "nrf"
+		},
+		"speakers": {
+			"total": 100000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "fng"
+		},
+		"speakers": {
+			"total": 100000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ksd"
+		},
+		"speakers": {
+			"total": 100000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "adr"
+		},
+		"speakers": {
+			"total": 98000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "cwe"
+		},
+		"speakers": {
+			"total": 98000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "myv"
+		},
+		"speakers": {
+			"total": 96860
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "dta"
+		},
+		"speakers": {
+			"total": 96085
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "auh"
+		},
+		"speakers": {
+			"total": 95200
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "tbl"
+		},
+		"speakers": {
+			"total": 95000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mdy"
+		},
+		"speakers": {
+			"total": 94700
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "abu"
+		},
+		"speakers": {
+			"total": 93000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bst"
+		},
+		"speakers": {
+			"total": 92600
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ixl"
+		},
+		"speakers": {
+			"total": 92000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "omi"
+		},
+		"speakers": {
+			"total": 91000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kft"
+		},
+		"speakers": {
+			"total": 91000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "srm"
+		},
+		"speakers": {
+			"total": 90000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "nog"
+		},
+		"speakers": {
+			"total": 87119
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mlm"
+		},
+		"speakers": {
+			"total": 86000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "sth"
+		},
+		"speakers": {
+			"total": 86000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "zai"
+		},
+		"speakers": {
+			"total": 85000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "jge"
+		},
+		"speakers": {
+			"total": 85000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "yim"
+		},
+		"speakers": {
+			"total": 83259
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "adl"
+		},
+		"speakers": {
+			"total": 80597
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "byk"
+		},
+		"speakers": {
+			"total": 80000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "nrb"
+		},
+		"speakers": {
+			"total": 80000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "atb"
+		},
+		"speakers": {
+			"total": 80000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "tay"
+		},
+		"speakers": {
+			"total": 80000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ngi"
+		},
+		"speakers": {
+			"total": 80000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "cia"
+		},
+		"speakers": {
+			"total": 80000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "sbm"
+		},
+		"speakers": {
+			"total": 79000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "cts"
+		},
+		"speakers": {
+			"total": 78000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "wji"
+		},
+		"speakers": {
+			"total": 77700
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "lep"
+		},
+		"speakers": {
+			"total": 75000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "jjr"
+		},
+		"speakers": {
+			"total": 75000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "vro"
+		},
+		"speakers": {
+			"total": 74499
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "cni"
+		},
+		"speakers": {
+			"total": 73567
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "crs"
+		},
+		"speakers": {
+			"total": 73000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "emp"
+		},
+		"speakers": {
+			"total": 72000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "agi"
+		},
+		"speakers": {
+			"total": 72000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bji"
+		},
+		"speakers": {
+			"total": 70100
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "slr"
+		},
+		"speakers": {
+			"total": 70000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "xsb"
+		},
+		"speakers": {
+			"total": 70000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "dbd"
+		},
+		"speakers": {
+			"total": 70000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "byn"
+		},
+		"speakers": {
+			"total": 70000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "jgk"
+		},
+		"speakers": {
+			"total": 70000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "sip"
+		},
+		"speakers": {
+			"total": 70000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mbo"
+		},
+		"speakers": {
+			"total": 70000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "cri"
+		},
+		"speakers": {
+			"total": 69899
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "fo",
+			"iso639_3": "fao"
+		},
+		"speakers": {
+			"total": 69150
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "gwd"
+		},
+		"speakers": {
+			"total": 69000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "ty",
+			"iso639_3": "tah"
+		},
+		"speakers": {
+			"total": 68000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "dbm"
+		},
+		"speakers": {
+			"total": 65000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "gdl"
+		},
+		"speakers": {
+			"total": 65000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "wlo"
+		},
+		"speakers": {
+			"total": 65000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bzy"
+		},
+		"speakers": {
+			"total": 65000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bxu"
+		},
+		"speakers": {
+			"total": 65000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "ch",
+			"iso639_3": "cha"
+		},
+		"speakers": {
+			"total": 64300
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "liq"
+		},
+		"speakers": {
+			"total": 64000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "koi"
+		},
+		"speakers": {
+			"total": 63100
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mqx"
+		},
+		"speakers": {
+			"total": 63000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "raw"
+		},
+		"speakers": {
+			"total": 63000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "jgo"
+		},
+		"speakers": {
+			"total": 63000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "tca"
+		},
+		"speakers": {
+			"total": 61000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "zom"
+		},
+		"speakers": {
+			"total": 61000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "mh",
+			"iso639_3": "mah"
+		},
+		"speakers": {
+			"total": 61000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "dsh"
+		},
+		"speakers": {
+			"total": 60500
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "gd",
+			"iso639_3": "gla"
+		},
+		"speakers": {
+			"total": 60130
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "rmq"
+		},
+		"speakers": {
+			"total": 60000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "nxg"
+		},
+		"speakers": {
+			"total": 60000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "jvn"
+		},
+		"speakers": {
+			"total": 60000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "wja"
+		},
+		"speakers": {
+			"total": 60000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "nbh"
+		},
+		"speakers": {
+			"total": 60000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bhh"
+		},
+		"speakers": {
+			"total": 60000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "jpr"
+		},
+		"speakers": {
+			"total": 60000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "sgh"
+		},
+		"speakers": {
+			"total": 60000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ksf"
+		},
+		"speakers": {
+			"total": 60000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "nnp"
+		},
+		"speakers": {
+			"total": 59154
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "msk"
+		},
+		"speakers": {
+			"total": 58000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "agr"
+		},
+		"speakers": {
+			"total": 56584
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "kl",
+			"iso639_3": "kal"
+		},
+		"speakers": {
+			"total": 56200
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "alt"
+		},
+		"speakers": {
+			"total": 55720
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "sby"
+		},
+		"speakers": {
+			"total": 54400
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "klj"
+		},
+		"speakers": {
+			"total": 53900
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "chk"
+		},
+		"speakers": {
+			"total": 51330
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "smk"
+		},
+		"speakers": {
+			"total": 51000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kcz"
+		},
+		"speakers": {
+			"total": 51000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "abi"
+		},
+		"speakers": {
+			"total": 51000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "jye"
+		},
+		"speakers": {
+			"total": 50300
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bha"
+		},
+		"speakers": {
+			"total": 50000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "uth"
+		},
+		"speakers": {
+			"total": 50000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "sjs"
+		},
+		"speakers": {
+			"total": 50000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mbt"
+		},
+		"speakers": {
+			"total": 50000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "tiy"
+		},
+		"speakers": {
+			"total": 50000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "nxe"
+		},
+		"speakers": {
+			"total": 50000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "rml"
+		},
+		"speakers": {
+			"total": 50000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mhw"
+		},
+		"speakers": {
+			"total": 49710
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "abq"
+		},
+		"speakers": {
+			"total": 48000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "hch"
+		},
+		"speakers": {
+			"total": 47625
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "rys"
+		},
+		"speakers": {
+			"total": 47600
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "rut"
+		},
+		"speakers": {
+			"total": 47400
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "sci"
+		},
+		"speakers": {
+			"total": 46000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kdc"
+		},
+		"speakers": {
+			"total": 45000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bmi"
+		},
+		"speakers": {
+			"total": 44800
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bra"
+		},
+		"speakers": {
+			"total": 44000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "agj"
+		},
+		"speakers": {
+			"total": 43700
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "cac"
+		},
+		"speakers": {
+			"total": 43370
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bgs"
+		},
+		"speakers": {
+			"total": 43000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kjh"
+		},
+		"speakers": {
+			"total": 42604
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bxm"
+		},
+		"speakers": {
+			"total": 42500
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "tuq"
+		},
+		"speakers": {
+			"total": 42500
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kcn"
+		},
+		"speakers": {
+			"total": 42000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "tft"
+		},
+		"speakers": {
+			"total": 42000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "dng"
+		},
+		"speakers": {
+			"total": 41400
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "rwm"
+		},
+		"speakers": {
+			"total": 40100
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "rm",
+			"iso639_3": "roh"
+		},
+		"speakers": {
+			"total": 40039
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kvq"
+		},
+		"speakers": {
+			"total": 40000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "geh"
+		},
+		"speakers": {
+			"total": 40000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "xxk"
+		},
+		"speakers": {
+			"total": 40000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "uuu"
+		},
+		"speakers": {
+			"total": 40000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "qub"
+		},
+		"speakers": {
+			"total": 40000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "nhn"
+		},
+		"speakers": {
+			"total": 40000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "tob"
+		},
+		"speakers": {
+			"total": 40000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bau"
+		},
+		"speakers": {
+			"total": 40000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ask"
+		},
+		"speakers": {
+			"total": 40000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "hac"
+		},
+		"speakers": {
+			"total": 40000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "sad"
+		},
+		"speakers": {
+			"total": 40000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "iu",
+			"iso639_3": "iku"
+		},
+		"speakers": {
+			"total": 39770
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mfy"
+		},
+		"speakers": {
+			"total": 39000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "meu"
+		},
+		"speakers": {
+			"total": 39000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kkw"
+		},
+		"speakers": {
+			"total": 38800
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bnn"
+		},
+		"speakers": {
+			"total": 38000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "dot"
+		},
+		"speakers": {
+			"total": 37582
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bqn"
+		},
+		"speakers": {
+			"total": 37000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "oyd"
+		},
+		"speakers": {
+			"total": 37000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "caq"
+		},
+		"speakers": {
+			"total": 37000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "cdm"
+		},
+		"speakers": {
+			"total": 36807
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "poi"
+		},
+		"speakers": {
+			"total": 36000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ntk"
+		},
+		"speakers": {
+			"total": 36000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "krl"
+		},
+		"speakers": {
+			"total": 35600
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "jiv"
+		},
+		"speakers": {
+			"total": 35000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "slm"
+		},
+		"speakers": {
+			"total": 35000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "tvu"
+		},
+		"speakers": {
+			"total": 35000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "shp"
+		},
+		"speakers": {
+			"total": 34152
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "crk"
+		},
+		"speakers": {
+			"total": 34000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kxl"
+		},
+		"speakers": {
+			"total": 33700
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ktz"
+		},
+		"speakers": {
+			"total": 33600
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bsc"
+		},
+		"speakers": {
+			"total": 33600
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "jac"
+		},
+		"speakers": {
+			"total": 33000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "inb"
+		},
+		"speakers": {
+			"total": 33000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mhs"
+		},
+		"speakers": {
+			"total": 32980
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "wba"
+		},
+		"speakers": {
+			"total": 32800
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ddn"
+		},
+		"speakers": {
+			"total": 32050
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bri"
+		},
+		"speakers": {
+			"total": 32000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "tny"
+		},
+		"speakers": {
+			"total": 31600
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "nzy"
+		},
+		"speakers": {
+			"total": 31500
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "jun"
+		},
+		"speakers": {
+			"total": 30875
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "olo"
+		},
+		"speakers": {
+			"total": 30770
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mrj"
+		},
+		"speakers": {
+			"total": 30000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "lsi"
+		},
+		"speakers": {
+			"total": 30000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "cgc"
+		},
+		"speakers": {
+			"total": 30000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mmd"
+		},
+		"speakers": {
+			"total": 30000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "qvc"
+		},
+		"speakers": {
+			"total": 30000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "blz"
+		},
+		"speakers": {
+			"total": 30000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mba"
+		},
+		"speakers": {
+			"total": 30000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "caa"
+		},
+		"speakers": {
+			"total": 30000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "nag"
+		},
+		"speakers": {
+			"total": 30000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "adz"
+		},
+		"speakers": {
+			"total": 30000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "azr"
+		},
+		"speakers": {
+			"total": 30000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "tul"
+		},
+		"speakers": {
+			"total": 30000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mkf"
+		},
+		"speakers": {
+			"total": 30000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mnz"
+		},
+		"speakers": {
+			"total": 30000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "sjo"
+		},
+		"speakers": {
+			"total": 30000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "wbl"
+		},
+		"speakers": {
+			"total": 30000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "lld"
+		},
+		"speakers": {
+			"total": 30000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "agx"
+		},
+		"speakers": {
+			"total": 29300
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "pon"
+		},
+		"speakers": {
+			"total": 29000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "sne"
+		},
+		"speakers": {
+			"total": 29000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "snp"
+		},
+		"speakers": {
+			"total": 29000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "wlc"
+		},
+		"speakers": {
+			"total": 28700
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "tmw"
+		},
+		"speakers": {
+			"total": 28000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "zab"
+		},
+		"speakers": {
+			"total": 28000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "lbo"
+		},
+		"speakers": {
+			"total": 28000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "tlb"
+		},
+		"speakers": {
+			"total": 27720
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "evn"
+		},
+		"speakers": {
+			"total": 27500
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "haw"
+		},
+		"speakers": {
+			"total": 27200
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "agd"
+		},
+		"speakers": {
+			"total": 27000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bdp"
+		},
+		"speakers": {
+			"total": 27000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "tda"
+		},
+		"speakers": {
+			"total": 26900
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "gnd"
+		},
+		"speakers": {
+			"total": 26000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "led"
+		},
+		"speakers": {
+			"total": 26000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "lel"
+		},
+		"speakers": {
+			"total": 26000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "har"
+		},
+		"speakers": {
+			"total": 25810
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "se",
+			"iso639_3": "sme"
+		},
+		"speakers": {
+			"total": 25700
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mhp"
+		},
+		"speakers": {
+			"total": 25000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "gah"
+		},
+		"speakers": {
+			"total": 25000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "aol"
+		},
+		"speakers": {
+			"total": 25000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "lmy"
+		},
+		"speakers": {
+			"total": 25000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "cfa"
+		},
+		"speakers": {
+			"total": 25000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "pip"
+		},
+		"speakers": {
+			"total": 25000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "pis"
+		},
+		"speakers": {
+			"total": 25000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bwc"
+		},
+		"speakers": {
+			"total": 24800
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mql"
+		},
+		"speakers": {
+			"total": 24500
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bsh"
+		},
+		"speakers": {
+			"total": 24200
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "sle"
+		},
+		"speakers": {
+			"total": 24000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "yrk"
+		},
+		"speakers": {
+			"total": 24000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "doe"
+		},
+		"speakers": {
+			"total": 24000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "yey"
+		},
+		"speakers": {
+			"total": 24000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bff"
+		},
+		"speakers": {
+			"total": 23500
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "guh"
+		},
+		"speakers": {
+			"total": 23006
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bcw"
+		},
+		"speakers": {
+			"total": 23000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "tkr"
+		},
+		"speakers": {
+			"total": 23000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bld"
+		},
+		"speakers": {
+			"total": 23000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "anm"
+		},
+		"speakers": {
+			"total": 23000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "xma"
+		},
+		"speakers": {
+			"total": 23000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "sli"
+		},
+		"speakers": {
+			"total": 22900
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "wae"
+		},
+		"speakers": {
+			"total": 22780
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "dhm"
+		},
+		"speakers": {
+			"total": 22000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "abx"
+		},
+		"speakers": {
+			"total": 21400
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ygr"
+		},
+		"speakers": {
+			"total": 21000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "csg"
+		},
+		"speakers": {
+			"total": 21000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "gum"
+		},
+		"speakers": {
+			"total": 20782
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "oji"
+		},
+		"speakers": {
+			"total": 20470
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "oua"
+		},
+		"speakers": {
+			"total": 20000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "dak"
+		},
+		"speakers": {
+			"total": 20000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "trv"
+		},
+		"speakers": {
+			"total": 20000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "lrt"
+		},
+		"speakers": {
+			"total": 20000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "quf"
+		},
+		"speakers": {
+			"total": 20000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "hca"
+		},
+		"speakers": {
+			"total": 20000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "an",
+			"iso639_3": "arg"
+		},
+		"speakers": {
+			"total": 20000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "dun"
+		},
+		"speakers": {
+			"total": 20000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "szn"
+		},
+		"speakers": {
+			"total": 20000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "nuo"
+		},
+		"speakers": {
+			"total": 20000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mky"
+		},
+		"speakers": {
+			"total": 20000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kcq"
+		},
+		"speakers": {
+			"total": 20000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kna"
+		},
+		"speakers": {
+			"total": 20000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bvb"
+		},
+		"speakers": {
+			"total": 20000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ani"
+		},
+		"speakers": {
+			"total": 20000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kfc"
+		},
+		"speakers": {
+			"total": 20000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "dox"
+		},
+		"speakers": {
+			"total": 19020
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mek"
+		},
+		"speakers": {
+			"total": 19000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mju"
+		},
+		"speakers": {
+			"total": 18964
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "maa"
+		},
+		"speakers": {
+			"total": 18900
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "xom"
+		},
+		"speakers": {
+			"total": 18530
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mpe"
+		},
+		"speakers": {
+			"total": 18500
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kie"
+		},
+		"speakers": {
+			"total": 18500
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "snc"
+		},
+		"speakers": {
+			"total": 18000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "alu"
+		},
+		"speakers": {
+			"total": 18000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "dow"
+		},
+		"speakers": {
+			"total": 18000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mfh"
+		},
+		"speakers": {
+			"total": 18000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "rar"
+		},
+		"speakers": {
+			"total": 17500
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bwe"
+		},
+		"speakers": {
+			"total": 17200
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "pau"
+		},
+		"speakers": {
+			"total": 17000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "esu"
+		},
+		"speakers": {
+			"total": 16900
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kcu"
+		},
+		"speakers": {
+			"total": 16400
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "guu"
+		},
+		"speakers": {
+			"total": 16200
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "yec"
+		},
+		"speakers": {
+			"total": 16000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ter"
+		},
+		"speakers": {
+			"total": 16000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "yog"
+		},
+		"speakers": {
+			"total": 16000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "srh"
+		},
+		"speakers": {
+			"total": 16000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "dhv"
+		},
+		"speakers": {
+			"total": 15949
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "swb"
+		},
+		"speakers": {
+			"total": 15200
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "xkz"
+		},
+		"speakers": {
+			"total": 15000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "klr"
+		},
+		"speakers": {
+			"total": 15000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mbb"
+		},
+		"speakers": {
+			"total": 15000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ood"
+		},
+		"speakers": {
+			"total": 15000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "fse"
+		},
+		"speakers": {
+			"total": 15000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mwl"
+		},
+		"speakers": {
+			"total": 15000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "qvs"
+		},
+		"speakers": {
+			"total": 15000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "cto"
+		},
+		"speakers": {
+			"total": 15000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "yli"
+		},
+		"speakers": {
+			"total": 15000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "tby"
+		},
+		"speakers": {
+			"total": 15000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "sva"
+		},
+		"speakers": {
+			"total": 15000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ldm"
+		},
+		"speakers": {
+			"total": 15000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "pmt"
+		},
+		"speakers": {
+			"total": 15000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "lbj"
+		},
+		"speakers": {
+			"total": 14952
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "pug"
+		},
+		"speakers": {
+			"total": 14300
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "duu"
+		},
+		"speakers": {
+			"total": 14225
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "cbt"
+		},
+		"speakers": {
+			"total": 14000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bgj"
+		},
+		"speakers": {
+			"total": 14000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "uhn"
+		},
+		"speakers": {
+			"total": 14000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "riu"
+		},
+		"speakers": {
+			"total": 14000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "apw"
+		},
+		"speakers": {
+			"total": 13445
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "hsb"
+		},
+		"speakers": {
+			"total": 13300
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "gha"
+		},
+		"speakers": {
+			"total": 13100
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kzg"
+		},
+		"speakers": {
+			"total": 13100
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "csq"
+		},
+		"speakers": {
+			"total": 13000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "wap"
+		},
+		"speakers": {
+			"total": 13000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kht"
+		},
+		"speakers": {
+			"total": 13000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "qux"
+		},
+		"speakers": {
+			"total": 13000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ghs"
+		},
+		"speakers": {
+			"total": 13000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "tvl"
+		},
+		"speakers": {
+			"total": 13000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "sqs"
+		},
+		"speakers": {
+			"total": 12800
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "abm"
+		},
+		"speakers": {
+			"total": 12500
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ddo"
+		},
+		"speakers": {
+			"total": 12467
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "gv",
+			"iso639_3": "glv"
+		},
+		"speakers": {
+			"total": 12350
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "chr"
+		},
+		"speakers": {
+			"total": 12300
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kwi"
+		},
+		"speakers": {
+			"total": 12055
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "aib"
+		},
+		"speakers": {
+			"total": 12000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mbf"
+		},
+		"speakers": {
+			"total": 12000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bne"
+		},
+		"speakers": {
+			"total": 12000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "lcm"
+		},
+		"speakers": {
+			"total": 12000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "atq"
+		},
+		"speakers": {
+			"total": 12000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mqs"
+		},
+		"speakers": {
+			"total": 12000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bbt"
+		},
+		"speakers": {
+			"total": 12000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "aut"
+		},
+		"speakers": {
+			"total": 12000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "szw"
+		},
+		"speakers": {
+			"total": 12000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "yai"
+		},
+		"speakers": {
+			"total": 12000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "lcl"
+		},
+		"speakers": {
+			"total": 11900
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "wbk"
+		},
+		"speakers": {
+			"total": 11500
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "dbp"
+		},
+		"speakers": {
+			"total": 11400
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "chp"
+		},
+		"speakers": {
+			"total": 11325
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "moe"
+		},
+		"speakers": {
+			"total": 11000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "fax"
+		},
+		"speakers": {
+			"total": 11000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kuh"
+		},
+		"speakers": {
+			"total": 11000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "cr",
+			"iso639_3": "cre"
+		},
+		"speakers": {
+			"total": 10875
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kuk"
+		},
+		"speakers": {
+			"total": 10600
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ptn"
+		},
+		"speakers": {
+			"total": 10600
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "dru"
+		},
+		"speakers": {
+			"total": 10500
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ojs"
+		},
+		"speakers": {
+			"total": 10500
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "peh"
+		},
+		"speakers": {
+			"total": 10000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "beu"
+		},
+		"speakers": {
+			"total": 10000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "cbi"
+		},
+		"speakers": {
+			"total": 10000
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "bi",
+			"iso639_3": "bis"
+		},
+		"speakers": {
+			"total": 10000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "lou"
+		},
+		"speakers": {
+			"total": 10000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "phl"
+		},
+		"speakers": {
+			"total": 10000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "sea"
+		},
+		"speakers": {
+			"total": 10000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ryn"
+		},
+		"speakers": {
+			"total": 10000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kot"
+		},
+		"speakers": {
+			"total": 10000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ojw"
+		},
+		"speakers": {
+			"total": 10000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "rmf"
+		},
+		"speakers": {
+			"total": 10000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mcq"
+		},
+		"speakers": {
+			"total": 10000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kth"
+		},
+		"speakers": {
+			"total": 10000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "vgr"
+		},
+		"speakers": {
+			"total": 10000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "niu"
+		},
+		"speakers": {
+			"total": 10000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ple"
+		},
+		"speakers": {
+			"total": 10000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "deq"
+		},
+		"speakers": {
+			"total": 10000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ssq"
+		},
+		"speakers": {
+			"total": 10000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kvb"
+		},
+		"speakers": {
+			"total": 10000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "frr"
+		},
+		"speakers": {
+			"total": 10000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "lur"
+		},
+		"speakers": {
+			"total": 10000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "yva"
+		},
+		"speakers": {
+			"total": 10000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "car"
+		},
+		"speakers": {
+			"total": 10000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "scp"
+		},
+		"speakers": {
+			"total": 10000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "huy"
+		},
+		"speakers": {
+			"total": 10000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kry"
+		},
+		"speakers": {
+			"total": 10000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kxb"
+		},
+		"speakers": {
+			"total": 9920
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "cjo"
+		},
+		"speakers": {
+			"total": 9881
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "sdp"
+		},
+		"speakers": {
+			"total": 9663
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "zun"
+		},
+		"speakers": {
+			"total": 9650
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "xav"
+		},
+		"speakers": {
+			"total": 9600
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mbc"
+		},
+		"speakers": {
+			"total": 9600
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kca"
+		},
+		"speakers": {
+			"total": 9584
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kvt"
+		},
+		"speakers": {
+			"total": 9550
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "gwt"
+		},
+		"speakers": {
+			"total": 9500
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "na",
+			"iso639_3": "nau"
+		},
+		"speakers": {
+			"total": 9300
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kxk"
+		},
+		"speakers": {
+			"total": 9300
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mav"
+		},
+		"speakers": {
+			"total": 9200
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "cho"
+		},
+		"speakers": {
+			"total": 9200
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "saf"
+		},
+		"speakers": {
+			"total": 9000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "lbc"
+		},
+		"speakers": {
+			"total": 9000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bfw"
+		},
+		"speakers": {
+			"total": 9000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "aaa"
+		},
+		"speakers": {
+			"total": 9000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "vid"
+		},
+		"speakers": {
+			"total": 9000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "rtm"
+		},
+		"speakers": {
+			"total": 9000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "hkk"
+		},
+		"speakers": {
+			"total": 8770
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "nen"
+		},
+		"speakers": {
+			"total": 8700
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "pyu"
+		},
+		"speakers": {
+			"total": 8500
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mlw"
+		},
+		"speakers": {
+			"total": 8500
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "nfl"
+		},
+		"speakers": {
+			"total": 8400
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mic"
+		},
+		"speakers": {
+			"total": 8270
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "tjo"
+		},
+		"speakers": {
+			"total": 8100
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "swl"
+		},
+		"speakers": {
+			"total": 8000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "hub"
+		},
+		"speakers": {
+			"total": 8000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kkf"
+		},
+		"speakers": {
+			"total": 8000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "opm"
+		},
+		"speakers": {
+			"total": 8000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kgq"
+		},
+		"speakers": {
+			"total": 8000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "pqa"
+		},
+		"speakers": {
+			"total": 8000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "prn"
+		},
+		"speakers": {
+			"total": 8000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kos"
+		},
+		"speakers": {
+			"total": 8000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "yrl"
+		},
+		"speakers": {
+			"total": 8000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "udi"
+		},
+		"speakers": {
+			"total": 8000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "txn"
+		},
+		"speakers": {
+			"total": 7910
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "tcs"
+		},
+		"speakers": {
+			"total": 7800
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "app"
+		},
+		"speakers": {
+			"total": 7800
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "yup"
+		},
+		"speakers": {
+			"total": 7500
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "tnp"
+		},
+		"speakers": {
+			"total": 7500
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "muz"
+		},
+		"speakers": {
+			"total": 7500
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "xtm"
+		},
+		"speakers": {
+			"total": 7400
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "aau"
+		},
+		"speakers": {
+			"total": 7270
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "arv"
+		},
+		"speakers": {
+			"total": 7210
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "dwa"
+		},
+		"speakers": {
+			"total": 7200
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "txu"
+		},
+		"speakers": {
+			"total": 7100
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "baa"
+		},
+		"speakers": {
+			"total": 7070
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "gzi"
+		},
+		"speakers": {
+			"total": 7030
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bsg"
+		},
+		"speakers": {
+			"total": 7030
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "quk"
+		},
+		"speakers": {
+			"total": 7000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "gnw"
+		},
+		"speakers": {
+			"total": 7000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "eve"
+		},
+		"speakers": {
+			"total": 7000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mrz"
+		},
+		"speakers": {
+			"total": 7000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "myu"
+		},
+		"speakers": {
+			"total": 7000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "hop"
+		},
+		"speakers": {
+			"total": 6780
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "tin"
+		},
+		"speakers": {
+			"total": 6693
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kee"
+		},
+		"speakers": {
+			"total": 6680
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "dsb"
+		},
+		"speakers": {
+			"total": 6670
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ruy"
+		},
+		"speakers": {
+			"total": 6600
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "byr"
+		},
+		"speakers": {
+			"total": 6600
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "not"
+		},
+		"speakers": {
+			"total": 6500
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "pio"
+		},
+		"speakers": {
+			"total": 6400
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "cub"
+		},
+		"speakers": {
+			"total": 6300
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mcb"
+		},
+		"speakers": {
+			"total": 6200
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "nac"
+		},
+		"speakers": {
+			"total": 6200
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ebk"
+		},
+		"speakers": {
+			"total": 6170
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "atj"
+		},
+		"speakers": {
+			"total": 6160
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ydg"
+		},
+		"speakers": {
+			"total": 6150
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "xka"
+		},
+		"speakers": {
+			"total": 6000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "fpe"
+		},
+		"speakers": {
+			"total": 6000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "wca"
+		},
+		"speakers": {
+			"total": 6000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mch"
+		},
+		"speakers": {
+			"total": 6000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bsj"
+		},
+		"speakers": {
+			"total": 6000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "awo"
+		},
+		"speakers": {
+			"total": 6000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "des"
+		},
+		"speakers": {
+			"total": 6000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kpt"
+		},
+		"speakers": {
+			"total": 6000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mrq"
+		},
+		"speakers": {
+			"total": 6000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "lwt"
+		},
+		"speakers": {
+			"total": 6000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "tdr"
+		},
+		"speakers": {
+			"total": 6000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kap"
+		},
+		"speakers": {
+			"total": 6000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "yad"
+		},
+		"speakers": {
+			"total": 5700
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "cal"
+		},
+		"speakers": {
+			"total": 5700
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "fab"
+		},
+		"speakers": {
+			"total": 5600
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "vaj"
+		},
+		"speakers": {
+			"total": 5600
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "ik",
+			"iso639_3": "ipk"
+		},
+		"speakers": {
+			"total": 5580
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mto"
+		},
+		"speakers": {
+			"total": 5500
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bsw"
+		},
+		"speakers": {
+			"total": 5480
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "dov"
+		},
+		"speakers": {
+			"total": 5430
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "aji"
+		},
+		"speakers": {
+			"total": 5400
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "cas"
+		},
+		"speakers": {
+			"total": 5300
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "yap"
+		},
+		"speakers": {
+			"total": 5130
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ckt"
+		},
+		"speakers": {
+			"total": 5100
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "jje"
+		},
+		"speakers": {
+			"total": 5000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "urk"
+		},
+		"speakers": {
+			"total": 5000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "yle"
+		},
+		"speakers": {
+			"total": 5000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "reb"
+		},
+		"speakers": {
+			"total": 5000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "nmy"
+		},
+		"speakers": {
+			"total": 5000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "pib"
+		},
+		"speakers": {
+			"total": 5000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "xug"
+		},
+		"speakers": {
+			"total": 5000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kls"
+		},
+		"speakers": {
+			"total": 5000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bdc"
+		},
+		"speakers": {
+			"total": 5000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "nea"
+		},
+		"speakers": {
+			"total": 5000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kdx"
+		},
+		"speakers": {
+			"total": 5000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "dae"
+		},
+		"speakers": {
+			"total": 5000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "piy"
+		},
+		"speakers": {
+			"total": 5000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "gwg"
+		},
+		"speakers": {
+			"total": 5000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "gyg"
+		},
+		"speakers": {
+			"total": 5000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ruq"
+		},
+		"speakers": {
+			"total": 5000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bla"
+		},
+		"speakers": {
+			"total": 5000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "rap"
+		},
+		"speakers": {
+			"total": 5000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "dlg"
+		},
+		"speakers": {
+			"total": 4836
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "sau"
+		},
+		"speakers": {
+			"total": 4800
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "xsy"
+		},
+		"speakers": {
+			"total": 4750
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ybe"
+		},
+		"speakers": {
+			"total": 4600
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ukk"
+		},
+		"speakers": {
+			"total": 4500
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "duq"
+		},
+		"speakers": {
+			"total": 4500
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "baj"
+		},
+		"speakers": {
+			"total": 4450
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "amn"
+		},
+		"speakers": {
+			"total": 4400
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "sks"
+		},
+		"speakers": {
+			"total": 4400
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "trg"
+		},
+		"speakers": {
+			"total": 4378
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "roo"
+		},
+		"speakers": {
+			"total": 4320
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mus"
+		},
+		"speakers": {
+			"total": 4300
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kbt"
+		},
+		"speakers": {
+			"total": 4300
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "scb"
+		},
+		"speakers": {
+			"total": 4279
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "nmn"
+		},
+		"speakers": {
+			"total": 4200
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "idb"
+		},
+		"speakers": {
+			"total": 4180
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "jih"
+		},
+		"speakers": {
+			"total": 4100
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "wuh"
+		},
+		"speakers": {
+			"total": 4000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kbh"
+		},
+		"speakers": {
+			"total": 4000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "paq"
+		},
+		"speakers": {
+			"total": 4000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ckh"
+		},
+		"speakers": {
+			"total": 4000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "yuy"
+		},
+		"speakers": {
+			"total": 4000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ror"
+		},
+		"speakers": {
+			"total": 4000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "pss"
+		},
+		"speakers": {
+			"total": 4000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "cpc"
+		},
+		"speakers": {
+			"total": 4000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kpc"
+		},
+		"speakers": {
+			"total": 4000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "pjt"
+		},
+		"speakers": {
+			"total": 4000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "plg"
+		},
+		"speakers": {
+			"total": 4000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "xhe"
+		},
+		"speakers": {
+			"total": 4000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "yah"
+		},
+		"speakers": {
+			"total": 4000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "tge"
+		},
+		"speakers": {
+			"total": 3980
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "cul"
+		},
+		"speakers": {
+			"total": 3900
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bbz"
+		},
+		"speakers": {
+			"total": 3900
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "byh"
+		},
+		"speakers": {
+			"total": 3900
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "sja"
+		},
+		"speakers": {
+			"total": 3802
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "tao"
+		},
+		"speakers": {
+			"total": 3800
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "sir"
+		},
+		"speakers": {
+			"total": 3800
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kte"
+		},
+		"speakers": {
+			"total": 3776
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mnj"
+		},
+		"speakers": {
+			"total": 3770
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "dba"
+		},
+		"speakers": {
+			"total": 3500
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "pbh"
+		},
+		"speakers": {
+			"total": 3500
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "sui"
+		},
+		"speakers": {
+			"total": 3500
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "nhg"
+		},
+		"speakers": {
+			"total": 3500
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mxe"
+		},
+		"speakers": {
+			"total": 3500
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "saj"
+		},
+		"speakers": {
+			"total": 3500
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "moh"
+		},
+		"speakers": {
+			"total": 3500
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kpy"
+		},
+		"speakers": {
+			"total": 3500
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bbl"
+		},
+		"speakers": {
+			"total": 3420
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "shd"
+		},
+		"speakers": {
+			"total": 3371
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "tkp"
+		},
+		"speakers": {
+			"total": 3324
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "tkl"
+		},
+		"speakers": {
+			"total": 3300
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "hul"
+		},
+		"speakers": {
+			"total": 3240
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bls"
+		},
+		"speakers": {
+			"total": 3200
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kxa"
+		},
+		"speakers": {
+			"total": 3200
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "lud"
+		},
+		"speakers": {
+			"total": 3000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "wrx"
+		},
+		"speakers": {
+			"total": 3000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "pui"
+		},
+		"speakers": {
+			"total": 3000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "pwg"
+		},
+		"speakers": {
+			"total": 3000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "tow"
+		},
+		"speakers": {
+			"total": 3000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "sqk"
+		},
+		"speakers": {
+			"total": 3000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "adn"
+		},
+		"speakers": {
+			"total": 3000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "auj"
+		},
+		"speakers": {
+			"total": 3000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ahh"
+		},
+		"speakers": {
+			"total": 3000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "scw"
+		},
+		"speakers": {
+			"total": 3000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "abp"
+		},
+		"speakers": {
+			"total": 3000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "moc"
+		},
+		"speakers": {
+			"total": 3000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kgr"
+		},
+		"speakers": {
+			"total": 3000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "cro"
+		},
+		"speakers": {
+			"total": 3000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "nsy"
+		},
+		"speakers": {
+			"total": 3000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "tfr"
+		},
+		"speakers": {
+			"total": 3000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mte"
+		},
+		"speakers": {
+			"total": 2940
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "huu"
+		},
+		"speakers": {
+			"total": 2900
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "cui"
+		},
+		"speakers": {
+			"total": 2900
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "gzn"
+		},
+		"speakers": {
+			"total": 2900
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "sws"
+		},
+		"speakers": {
+			"total": 2839
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "cjs"
+		},
+		"speakers": {
+			"total": 2839
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "vmm"
+		},
+		"speakers": {
+			"total": 2800
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "pln"
+		},
+		"speakers": {
+			"total": 2788
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "djr"
+		},
+		"speakers": {
+			"total": 2766
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mgn"
+		},
+		"speakers": {
+			"total": 2750
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kvv"
+		},
+		"speakers": {
+			"total": 2750
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "yaa"
+		},
+		"speakers": {
+			"total": 2729
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bbh"
+		},
+		"speakers": {
+			"total": 2700
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "yuz"
+		},
+		"speakers": {
+			"total": 2700
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mue"
+		},
+		"speakers": {
+			"total": 2600
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "gvc"
+		},
+		"speakers": {
+			"total": 2600
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mbq"
+		},
+		"speakers": {
+			"total": 2600
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "aah"
+		},
+		"speakers": {
+			"total": 2560
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "wbp"
+		},
+		"speakers": {
+			"total": 2507
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "dlk"
+		},
+		"speakers": {
+			"total": 2500
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "wpc"
+		},
+		"speakers": {
+			"total": 2500
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "agv"
+		},
+		"speakers": {
+			"total": 2500
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "arw"
+		},
+		"speakers": {
+			"total": 2500
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ktc"
+		},
+		"speakers": {
+			"total": 2500
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "zav"
+		},
+		"speakers": {
+			"total": 2500
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bnd"
+		},
+		"speakers": {
+			"total": 2486
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "alq"
+		},
+		"speakers": {
+			"total": 2430
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "cax"
+		},
+		"speakers": {
+			"total": 2400
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "chy"
+		},
+		"speakers": {
+			"total": 2400
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "boa"
+		},
+		"speakers": {
+			"total": 2400
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "klw"
+		},
+		"speakers": {
+			"total": 2400
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "apz"
+		},
+		"speakers": {
+			"total": 2390
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "cof"
+		},
+		"speakers": {
+			"total": 2300
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "zrn"
+		},
+		"speakers": {
+			"total": 2240
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "uve"
+		},
+		"speakers": {
+			"total": 2200
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mcm"
+		},
+		"speakers": {
+			"total": 2200
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mcf"
+		},
+		"speakers": {
+			"total": 2200
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ddi"
+		},
+		"speakers": {
+			"total": 2200
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ayo"
+		},
+		"speakers": {
+			"total": 2189
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "alj"
+		},
+		"speakers": {
+			"total": 2150
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "var"
+		},
+		"speakers": {
+			"total": 2136
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "den"
+		},
+		"speakers": {
+			"total": 2120
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "coe"
+		},
+		"speakers": {
+			"total": 2100
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "tri"
+		},
+		"speakers": {
+			"total": 2100
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "tsu"
+		},
+		"speakers": {
+			"total": 2100
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "tiw"
+		},
+		"speakers": {
+			"total": 2040
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mdf"
+		},
+		"speakers": {
+			"total": 2025
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "une"
+		},
+		"speakers": {
+			"total": 2023
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "tsd"
+		},
+		"speakers": {
+			"total": 2000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "tez"
+		},
+		"speakers": {
+			"total": 2000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "lkt"
+		},
+		"speakers": {
+			"total": 2000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ceg"
+		},
+		"speakers": {
+			"total": 2000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kyj"
+		},
+		"speakers": {
+			"total": 2000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ovd"
+		},
+		"speakers": {
+			"total": 2000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "fkv"
+		},
+		"speakers": {
+			"total": 2000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "nll"
+		},
+		"speakers": {
+			"total": 2000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "tgd"
+		},
+		"speakers": {
+			"total": 2000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kvo"
+		},
+		"speakers": {
+			"total": 2000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kyd"
+		},
+		"speakers": {
+			"total": 2000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "jmb"
+		},
+		"speakers": {
+			"total": 2000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kil"
+		},
+		"speakers": {
+			"total": 2000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "lsl"
+		},
+		"speakers": {
+			"total": 2000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "smj"
+		},
+		"speakers": {
+			"total": 2000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "sru"
+		},
+		"speakers": {
+			"total": 2000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "jbe"
+		},
+		"speakers": {
+			"total": 2000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "pav"
+		},
+		"speakers": {
+			"total": 1930
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bsn"
+		},
+		"speakers": {
+			"total": 1900
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mhn"
+		},
+		"speakers": {
+			"total": 1900
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mbp"
+		},
+		"speakers": {
+			"total": 1850
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "slu"
+		},
+		"speakers": {
+			"total": 1823
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "pab"
+		},
+		"speakers": {
+			"total": 1800
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ams"
+		},
+		"speakers": {
+			"total": 1800
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "cap"
+		},
+		"speakers": {
+			"total": 1800
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "tna"
+		},
+		"speakers": {
+			"total": 1800
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ycn"
+		},
+		"speakers": {
+			"total": 1800
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ess"
+		},
+		"speakers": {
+			"total": 1800
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "lvk"
+		},
+		"speakers": {
+			"total": 1783
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "khv"
+		},
+		"speakers": {
+			"total": 1740
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "dgr"
+		},
+		"speakers": {
+			"total": 1735
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kmv"
+		},
+		"speakers": {
+			"total": 1726
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "hto"
+		},
+		"speakers": {
+			"total": 1705
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "gup"
+		},
+		"speakers": {
+			"total": 1702
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "way"
+		},
+		"speakers": {
+			"total": 1700
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "jup"
+		},
+		"speakers": {
+			"total": 1700
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "con"
+		},
+		"speakers": {
+			"total": 1700
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "jal"
+		},
+		"speakers": {
+			"total": 1700
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "knm"
+		},
+		"speakers": {
+			"total": 1650
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "auc"
+		},
+		"speakers": {
+			"total": 1650
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "vep"
+		},
+		"speakers": {
+			"total": 1640
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "nib"
+		},
+		"speakers": {
+			"total": 1600
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kbc"
+		},
+		"speakers": {
+			"total": 1590
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "irx"
+		},
+		"speakers": {
+			"total": 1570
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "syw"
+		},
+		"speakers": {
+			"total": 1500
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "eso"
+		},
+		"speakers": {
+			"total": 1500
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "vay"
+		},
+		"speakers": {
+			"total": 1500
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "jkr"
+		},
+		"speakers": {
+			"total": 1500
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "slc"
+		},
+		"speakers": {
+			"total": 1500
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "tee"
+		},
+		"speakers": {
+			"total": 1500
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "cbn"
+		},
+		"speakers": {
+			"total": 1500
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "amp"
+		},
+		"speakers": {
+			"total": 1500
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "pnh"
+		},
+		"speakers": {
+			"total": 1500
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "tlv"
+		},
+		"speakers": {
+			"total": 1500
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kva"
+		},
+		"speakers": {
+			"total": 1450
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bor"
+		},
+		"speakers": {
+			"total": 1400
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "xns"
+		},
+		"speakers": {
+			"total": 1400
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "naz"
+		},
+		"speakers": {
+			"total": 1400
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "gld"
+		},
+		"speakers": {
+			"total": 1390
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kei"
+		},
+		"speakers": {
+			"total": 1360
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "amv"
+		},
+		"speakers": {
+			"total": 1347
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "sny"
+		},
+		"speakers": {
+			"total": 1300
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "pfa"
+		},
+		"speakers": {
+			"total": 1300
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ppl"
+		},
+		"speakers": {
+			"total": 1300
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "aoi"
+		},
+		"speakers": {
+			"total": 1283
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "crx"
+		},
+		"speakers": {
+			"total": 1270
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ket"
+		},
+		"speakers": {
+			"total": 1225
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "yui"
+		},
+		"speakers": {
+			"total": 1200
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "orh"
+		},
+		"speakers": {
+			"total": 1200
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "cbr"
+		},
+		"speakers": {
+			"total": 1200
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "cbs"
+		},
+		"speakers": {
+			"total": 1200
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mqz"
+		},
+		"speakers": {
+			"total": 1200
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kud"
+		},
+		"speakers": {
+			"total": 1200
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mwc"
+		},
+		"speakers": {
+			"total": 1200
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "sey"
+		},
+		"speakers": {
+			"total": 1200
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "zsu"
+		},
+		"speakers": {
+			"total": 1160
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "piv"
+		},
+		"speakers": {
+			"total": 1142
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "cbu"
+		},
+		"speakers": {
+			"total": 1120
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "jaa"
+		},
+		"speakers": {
+			"total": 1080
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bvr"
+		},
+		"speakers": {
+			"total": 1070
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "oia"
+		},
+		"speakers": {
+			"total": 1049
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "myy"
+		},
+		"speakers": {
+			"total": 1032
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "sel"
+		},
+		"speakers": {
+			"total": 1023
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "srw"
+		},
+		"speakers": {
+			"total": 1013
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "wno"
+		},
+		"speakers": {
+			"total": 1000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "tia"
+		},
+		"speakers": {
+			"total": 1000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "guo"
+		},
+		"speakers": {
+			"total": 1000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kxs"
+		},
+		"speakers": {
+			"total": 1000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "shh"
+		},
+		"speakers": {
+			"total": 1000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kjj"
+		},
+		"speakers": {
+			"total": 1000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ktl"
+		},
+		"speakers": {
+			"total": 1000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kui"
+		},
+		"speakers": {
+			"total": 1000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kvy"
+		},
+		"speakers": {
+			"total": 1000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "air"
+		},
+		"speakers": {
+			"total": 1000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "loj"
+		},
+		"speakers": {
+			"total": 1000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "tak"
+		},
+		"speakers": {
+			"total": 1000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "abo"
+		},
+		"speakers": {
+			"total": 1000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "goe"
+		},
+		"speakers": {
+			"total": 1000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "psd"
+		},
+		"speakers": {
+			"total": 1000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "arp"
+		},
+		"speakers": {
+			"total": 1000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "huz"
+		},
+		"speakers": {
+			"total": 1000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "stq"
+		},
+		"speakers": {
+			"total": 1000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ruo"
+		},
+		"speakers": {
+			"total": 1000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "trm"
+		},
+		"speakers": {
+			"total": 1000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ist"
+		},
+		"speakers": {
+			"total": 1000
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "aqc"
+		},
+		"speakers": {
+			"total": 970
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "szy"
+		},
+		"speakers": {
+			"total": 958
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mwp"
+		},
+		"speakers": {
+			"total": 957
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bkq"
+		},
+		"speakers": {
+			"total": 950
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mns"
+		},
+		"speakers": {
+			"total": 938
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "git"
+		},
+		"speakers": {
+			"total": 930
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "com"
+		},
+		"speakers": {
+			"total": 915
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mpr"
+		},
+		"speakers": {
+			"total": 910
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "yau"
+		},
+		"speakers": {
+			"total": 900
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "wut"
+		},
+		"speakers": {
+			"total": 900
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "lcd"
+		},
+		"speakers": {
+			"total": 900
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "sei"
+		},
+		"speakers": {
+			"total": 900
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "clc"
+		},
+		"speakers": {
+			"total": 860
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "tli"
+		},
+		"speakers": {
+			"total": 845
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ilu"
+		},
+		"speakers": {
+			"total": 842
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mbr"
+		},
+		"speakers": {
+			"total": 831
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "vkp"
+		},
+		"speakers": {
+			"total": 800
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "tkw"
+		},
+		"speakers": {
+			"total": 800
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "anz"
+		},
+		"speakers": {
+			"total": 800
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "twf"
+		},
+		"speakers": {
+			"total": 800
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "drn"
+		},
+		"speakers": {
+			"total": 800
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "hts"
+		},
+		"speakers": {
+			"total": 800
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "jct"
+		},
+		"speakers": {
+			"total": 785
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kky"
+		},
+		"speakers": {
+			"total": 780
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "pid"
+		},
+		"speakers": {
+			"total": 773
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "xok"
+		},
+		"speakers": {
+			"total": 760
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "gdm"
+		},
+		"speakers": {
+			"total": 749
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "rma"
+		},
+		"speakers": {
+			"total": 740
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "dny"
+		},
+		"speakers": {
+			"total": 740
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ulc"
+		},
+		"speakers": {
+			"total": 732
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "crg"
+		},
+		"speakers": {
+			"total": 730
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "neg"
+		},
+		"speakers": {
+			"total": 730
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "nab"
+		},
+		"speakers": {
+			"total": 720
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "knt"
+		},
+		"speakers": {
+			"total": 700
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ese"
+		},
+		"speakers": {
+			"total": 700
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "goo"
+		},
+		"speakers": {
+			"total": 690
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "gwi"
+		},
+		"speakers": {
+			"total": 670
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "apy"
+		},
+		"speakers": {
+			"total": 650
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "gae"
+		},
+		"speakers": {
+			"total": 650
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ncg"
+		},
+		"speakers": {
+			"total": 610
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kdd"
+		},
+		"speakers": {
+			"total": 600
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kay"
+		},
+		"speakers": {
+			"total": 600
+		}
+	},
+	{
+		"codes": {
+			"iso639_1": "kw",
+			"iso639_3": "cor"
+		},
+		"speakers": {
+			"total": 600
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "yha"
+		},
+		"speakers": {
+			"total": 600
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "cao"
+		},
+		"speakers": {
+			"total": 600
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "hix"
+		},
+		"speakers": {
+			"total": 600
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "zsa"
+		},
+		"speakers": {
+			"total": 600
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "sma"
+		},
+		"speakers": {
+			"total": 600
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "nce"
+		},
+		"speakers": {
+			"total": 600
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "isk"
+		},
+		"speakers": {
+			"total": 600
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "nil"
+		},
+		"speakers": {
+			"total": 600
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "pyy"
+		},
+		"speakers": {
+			"total": 600
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mll"
+		},
+		"speakers": {
+			"total": 600
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "sov"
+		},
+		"speakers": {
+			"total": 600
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "pqm"
+		},
+		"speakers": {
+			"total": 590
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "unk"
+		},
+		"speakers": {
+			"total": 570
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "tue"
+		},
+		"speakers": {
+			"total": 570
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "snn"
+		},
+		"speakers": {
+			"total": 550
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "esy"
+		},
+		"speakers": {
+			"total": 550
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "pih"
+		},
+		"speakers": {
+			"total": 532
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kkk"
+		},
+		"speakers": {
+			"total": 530
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "aca"
+		},
+		"speakers": {
+			"total": 514
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mbn"
+		},
+		"speakers": {
+			"total": 513
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "txi"
+		},
+		"speakers": {
+			"total": 500
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "jic"
+		},
+		"speakers": {
+			"total": 500
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "cot"
+		},
+		"speakers": {
+			"total": 500
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kwk"
+		},
+		"speakers": {
+			"total": 500
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "cji"
+		},
+		"speakers": {
+			"total": 500
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "tsy"
+		},
+		"speakers": {
+			"total": 500
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bao"
+		},
+		"speakers": {
+			"total": 500
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "sjd"
+		},
+		"speakers": {
+			"total": 500
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "amr"
+		},
+		"speakers": {
+			"total": 500
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "cbc"
+		},
+		"speakers": {
+			"total": 482
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "jmw"
+		},
+		"speakers": {
+			"total": 450
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "pkp"
+		},
+		"speakers": {
+			"total": 450
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ems"
+		},
+		"speakers": {
+			"total": 450
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "jqr"
+		},
+		"speakers": {
+			"total": 448
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "thp"
+		},
+		"speakers": {
+			"total": 440
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "yro"
+		},
+		"speakers": {
+			"total": 430
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "sms"
+		},
+		"speakers": {
+			"total": 420
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "yoi"
+		},
+		"speakers": {
+			"total": 400
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "eme"
+		},
+		"speakers": {
+			"total": 400
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "tav"
+		},
+		"speakers": {
+			"total": 400
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "srq"
+		},
+		"speakers": {
+			"total": 400
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "zem"
+		},
+		"speakers": {
+			"total": 400
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "cim"
+		},
+		"speakers": {
+			"total": 400
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bxd"
+		},
+		"speakers": {
+			"total": 400
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "sbf"
+		},
+		"speakers": {
+			"total": 400
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "yab"
+		},
+		"speakers": {
+			"total": 400
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "dmr"
+		},
+		"speakers": {
+			"total": 400
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bxq"
+		},
+		"speakers": {
+			"total": 400
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "dal"
+		},
+		"speakers": {
+			"total": 400
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "myp"
+		},
+		"speakers": {
+			"total": 389
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "gvn"
+		},
+		"speakers": {
+			"total": 388
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "yij"
+		},
+		"speakers": {
+			"total": 377
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mph"
+		},
+		"speakers": {
+			"total": 371
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "cku"
+		},
+		"speakers": {
+			"total": 370
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mbj"
+		},
+		"speakers": {
+			"total": 370
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ano"
+		},
+		"speakers": {
+			"total": 370
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "suy"
+		},
+		"speakers": {
+			"total": 350
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "auw"
+		},
+		"speakers": {
+			"total": 350
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kzd"
+		},
+		"speakers": {
+			"total": 350
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "sjt"
+		},
+		"speakers": {
+			"total": 350
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "wmd"
+		},
+		"speakers": {
+			"total": 340
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "aap"
+		},
+		"speakers": {
+			"total": 340
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "lnn"
+		},
+		"speakers": {
+			"total": 340
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mpq"
+		},
+		"speakers": {
+			"total": 320
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "wau"
+		},
+		"speakers": {
+			"total": 320
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kmq"
+		},
+		"speakers": {
+			"total": 319
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "dhg"
+		},
+		"speakers": {
+			"total": 310
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "btn"
+		},
+		"speakers": {
+			"total": 310
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "amc"
+		},
+		"speakers": {
+			"total": 310
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "nhv"
+		},
+		"speakers": {
+			"total": 310
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ctz"
+		},
+		"speakers": {
+			"total": 300
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "koy"
+		},
+		"speakers": {
+			"total": 300
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bsa"
+		},
+		"speakers": {
+			"total": 300
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "tnc"
+		},
+		"speakers": {
+			"total": 300
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ved"
+		},
+		"speakers": {
+			"total": 300
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "yee"
+		},
+		"speakers": {
+			"total": 300
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "tip"
+		},
+		"speakers": {
+			"total": 300
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "smn"
+		},
+		"speakers": {
+			"total": 300
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "pad"
+		},
+		"speakers": {
+			"total": 290
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "rmh"
+		},
+		"speakers": {
+			"total": 290
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "aag"
+		},
+		"speakers": {
+			"total": 290
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "jur"
+		},
+		"speakers": {
+			"total": 280
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "cbb"
+		},
+		"speakers": {
+			"total": 270
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ktx"
+		},
+		"speakers": {
+			"total": 270
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "oac"
+		},
+		"speakers": {
+			"total": 257
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "cbv"
+		},
+		"speakers": {
+			"total": 250
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "rey"
+		},
+		"speakers": {
+			"total": 250
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "cox"
+		},
+		"speakers": {
+			"total": 250
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "cod"
+		},
+		"speakers": {
+			"total": 250
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "sac"
+		},
+		"speakers": {
+			"total": 250
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "gnn"
+		},
+		"speakers": {
+			"total": 240
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "nys"
+		},
+		"speakers": {
+			"total": 232
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mmh"
+		},
+		"speakers": {
+			"total": 230
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "cih"
+		},
+		"speakers": {
+			"total": 220
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "sri"
+		},
+		"speakers": {
+			"total": 220
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mmp"
+		},
+		"speakers": {
+			"total": 220
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kis"
+		},
+		"speakers": {
+			"total": 220
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "akv"
+		},
+		"speakers": {
+			"total": 210
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bph"
+		},
+		"speakers": {
+			"total": 210
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "arr"
+		},
+		"speakers": {
+			"total": 210
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ngr"
+		},
+		"speakers": {
+			"total": 210
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "xjb"
+		},
+		"speakers": {
+			"total": 208
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "zen"
+		},
+		"speakers": {
+			"total": 200
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ure"
+		},
+		"speakers": {
+			"total": 200
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ale"
+		},
+		"speakers": {
+			"total": 200
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bdk"
+		},
+		"speakers": {
+			"total": 200
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "tba"
+		},
+		"speakers": {
+			"total": 200
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "lnb"
+		},
+		"speakers": {
+			"total": 200
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "afs"
+		},
+		"speakers": {
+			"total": 200
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "rac"
+		},
+		"speakers": {
+			"total": 200
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "wrm"
+		},
+		"speakers": {
+			"total": 200
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "tno"
+		},
+		"speakers": {
+			"total": 200
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "atw"
+		},
+		"speakers": {
+			"total": 200
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "aaf"
+		},
+		"speakers": {
+			"total": 200
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "itk"
+		},
+		"speakers": {
+			"total": 200
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "niv"
+		},
+		"speakers": {
+			"total": 198
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "oca"
+		},
+		"speakers": {
+			"total": 190
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mik"
+		},
+		"speakers": {
+			"total": 190
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mmm"
+		},
+		"speakers": {
+			"total": 180
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bcr"
+		},
+		"speakers": {
+			"total": 175
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "awe"
+		},
+		"speakers": {
+			"total": 170
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ukg"
+		},
+		"speakers": {
+			"total": 170
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "gia"
+		},
+		"speakers": {
+			"total": 169
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bea"
+		},
+		"speakers": {
+			"total": 160
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mep"
+		},
+		"speakers": {
+			"total": 156
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "cby"
+		},
+		"speakers": {
+			"total": 150
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bmr"
+		},
+		"speakers": {
+			"total": 150
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "vis"
+		},
+		"speakers": {
+			"total": 150
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kwa"
+		},
+		"speakers": {
+			"total": 142
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "acy"
+		},
+		"speakers": {
+			"total": 140
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "swx"
+		},
+		"speakers": {
+			"total": 140
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "tbp"
+		},
+		"speakers": {
+			"total": 140
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "gdo"
+		},
+		"speakers": {
+			"total": 130
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kww"
+		},
+		"speakers": {
+			"total": 130
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "nio"
+		},
+		"speakers": {
+			"total": 125
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "irn"
+		},
+		"speakers": {
+			"total": 125
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "izh"
+		},
+		"speakers": {
+			"total": 120
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "tpy"
+		},
+		"speakers": {
+			"total": 120
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ili"
+		},
+		"speakers": {
+			"total": 120
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "drl"
+		},
+		"speakers": {
+			"total": 110
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bck"
+		},
+		"speakers": {
+			"total": 110
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "str"
+		},
+		"speakers": {
+			"total": 105
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ude"
+		},
+		"speakers": {
+			"total": 103
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "sju"
+		},
+		"speakers": {
+			"total": 100
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "pre"
+		},
+		"speakers": {
+			"total": 100
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "uln"
+		},
+		"speakers": {
+			"total": 100
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kut"
+		},
+		"speakers": {
+			"total": 100
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "see"
+		},
+		"speakers": {
+			"total": 100
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "tau"
+		},
+		"speakers": {
+			"total": 100
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ukq"
+		},
+		"speakers": {
+			"total": 100
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "pby"
+		},
+		"speakers": {
+			"total": 100
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "tae"
+		},
+		"speakers": {
+			"total": 100
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "gni"
+		},
+		"speakers": {
+			"total": 100
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "hux"
+		},
+		"speakers": {
+			"total": 100
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "akz"
+		},
+		"speakers": {
+			"total": 100
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "nez"
+		},
+		"speakers": {
+			"total": 100
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kim"
+		},
+		"speakers": {
+			"total": 93
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "dmw"
+		},
+		"speakers": {
+			"total": 92
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "jru"
+		},
+		"speakers": {
+			"total": 91
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "hai"
+		},
+		"speakers": {
+			"total": 90
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kgs"
+		},
+		"speakers": {
+			"total": 90
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "hei"
+		},
+		"speakers": {
+			"total": 90
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "itl"
+		},
+		"speakers": {
+			"total": 82
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "isc"
+		},
+		"speakers": {
+			"total": 82
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "aro"
+		},
+		"speakers": {
+			"total": 81
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kdr"
+		},
+		"speakers": {
+			"total": 80
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "aht"
+		},
+		"speakers": {
+			"total": 80
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "cic"
+		},
+		"speakers": {
+			"total": 75
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "tfn"
+		},
+		"speakers": {
+			"total": 75
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ehs"
+		},
+		"speakers": {
+			"total": 70
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ore"
+		},
+		"speakers": {
+			"total": 70
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ckv"
+		},
+		"speakers": {
+			"total": 70
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "auq"
+		},
+		"speakers": {
+			"total": 70
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "wym"
+		},
+		"speakers": {
+			"total": 70
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "vot"
+		},
+		"speakers": {
+			"total": 62
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "gge"
+		},
+		"speakers": {
+			"total": 60
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "cuj"
+		},
+		"speakers": {
+			"total": 60
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "yag"
+		},
+		"speakers": {
+			"total": 60
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "nck"
+		},
+		"speakers": {
+			"total": 58
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "one"
+		},
+		"speakers": {
+			"total": 55
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "cay"
+		},
+		"speakers": {
+			"total": 55
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "xwa"
+		},
+		"speakers": {
+			"total": 54
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "yii"
+		},
+		"speakers": {
+			"total": 52
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mzs"
+		},
+		"speakers": {
+			"total": 50
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "teu"
+		},
+		"speakers": {
+			"total": 50
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "aac"
+		},
+		"speakers": {
+			"total": 50
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mok"
+		},
+		"speakers": {
+			"total": 50
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "sgu"
+		},
+		"speakers": {
+			"total": 50
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "arl"
+		},
+		"speakers": {
+			"total": 50
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "sje"
+		},
+		"speakers": {
+			"total": 50
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "yux"
+		},
+		"speakers": {
+			"total": 50
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "brd"
+		},
+		"speakers": {
+			"total": 50
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ynk"
+		},
+		"speakers": {
+			"total": 50
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "prg"
+		},
+		"speakers": {
+			"total": 50
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "oaa"
+		},
+		"speakers": {
+			"total": 47
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kju"
+		},
+		"speakers": {
+			"total": 45
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bpl"
+		},
+		"speakers": {
+			"total": 45
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "clw"
+		},
+		"speakers": {
+			"total": 44
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ono"
+		},
+		"speakers": {
+			"total": 40
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "coo"
+		},
+		"speakers": {
+			"total": 40
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "alr"
+		},
+		"speakers": {
+			"total": 40
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ykg"
+		},
+		"speakers": {
+			"total": 40
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ing"
+		},
+		"speakers": {
+			"total": 40
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mrc"
+		},
+		"speakers": {
+			"total": 35
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mez"
+		},
+		"speakers": {
+			"total": 35
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "qvp"
+		},
+		"speakers": {
+			"total": 35
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ibu"
+		},
+		"speakers": {
+			"total": 35
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "iqu"
+		},
+		"speakers": {
+			"total": 35
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "xpk"
+		},
+		"speakers": {
+			"total": 32
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "jeb"
+		},
+		"speakers": {
+			"total": 30
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "amy"
+		},
+		"speakers": {
+			"total": 30
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "pmn"
+		},
+		"speakers": {
+			"total": 30
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ywr"
+		},
+		"speakers": {
+			"total": 30
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "zmt"
+		},
+		"speakers": {
+			"total": 30
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "jmd"
+		},
+		"speakers": {
+			"total": 30
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "xor"
+		},
+		"speakers": {
+			"total": 27
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "agu"
+		},
+		"speakers": {
+			"total": 27
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "uma"
+		},
+		"speakers": {
+			"total": 25
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "zma"
+		},
+		"speakers": {
+			"total": 25
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "was"
+		},
+		"speakers": {
+			"total": 20
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kio"
+		},
+		"speakers": {
+			"total": 20
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mnc"
+		},
+		"speakers": {
+			"total": 20
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "tni"
+		},
+		"speakers": {
+			"total": 20
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mfr"
+		},
+		"speakers": {
+			"total": 20
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "zmd"
+		},
+		"speakers": {
+			"total": 20
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "zmy"
+		},
+		"speakers": {
+			"total": 20
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "yar"
+		},
+		"speakers": {
+			"total": 20
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "zmj"
+		},
+		"speakers": {
+			"total": 20
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "haa"
+		},
+		"speakers": {
+			"total": 19
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "taa"
+		},
+		"speakers": {
+			"total": 15
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "zmr"
+		},
+		"speakers": {
+			"total": 15
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "zmm"
+		},
+		"speakers": {
+			"total": 15
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "abe"
+		},
+		"speakers": {
+			"total": 14
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "alh"
+		},
+		"speakers": {
+			"total": 12
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bxe"
+		},
+		"speakers": {
+			"total": 12
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kyh"
+		},
+		"speakers": {
+			"total": 12
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mcg"
+		},
+		"speakers": {
+			"total": 12
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "csm"
+		},
+		"speakers": {
+			"total": 12
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "alc"
+		},
+		"speakers": {
+			"total": 12
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "lio"
+		},
+		"speakers": {
+			"total": 11
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mud"
+		},
+		"speakers": {
+			"total": 11
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "cbd"
+		},
+		"speakers": {
+			"total": 10
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "yhs"
+		},
+		"speakers": {
+			"total": 10
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "sxr"
+		},
+		"speakers": {
+			"total": 10
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "tpv"
+		},
+		"speakers": {
+			"total": 10
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "enf"
+		},
+		"speakers": {
+			"total": 10
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ltn"
+		},
+		"speakers": {
+			"total": 10
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "scq"
+		},
+		"speakers": {
+			"total": 10
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ain"
+		},
+		"speakers": {
+			"total": 10
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "xat"
+		},
+		"speakers": {
+			"total": 10
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ats"
+		},
+		"speakers": {
+			"total": 10
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "nju"
+		},
+		"speakers": {
+			"total": 10
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "pnk"
+		},
+		"speakers": {
+			"total": 10
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ari"
+		},
+		"speakers": {
+			"total": 10
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "gyd"
+		},
+		"speakers": {
+			"total": 8
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "dbl"
+		},
+		"speakers": {
+			"total": 8
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "yaw"
+		},
+		"speakers": {
+			"total": 8
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "jus"
+		},
+		"speakers": {
+			"total": 8
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "hup"
+		},
+		"speakers": {
+			"total": 8
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "kgg"
+		},
+		"speakers": {
+			"total": 7
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "btj"
+		},
+		"speakers": {
+			"total": 6
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "chl"
+		},
+		"speakers": {
+			"total": 6
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "atx"
+		},
+		"speakers": {
+			"total": 5
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "orw"
+		},
+		"speakers": {
+			"total": 5
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "gin"
+		},
+		"speakers": {
+			"total": 5
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "wdj"
+		},
+		"speakers": {
+			"total": 5
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "abg"
+		},
+		"speakers": {
+			"total": 5
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "wnw"
+		},
+		"speakers": {
+			"total": 5
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "xnb"
+		},
+		"speakers": {
+			"total": 4
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "tnx"
+		},
+		"speakers": {
+			"total": 4
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "crd"
+		},
+		"speakers": {
+			"total": 4
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "gta"
+		},
+		"speakers": {
+			"total": 4
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bdn"
+		},
+		"speakers": {
+			"total": 4
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "inp"
+		},
+		"speakers": {
+			"total": 4
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "zoq"
+		},
+		"speakers": {
+			"total": 4
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "bdz"
+		},
+		"speakers": {
+			"total": 3
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "zmg"
+		},
+		"speakers": {
+			"total": 3
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "sae"
+		},
+		"speakers": {
+			"total": 3
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ngh"
+		},
+		"speakers": {
+			"total": 3
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "omg"
+		},
+		"speakers": {
+			"total": 2
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "mzx"
+		},
+		"speakers": {
+			"total": 2
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "noj"
+		},
+		"speakers": {
+			"total": 2
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ccc"
+		},
+		"speakers": {
+			"total": 2
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "tgx"
+		},
+		"speakers": {
+			"total": 2
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "rgr"
+		},
+		"speakers": {
+			"total": 1
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "squ"
+		},
+		"speakers": {
+			"total": 1
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "tit"
+		},
+		"speakers": {
+			"total": 1
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ito"
+		},
+		"speakers": {
+			"total": 1
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "trr"
+		},
+		"speakers": {
+			"total": 1
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "chn"
+		},
+		"speakers": {
+			"total": 1
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "ako"
+		},
+		"speakers": {
+			"total": 0
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "clm"
+		},
+		"speakers": {
+			"total": 0
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "dhx"
+		},
+		"speakers": {
+			"total": 0
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "pzh"
+		},
+		"speakers": {
+			"total": 0
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "amg"
+		},
+		"speakers": {
+			"total": 0
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "pmw"
+		},
+		"speakers": {
+			"total": 0
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "cah"
+		},
+		"speakers": {
+			"total": 0
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "osa"
+		},
+		"speakers": {
+			"total": 0
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "elo"
+		},
+		"speakers": {
+			"total": 0
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "paw"
+		},
+		"speakers": {
+			"total": 0
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "yej"
+		},
+		"speakers": {
+			"total": 0
+		}
+	},
+	{
+		"codes": {
+			"iso639_3": "gbu"
+		},
+		"speakers": {
+			"total": 0
+		}
+	}
+]

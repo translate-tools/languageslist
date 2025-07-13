@@ -49,5 +49,8 @@
 		"typescript": "^5.8.3",
 		"typescript-eslint": "^8.36.0",
 		"vitest": "^3.2.4"
+	},
+	"dependencies": {
+		"zod": "^4.0.5"
 	}
 }
