@@ -78,6 +78,18 @@ export default tseslint.config(
 
 			'no-use-before-define': 'off',
 			'@typescript-eslint/no-use-before-define': 'error',
+			"@typescript-eslint/no-unused-vars": [
+				"error",
+				{
+					"args": "all",
+					"argsIgnorePattern": "^_",
+					"caughtErrors": "all",
+					"caughtErrorsIgnorePattern": "^_",
+					"destructuredArrayIgnorePattern": "^_",
+					"varsIgnorePattern": "^_",
+					"ignoreRestSiblings": true
+				}
+			],
 
 			camelcase: [
 				'error',
