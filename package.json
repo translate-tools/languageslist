@@ -1,0 +1,51 @@
+{
+	"name": "languageslist",
+	"version": "0.0.1",
+	"license": "MIT",
+	"author": "Robert Vitonsky <https://github.com/vitonsky>",
+	"homepage": "https://github.com/translate-tools/languageslist",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/translate-tools/languageslist"
+	},
+	"keywords": [],
+	"publishConfig": {
+		"access": "public"
+	},
+	"scripts": {
+		"test": "vitest",
+		"test:all": "TEST_TARGETS=all vitest",
+		"build": "rm -rf dist && gulp",
+		"release": "npm run build && cd dist && npm publish",
+		"prettify": "prettier --write \"{*,**/*}.{ts,tsx,js,jsx}\" && eslint --fix \"{*,**/*}.{ts,tsx,js,jsx}\"",
+		"lint": "prettier \"{*,**/*}.{ts,tsx,js,jsx}\" --check && eslint --max-warnings 0 \"{*,**/*}.{ts,tsx,js,jsx}\"",
+		"packages:upgrade": "npm-check-updates -u",
+		"prepare": "husky"
+	},
+	"devDependencies": {
+		"@commitlint/cli": "^19.8.1",
+		"@commitlint/config-conventional": "^19.8.1",
+		"@types/node": "^24.0.10",
+		"@typescript-eslint/eslint-plugin": "^8.35.1",
+		"@typescript-eslint/parser": "^8.35.1",
+		"del": "^8.0.0",
+		"eslint": "^8.57.1",
+		"eslint-config-prettier": "^10.1.5",
+		"eslint-import-resolver-typescript": "^4.4.4",
+		"eslint-plugin-import": "^2.32.0",
+		"eslint-plugin-simple-import-sort": "^12.1.1",
+		"eslint-plugin-unused-imports": "^4.1.4",
+		"gulp": "^5.0.1",
+		"gulp-clean-package": "^0.0.2",
+		"gulp-sourcemaps": "^2.6.5",
+		"gulp-typescript": "^6.0.0-alpha.1",
+		"husky": "^9.1.7",
+		"jsdom": "^26.1.0",
+		"lint-staged": "^16.1.2",
+		"merge-stream": "^2.0.0",
+		"npm-check-updates": "^18.0.1",
+		"prettier": "^3.6.2",
+		"typescript": "^5.8.3",
+		"vitest": "^3.2.4"
+	}
+}
