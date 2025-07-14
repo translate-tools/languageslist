@@ -1,4 +1,4 @@
-Languages and countries stats.
+Languages stats with ISO codes, speakers count, countries list and its population.
 
 This package is a part of [TranslateTools project](https://github.com/translate-tools).
 
@@ -343,7 +343,7 @@ Some details may be missed, it will be improved when data source will be updated
 
 # Roadmap
 
-- [ ] Find more data sources and enrich the data
-	- [ ] Find data source with information about methodology of data collection
-	- [ ] Find data source about language usage in regions
-- [ ] Implement query function to select languages by countries and regions lists
+- Find more data sources and enrich the data
+	- Find data source with information about methodology of data collection
+	- Find data source about language usage in regions
+- Implement query function to select languages by countries and regions lists, by territory size and by borders with another countries
