@@ -1,7 +1,7 @@
 {
 	"name": "langstats",
 	"description": "Languages stats with ISO codes, speakers count, countries list and its population",
-	"version": "0.1.0",
+	"version": "1.0.0",
 	"license": "MIT",
 	"author": "Robert Vitonsky <https://github.com/vitonsky>",
 	"homepage": "https://github.com/translate-tools/langstats",
