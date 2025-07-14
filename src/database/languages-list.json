@@ -365,8 +365,8 @@
   },
   {
     "codes": {
-      "iso639_1": "yo",
-      "iso639_3": "yor"
+      "iso639_1": "th",
+      "iso639_3": "tha"
     },
     "speakers": {
       "total": 40000000
@@ -374,8 +374,8 @@
   },
   {
     "codes": {
-      "iso639_1": "th",
-      "iso639_3": "tha"
+      "iso639_1": "yo",
+      "iso639_3": "yor"
     },
     "speakers": {
       "total": 40000000
@@ -400,7 +400,8 @@
   },
   {
     "codes": {
-      "iso639_3": "raj"
+      "iso639_1": "om",
+      "iso639_3": "orm"
     },
     "speakers": {
       "total": 36000000
@@ -408,8 +409,7 @@
   },
   {
     "codes": {
-      "iso639_1": "om",
-      "iso639_3": "orm"
+      "iso639_3": "raj"
     },
     "speakers": {
       "total": 36000000
@@ -504,8 +504,8 @@
   },
   {
     "codes": {
-      "iso639_1": "sd",
-      "iso639_3": "snd"
+      "iso639_1": "am",
+      "iso639_3": "amh"
     },
     "speakers": {
       "total": 25000000
@@ -513,8 +513,8 @@
   },
   {
     "codes": {
-      "iso639_1": "am",
-      "iso639_3": "amh"
+      "iso639_1": "sd",
+      "iso639_3": "snd"
     },
     "speakers": {
       "total": 25000000
@@ -728,15 +728,6 @@
   },
   {
     "codes": {
-      "iso639_1": "si",
-      "iso639_3": "sin"
-    },
-    "speakers": {
-      "total": 15300000
-    }
-  },
-  {
-    "codes": {
       "iso639_1": "as",
       "iso639_3": "asm"
     },
@@ -746,23 +737,16 @@
   },
   {
     "codes": {
+      "iso639_1": "si",
+      "iso639_3": "sin"
+    },
+    "speakers": {
+      "total": 15300000
+    }
+  },
+  {
+    "codes": {
       "iso639_3": "azb"
-    },
-    "speakers": {
-      "total": 15000000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "mad"
-    },
-    "speakers": {
-      "total": 15000000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "tts"
     },
     "speakers": {
       "total": 15000000
@@ -781,6 +765,22 @@
     "codes": {
       "iso639_1": "kr",
       "iso639_3": "kau"
+    },
+    "speakers": {
+      "total": 15000000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "mad"
+    },
+    "speakers": {
+      "total": 15000000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "tts"
     },
     "speakers": {
       "total": 15000000
@@ -812,8 +812,7 @@
   },
   {
     "codes": {
-      "iso639_1": "tg",
-      "iso639_3": "tgk"
+      "iso639_3": "bgc"
     },
     "speakers": {
       "total": 14000000
@@ -829,7 +828,8 @@
   },
   {
     "codes": {
-      "iso639_3": "bgc"
+      "iso639_1": "tg",
+      "iso639_3": "tgk"
     },
     "speakers": {
       "total": 14000000
@@ -922,7 +922,7 @@
   },
   {
     "codes": {
-      "iso639_3": "mnp"
+      "iso639_3": "aka"
     },
     "speakers": {
       "total": 11000000
@@ -930,7 +930,7 @@
   },
   {
     "codes": {
-      "iso639_3": "aka"
+      "iso639_3": "mnp"
     },
     "speakers": {
       "total": 11000000
@@ -999,7 +999,8 @@
   },
   {
     "codes": {
-      "iso639_3": "cdo"
+      "iso639_1": "af",
+      "iso639_3": "afr"
     },
     "speakers": {
       "total": 10300000
@@ -1007,8 +1008,7 @@
   },
   {
     "codes": {
-      "iso639_1": "af",
-      "iso639_3": "afr"
+      "iso639_3": "cdo"
     },
     "speakers": {
       "total": 10300000
@@ -1024,14 +1024,6 @@
   },
   {
     "codes": {
-      "iso639_3": "prs"
-    },
-    "speakers": {
-      "total": 9600000
-    }
-  },
-  {
-    "codes": {
       "iso639_3": "dhd"
     },
     "speakers": {
@@ -1042,6 +1034,14 @@
     "codes": {
       "iso639_1": "ht",
       "iso639_3": "hat"
+    },
+    "speakers": {
+      "total": 9600000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "prs"
     },
     "speakers": {
       "total": 9600000
@@ -1232,14 +1232,6 @@
   },
   {
     "codes": {
-      "iso639_3": "sck"
-    },
-    "speakers": {
-      "total": 7000000
-    }
-  },
-  {
-    "codes": {
       "iso639_1": "hr",
       "iso639_3": "hrv"
     },
@@ -1251,6 +1243,14 @@
     "codes": {
       "iso639_1": "mn",
       "iso639_3": "mon"
+    },
+    "speakers": {
+      "total": 7000000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "sck"
     },
     "speakers": {
       "total": 7000000
@@ -1326,24 +1326,16 @@
   },
   {
     "codes": {
-      "iso639_3": "lmn"
-    },
-    "speakers": {
-      "total": 6000000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "umb"
-    },
-    "speakers": {
-      "total": 6000000
-    }
-  },
-  {
-    "codes": {
       "iso639_1": "da",
       "iso639_3": "dan"
+    },
+    "speakers": {
+      "total": 6000000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "lmn"
     },
     "speakers": {
       "total": 6000000
@@ -1362,6 +1354,14 @@
     "codes": {
       "iso639_1": "st",
       "iso639_3": "sot"
+    },
+    "speakers": {
+      "total": 6000000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "umb"
     },
     "speakers": {
       "total": 6000000
@@ -1470,14 +1470,6 @@
   },
   {
     "codes": {
-      "iso639_3": "wtm"
-    },
-    "speakers": {
-      "total": 5000000
-    }
-  },
-  {
-    "codes": {
       "iso639_3": "mtr"
     },
     "speakers": {
@@ -1487,6 +1479,14 @@
   {
     "codes": {
       "iso639_3": "nds"
+    },
+    "speakers": {
+      "total": 5000000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "wtm"
     },
     "speakers": {
       "total": 5000000
@@ -1511,8 +1511,7 @@
   },
   {
     "codes": {
-      "iso639_1": "sg",
-      "iso639_3": "sag"
+      "iso639_3": "czh"
     },
     "speakers": {
       "total": 4600000
@@ -1520,7 +1519,8 @@
   },
   {
     "codes": {
-      "iso639_3": "czh"
+      "iso639_1": "sg",
+      "iso639_3": "sag"
     },
     "speakers": {
       "total": 4600000
@@ -1629,7 +1629,7 @@
   },
   {
     "codes": {
-      "iso639_3": "wry"
+      "iso639_3": "ban"
     },
     "speakers": {
       "total": 4000000
@@ -1663,7 +1663,7 @@
   },
   {
     "codes": {
-      "iso639_3": "ban"
+      "iso639_3": "tpi"
     },
     "speakers": {
       "total": 4000000
@@ -1671,7 +1671,7 @@
   },
   {
     "codes": {
-      "iso639_3": "tpi"
+      "iso639_3": "wry"
     },
     "speakers": {
       "total": 4000000
@@ -1801,7 +1801,24 @@
   },
   {
     "codes": {
+      "iso639_3": "als"
+    },
+    "speakers": {
+      "total": 3000000
+    }
+  },
+  {
+    "codes": {
       "iso639_3": "bzs"
+    },
+    "speakers": {
+      "total": 3000000
+    }
+  },
+  {
+    "codes": {
+      "iso639_1": "ee",
+      "iso639_3": "ewe"
     },
     "speakers": {
       "total": 3000000
@@ -1817,7 +1834,7 @@
   },
   {
     "codes": {
-      "iso639_3": "als"
+      "iso639_3": "luo"
     },
     "speakers": {
       "total": 3000000
@@ -1833,24 +1850,7 @@
   },
   {
     "codes": {
-      "iso639_3": "luo"
-    },
-    "speakers": {
-      "total": 3000000
-    }
-  },
-  {
-    "codes": {
       "iso639_3": "shn"
-    },
-    "speakers": {
-      "total": 3000000
-    }
-  },
-  {
-    "codes": {
-      "iso639_1": "ee",
-      "iso639_3": "ewe"
     },
     "speakers": {
       "total": 3000000
@@ -1932,7 +1932,8 @@
   },
   {
     "codes": {
-      "iso639_3": "sus"
+      "iso639_1": "sl",
+      "iso639_3": "slv"
     },
     "speakers": {
       "total": 2400000
@@ -1940,8 +1941,7 @@
   },
   {
     "codes": {
-      "iso639_1": "sl",
-      "iso639_3": "slv"
+      "iso639_3": "sus"
     },
     "speakers": {
       "total": 2400000
@@ -1957,7 +1957,7 @@
   },
   {
     "codes": {
-      "iso639_3": "shy"
+      "iso639_3": "iba"
     },
     "speakers": {
       "total": 2300000
@@ -1981,7 +1981,7 @@
   },
   {
     "codes": {
-      "iso639_3": "iba"
+      "iso639_3": "shy"
     },
     "speakers": {
       "total": 2300000
@@ -2014,6 +2014,22 @@
   },
   {
     "codes": {
+      "iso639_3": "bbc"
+    },
+    "speakers": {
+      "total": 2000000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "dgo"
+    },
+    "speakers": {
+      "total": 2000000
+    }
+  },
+  {
+    "codes": {
       "iso639_1": "eo",
       "iso639_3": "epo"
     },
@@ -2031,39 +2047,7 @@
   },
   {
     "codes": {
-      "iso639_3": "sxu"
-    },
-    "speakers": {
-      "total": 2000000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "wes"
-    },
-    "speakers": {
-      "total": 2000000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "dgo"
-    },
-    "speakers": {
-      "total": 2000000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "bbc"
-    },
-    "speakers": {
-      "total": 2000000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "sas"
+      "iso639_3": "kru"
     },
     "speakers": {
       "total": 2000000
@@ -2080,30 +2064,6 @@
   },
   {
     "codes": {
-      "iso639_3": "pms"
-    },
-    "speakers": {
-      "total": 2000000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "vec"
-    },
-    "speakers": {
-      "total": 2000000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "kru"
-    },
-    "speakers": {
-      "total": 2000000
-    }
-  },
-  {
-    "codes": {
       "iso639_3": "pcc"
     },
     "speakers": {
@@ -2112,7 +2072,7 @@
   },
   {
     "codes": {
-      "iso639_3": "tcy"
+      "iso639_3": "pms"
     },
     "speakers": {
       "total": 2000000
@@ -2128,7 +2088,47 @@
   },
   {
     "codes": {
+      "iso639_3": "sas"
+    },
+    "speakers": {
+      "total": 2000000
+    }
+  },
+  {
+    "codes": {
       "iso639_3": "shk"
+    },
+    "speakers": {
+      "total": 2000000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "sxu"
+    },
+    "speakers": {
+      "total": 2000000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "tcy"
+    },
+    "speakers": {
+      "total": 2000000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "vec"
+    },
+    "speakers": {
+      "total": 2000000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "wes"
     },
     "speakers": {
       "total": 2000000
@@ -2160,7 +2160,7 @@
   },
   {
     "codes": {
-      "iso639_3": "rhg"
+      "iso639_3": "brh"
     },
     "speakers": {
       "total": 1800000
@@ -2176,7 +2176,7 @@
   },
   {
     "codes": {
-      "iso639_3": "brh"
+      "iso639_3": "rhg"
     },
     "speakers": {
       "total": 1800000
@@ -2216,6 +2216,15 @@
   },
   {
     "codes": {
+      "iso639_1": "aa",
+      "iso639_3": "aar"
+    },
+    "speakers": {
+      "total": 1600000
+    }
+  },
+  {
+    "codes": {
       "iso639_3": "bin"
     },
     "speakers": {
@@ -2234,15 +2243,6 @@
     "codes": {
       "iso639_1": "li",
       "iso639_3": "lim"
-    },
-    "speakers": {
-      "total": 1600000
-    }
-  },
-  {
-    "codes": {
-      "iso639_1": "aa",
-      "iso639_3": "aar"
     },
     "speakers": {
       "total": 1600000
@@ -2274,7 +2274,7 @@
   },
   {
     "codes": {
-      "iso639_3": "lrc"
+      "iso639_3": "hoc"
     },
     "speakers": {
       "total": 1500000
@@ -2282,31 +2282,7 @@
   },
   {
     "codes": {
-      "iso639_3": "noe"
-    },
-    "speakers": {
-      "total": 1500000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "quz"
-    },
-    "speakers": {
-      "total": 1500000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "unr"
-    },
-    "speakers": {
-      "total": 1500000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "tyz"
+      "iso639_3": "kbr"
     },
     "speakers": {
       "total": 1500000
@@ -2315,39 +2291,6 @@
   {
     "codes": {
       "iso639_3": "khg"
-    },
-    "speakers": {
-      "total": 1500000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "lki"
-    },
-    "speakers": {
-      "total": 1500000
-    }
-  },
-  {
-    "codes": {
-      "iso639_1": "lv",
-      "iso639_3": "lav"
-    },
-    "speakers": {
-      "total": 1500000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "sco"
-    },
-    "speakers": {
-      "total": 1500000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "hoc"
     },
     "speakers": {
       "total": 1500000
@@ -2371,7 +2314,64 @@
   },
   {
     "codes": {
-      "iso639_3": "kbr"
+      "iso639_3": "lki"
+    },
+    "speakers": {
+      "total": 1500000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "lrc"
+    },
+    "speakers": {
+      "total": 1500000
+    }
+  },
+  {
+    "codes": {
+      "iso639_1": "lv",
+      "iso639_3": "lav"
+    },
+    "speakers": {
+      "total": 1500000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "noe"
+    },
+    "speakers": {
+      "total": 1500000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "quz"
+    },
+    "speakers": {
+      "total": 1500000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "sco"
+    },
+    "speakers": {
+      "total": 1500000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "tyz"
+    },
+    "speakers": {
+      "total": 1500000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "unr"
     },
     "speakers": {
       "total": 1500000
@@ -2468,6 +2468,14 @@
   },
   {
     "codes": {
+      "iso639_3": "egl"
+    },
+    "speakers": {
+      "total": 1300000
+    }
+  },
+  {
+    "codes": {
       "iso639_1": "sc",
       "iso639_3": "srd"
     },
@@ -2479,14 +2487,6 @@
     "codes": {
       "iso639_1": "ve",
       "iso639_3": "ven"
-    },
-    "speakers": {
-      "total": 1300000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "egl"
     },
     "speakers": {
       "total": 1300000
@@ -2528,8 +2528,7 @@
   },
   {
     "codes": {
-      "iso639_1": "ba",
-      "iso639_3": "bak"
+      "iso639_3": "ach"
     },
     "speakers": {
       "total": 1200000
@@ -2537,7 +2536,8 @@
   },
   {
     "codes": {
-      "iso639_3": "tsc"
+      "iso639_1": "ba",
+      "iso639_3": "bak"
     },
     "speakers": {
       "total": 1200000
@@ -2554,7 +2554,7 @@
   },
   {
     "codes": {
-      "iso639_3": "ach"
+      "iso639_3": "srr"
     },
     "speakers": {
       "total": 1200000
@@ -2562,7 +2562,7 @@
   },
   {
     "codes": {
-      "iso639_3": "srr"
+      "iso639_3": "tsc"
     },
     "speakers": {
       "total": 1200000
@@ -2610,7 +2610,15 @@
   },
   {
     "codes": {
-      "iso639_3": "urh"
+      "iso639_3": "btm"
+    },
+    "speakers": {
+      "total": 1100000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "dga"
     },
     "speakers": {
       "total": 1100000
@@ -2619,6 +2627,14 @@
   {
     "codes": {
       "iso639_3": "mdh"
+    },
+    "speakers": {
+      "total": 1100000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "pag"
     },
     "speakers": {
       "total": 1100000
@@ -2650,23 +2666,7 @@
   },
   {
     "codes": {
-      "iso639_3": "btm"
-    },
-    "speakers": {
-      "total": 1100000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "pag"
-    },
-    "speakers": {
-      "total": 1100000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "dga"
+      "iso639_3": "urh"
     },
     "speakers": {
       "total": 1100000
@@ -2707,7 +2707,7 @@
   },
   {
     "codes": {
-      "iso639_3": "kbp"
+      "iso639_3": "bqi"
     },
     "speakers": {
       "total": 1000000
@@ -2723,7 +2723,15 @@
   },
   {
     "codes": {
-      "iso639_3": "bqi"
+      "iso639_3": "grt"
+    },
+    "speakers": {
+      "total": 1000000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "kbp"
     },
     "speakers": {
       "total": 1000000
@@ -2739,14 +2747,6 @@
   },
   {
     "codes": {
-      "iso639_3": "pfl"
-    },
-    "speakers": {
-      "total": 1000000
-    }
-  },
-  {
-    "codes": {
       "iso639_3": "new"
     },
     "speakers": {
@@ -2755,7 +2755,7 @@
   },
   {
     "codes": {
-      "iso639_3": "grt"
+      "iso639_3": "pfl"
     },
     "speakers": {
       "total": 1000000
@@ -2844,7 +2844,7 @@
   },
   {
     "codes": {
-      "iso639_3": "mqy"
+      "iso639_3": "mjl"
     },
     "speakers": {
       "total": 900000
@@ -2852,7 +2852,7 @@
   },
   {
     "codes": {
-      "iso639_3": "mjl"
+      "iso639_3": "mqy"
     },
     "speakers": {
       "total": 900000
@@ -2924,7 +2924,7 @@
   },
   {
     "codes": {
-      "iso639_3": "xmm"
+      "iso639_3": "nut"
     },
     "speakers": {
       "total": 850000
@@ -2932,7 +2932,7 @@
   },
   {
     "codes": {
-      "iso639_3": "nut"
+      "iso639_3": "xmm"
     },
     "speakers": {
       "total": 850000
@@ -2965,6 +2965,14 @@
   },
   {
     "codes": {
+      "iso639_3": "ium"
+    },
+    "speakers": {
+      "total": 820000
+    }
+  },
+  {
+    "codes": {
       "iso639_3": "swg"
     },
     "speakers": {
@@ -2973,10 +2981,10 @@
   },
   {
     "codes": {
-      "iso639_3": "ium"
+      "iso639_3": "adx"
     },
     "speakers": {
-      "total": 820000
+      "total": 810000
     }
   },
   {
@@ -2990,15 +2998,7 @@
   },
   {
     "codes": {
-      "iso639_3": "adx"
-    },
-    "speakers": {
-      "total": 810000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "pga"
+      "iso639_3": "nup"
     },
     "speakers": {
       "total": 800000
@@ -3006,7 +3006,7 @@
   },
   {
     "codes": {
-      "iso639_3": "nup"
+      "iso639_3": "pga"
     },
     "speakers": {
       "total": 800000
@@ -3030,7 +3030,7 @@
   },
   {
     "codes": {
-      "iso639_3": "xal"
+      "iso639_3": "mrw"
     },
     "speakers": {
       "total": 780000
@@ -3038,7 +3038,7 @@
   },
   {
     "codes": {
-      "iso639_3": "mrw"
+      "iso639_3": "xal"
     },
     "speakers": {
       "total": 780000
@@ -3152,14 +3152,6 @@
   },
   {
     "codes": {
-      "iso639_3": "hwc"
-    },
-    "speakers": {
-      "total": 700000
-    }
-  },
-  {
-    "codes": {
       "iso639_3": "gyn"
     },
     "speakers": {
@@ -3168,7 +3160,7 @@
   },
   {
     "codes": {
-      "iso639_3": "lic"
+      "iso639_3": "hwc"
     },
     "speakers": {
       "total": 700000
@@ -3177,6 +3169,14 @@
   {
     "codes": {
       "iso639_3": "khb"
+    },
+    "speakers": {
+      "total": 700000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "lic"
     },
     "speakers": {
       "total": 700000
@@ -3232,7 +3232,7 @@
   },
   {
     "codes": {
-      "iso639_3": "tyr"
+      "iso639_3": "tdd"
     },
     "speakers": {
       "total": 650000
@@ -3240,7 +3240,7 @@
   },
   {
     "codes": {
-      "iso639_3": "tdd"
+      "iso639_3": "tyr"
     },
     "speakers": {
       "total": 650000
@@ -3256,7 +3256,8 @@
   },
   {
     "codes": {
-      "iso639_3": "ttq"
+      "iso639_1": "nr",
+      "iso639_3": "nbl"
     },
     "speakers": {
       "total": 640000
@@ -3264,8 +3265,7 @@
   },
   {
     "codes": {
-      "iso639_1": "nr",
-      "iso639_3": "nbl"
+      "iso639_3": "ttq"
     },
     "speakers": {
       "total": 640000
@@ -3313,8 +3313,7 @@
   },
   {
     "codes": {
-      "iso639_1": "wa",
-      "iso639_3": "wln"
+      "iso639_3": "btx"
     },
     "speakers": {
       "total": 600000
@@ -3322,7 +3321,7 @@
   },
   {
     "codes": {
-      "iso639_3": "btx"
+      "iso639_3": "loz"
     },
     "speakers": {
       "total": 600000
@@ -3346,7 +3345,8 @@
   },
   {
     "codes": {
-      "iso639_3": "loz"
+      "iso639_1": "wa",
+      "iso639_3": "wln"
     },
     "speakers": {
       "total": 600000
@@ -3395,8 +3395,7 @@
   },
   {
     "codes": {
-      "iso639_1": "mt",
-      "iso639_3": "mlt"
+      "iso639_3": "kfp"
     },
     "speakers": {
       "total": 570000
@@ -3404,7 +3403,8 @@
   },
   {
     "codes": {
-      "iso639_3": "kfp"
+      "iso639_1": "mt",
+      "iso639_3": "mlt"
     },
     "speakers": {
       "total": 570000
@@ -3453,55 +3453,7 @@
   },
   {
     "codes": {
-      "iso639_3": "taq"
-    },
-    "speakers": {
-      "total": 500000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "sgs"
-    },
-    "speakers": {
-      "total": 500000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "qxp"
-    },
-    "speakers": {
-      "total": 500000
-    }
-  },
-  {
-    "codes": {
       "iso639_3": "asa"
-    },
-    "speakers": {
-      "total": 500000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "lus"
-    },
-    "speakers": {
-      "total": 500000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "fly"
-    },
-    "speakers": {
-      "total": 500000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "pov"
     },
     "speakers": {
       "total": 500000
@@ -3517,6 +3469,14 @@
   },
   {
     "codes": {
+      "iso639_3": "fly"
+    },
+    "speakers": {
+      "total": 500000
+    }
+  },
+  {
+    "codes": {
       "iso639_3": "lij"
     },
     "speakers": {
@@ -3525,7 +3485,47 @@
   },
   {
     "codes": {
+      "iso639_3": "lus"
+    },
+    "speakers": {
+      "total": 500000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "pov"
+    },
+    "speakers": {
+      "total": 500000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "qxp"
+    },
+    "speakers": {
+      "total": 500000
+    }
+  },
+  {
+    "codes": {
       "iso639_3": "sda"
+    },
+    "speakers": {
+      "total": 500000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "sgs"
+    },
+    "speakers": {
+      "total": 500000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "taq"
     },
     "speakers": {
       "total": 500000
@@ -3613,14 +3613,6 @@
   },
   {
     "codes": {
-      "iso639_3": "sah"
-    },
-    "speakers": {
-      "total": 450000
-    }
-  },
-  {
-    "codes": {
       "iso639_3": "ast"
     },
     "speakers": {
@@ -3630,6 +3622,14 @@
   {
     "codes": {
       "iso639_3": "lhu"
+    },
+    "speakers": {
+      "total": 450000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "sah"
     },
     "speakers": {
       "total": 450000
@@ -3653,14 +3653,6 @@
   },
   {
     "codes": {
-      "iso639_3": "lif"
-    },
-    "speakers": {
-      "total": 420000
-    }
-  },
-  {
-    "codes": {
       "iso639_3": "bsq"
     },
     "speakers": {
@@ -3670,6 +3662,14 @@
   {
     "codes": {
       "iso639_3": "kek"
+    },
+    "speakers": {
+      "total": 420000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "lif"
     },
     "speakers": {
       "total": 420000
@@ -3710,6 +3710,14 @@
   },
   {
     "codes": {
+      "iso639_3": "anc"
+    },
+    "speakers": {
+      "total": 400000
+    }
+  },
+  {
+    "codes": {
       "iso639_3": "ibg"
     },
     "speakers": {
@@ -3719,14 +3727,6 @@
   {
     "codes": {
       "iso639_3": "mrh"
-    },
-    "speakers": {
-      "total": 400000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "anc"
     },
     "speakers": {
       "total": 400000
@@ -3816,6 +3816,14 @@
   },
   {
     "codes": {
+      "iso639_3": "kxv"
+    },
+    "speakers": {
+      "total": 350000
+    }
+  },
+  {
+    "codes": {
       "iso639_3": "msb"
     },
     "speakers": {
@@ -3825,14 +3833,6 @@
   {
     "codes": {
       "iso639_3": "peg"
-    },
-    "speakers": {
-      "total": 350000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "kxv"
     },
     "speakers": {
       "total": 350000
@@ -3970,14 +3970,6 @@
   },
   {
     "codes": {
-      "iso639_3": "nyd"
-    },
-    "speakers": {
-      "total": 310000
-    }
-  },
-  {
-    "codes": {
       "iso639_3": "nbf"
     },
     "speakers": {
@@ -3994,23 +3986,15 @@
   },
   {
     "codes": {
-      "iso639_3": "jab"
+      "iso639_3": "nyd"
     },
     "speakers": {
-      "total": 300000
+      "total": 310000
     }
   },
   {
     "codes": {
-      "iso639_3": "say"
-    },
-    "speakers": {
-      "total": 300000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "swi"
+      "iso639_3": "arn"
     },
     "speakers": {
       "total": 300000
@@ -4026,7 +4010,7 @@
   },
   {
     "codes": {
-      "iso639_3": "osi"
+      "iso639_3": "gcr"
     },
     "speakers": {
       "total": 300000
@@ -4042,15 +4026,7 @@
   },
   {
     "codes": {
-      "iso639_3": "smw"
-    },
-    "speakers": {
-      "total": 300000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "gcr"
+      "iso639_3": "jab"
     },
     "speakers": {
       "total": 300000
@@ -4066,6 +4042,22 @@
   },
   {
     "codes": {
+      "iso639_3": "osi"
+    },
+    "speakers": {
+      "total": 300000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "say"
+    },
+    "speakers": {
+      "total": 300000
+    }
+  },
+  {
+    "codes": {
       "iso639_3": "saz"
     },
     "speakers": {
@@ -4074,7 +4066,15 @@
   },
   {
     "codes": {
-      "iso639_3": "arn"
+      "iso639_3": "smw"
+    },
+    "speakers": {
+      "total": 300000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "swi"
     },
     "speakers": {
       "total": 300000
@@ -4130,14 +4130,6 @@
   },
   {
     "codes": {
-      "iso639_3": "zib"
-    },
-    "speakers": {
-      "total": 280000
-    }
-  },
-  {
-    "codes": {
       "iso639_3": "mne"
     },
     "speakers": {
@@ -4147,6 +4139,14 @@
   {
     "codes": {
       "iso639_3": "twh"
+    },
+    "speakers": {
+      "total": 280000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "zib"
     },
     "speakers": {
       "total": 280000
@@ -4218,22 +4218,6 @@
   },
   {
     "codes": {
-      "iso639_3": "eth"
-    },
-    "speakers": {
-      "total": 250000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "eto"
-    },
-    "speakers": {
-      "total": 250000
-    }
-  },
-  {
-    "codes": {
       "iso639_3": "ase"
     },
     "speakers": {
@@ -4250,7 +4234,15 @@
   },
   {
     "codes": {
-      "iso639_3": "thz"
+      "iso639_3": "eth"
+    },
+    "speakers": {
+      "total": 250000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "eto"
     },
     "speakers": {
       "total": 250000
@@ -4267,6 +4259,14 @@
   {
     "codes": {
       "iso639_3": "naq"
+    },
+    "speakers": {
+      "total": 250000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "thz"
     },
     "speakers": {
       "total": 250000
@@ -4323,7 +4323,7 @@
   },
   {
     "codes": {
-      "iso639_3": "enq"
+      "iso639_3": "bas"
     },
     "speakers": {
       "total": 230000
@@ -4339,7 +4339,7 @@
   },
   {
     "codes": {
-      "iso639_3": "njz"
+      "iso639_3": "enq"
     },
     "speakers": {
       "total": 230000
@@ -4347,7 +4347,7 @@
   },
   {
     "codes": {
-      "iso639_3": "bas"
+      "iso639_3": "njz"
     },
     "speakers": {
       "total": 230000
@@ -4462,7 +4462,7 @@
   },
   {
     "codes": {
-      "iso639_3": "ltg"
+      "iso639_3": "kfa"
     },
     "speakers": {
       "total": 200000
@@ -4470,7 +4470,7 @@
   },
   {
     "codes": {
-      "iso639_3": "yba"
+      "iso639_3": "ltg"
     },
     "speakers": {
       "total": 200000
@@ -4486,7 +4486,7 @@
   },
   {
     "codes": {
-      "iso639_3": "kfa"
+      "iso639_3": "yba"
     },
     "speakers": {
       "total": 200000
@@ -4494,7 +4494,7 @@
   },
   {
     "codes": {
-      "iso639_3": "mvz"
+      "iso639_3": "fip"
     },
     "speakers": {
       "total": 195000
@@ -4502,7 +4502,7 @@
   },
   {
     "codes": {
-      "iso639_3": "fip"
+      "iso639_3": "mvz"
     },
     "speakers": {
       "total": 195000
@@ -4544,23 +4544,7 @@
   },
   {
     "codes": {
-      "iso639_3": "slp"
-    },
-    "speakers": {
-      "total": 180000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "kvk"
-    },
-    "speakers": {
-      "total": 180000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "hmo"
+      "iso639_3": "ctu"
     },
     "speakers": {
       "total": 180000
@@ -4584,6 +4568,22 @@
   },
   {
     "codes": {
+      "iso639_3": "hmo"
+    },
+    "speakers": {
+      "total": 180000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "kvk"
+    },
+    "speakers": {
+      "total": 180000
+    }
+  },
+  {
+    "codes": {
       "iso639_3": "miq"
     },
     "speakers": {
@@ -4592,7 +4592,7 @@
   },
   {
     "codes": {
-      "iso639_3": "ctu"
+      "iso639_3": "slp"
     },
     "speakers": {
       "total": 180000
@@ -4608,7 +4608,7 @@
   },
   {
     "codes": {
-      "iso639_3": "thk"
+      "iso639_3": "cla"
     },
     "speakers": {
       "total": 176000
@@ -4616,7 +4616,7 @@
   },
   {
     "codes": {
-      "iso639_3": "cla"
+      "iso639_3": "thk"
     },
     "speakers": {
       "total": 176000
@@ -4632,14 +4632,6 @@
   },
   {
     "codes": {
-      "iso639_3": "tsz"
-    },
-    "speakers": {
-      "total": 175000
-    }
-  },
-  {
-    "codes": {
       "iso639_3": "tsj"
     },
     "speakers": {
@@ -4648,7 +4640,15 @@
   },
   {
     "codes": {
-      "iso639_3": "rsb"
+      "iso639_3": "tsz"
+    },
+    "speakers": {
+      "total": 175000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "qus"
     },
     "speakers": {
       "total": 170000
@@ -4656,7 +4656,7 @@
   },
   {
     "codes": {
-      "iso639_3": "qus"
+      "iso639_3": "rsb"
     },
     "speakers": {
       "total": 170000
@@ -4689,7 +4689,7 @@
   },
   {
     "codes": {
-      "iso639_3": "dop"
+      "iso639_3": "bdq"
     },
     "speakers": {
       "total": 160000
@@ -4697,7 +4697,7 @@
   },
   {
     "codes": {
-      "iso639_3": "bdq"
+      "iso639_3": "dop"
     },
     "speakers": {
       "total": 160000
@@ -4762,7 +4762,31 @@
   },
   {
     "codes": {
-      "iso639_3": "mzb"
+      "iso639_3": "aig"
+    },
+    "speakers": {
+      "total": 150000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "bno"
+    },
+    "speakers": {
+      "total": 150000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "fit"
+    },
+    "speakers": {
+      "total": 150000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "hus"
     },
     "speakers": {
       "total": 150000
@@ -4786,7 +4810,15 @@
   },
   {
     "codes": {
-      "iso639_3": "xsr"
+      "iso639_3": "mki"
+    },
+    "speakers": {
+      "total": 150000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "mzb"
     },
     "speakers": {
       "total": 150000
@@ -4802,14 +4834,6 @@
   },
   {
     "codes": {
-      "iso639_3": "aig"
-    },
-    "speakers": {
-      "total": 150000
-    }
-  },
-  {
-    "codes": {
       "iso639_3": "rmc"
     },
     "speakers": {
@@ -4818,31 +4842,7 @@
   },
   {
     "codes": {
-      "iso639_3": "fit"
-    },
-    "speakers": {
-      "total": 150000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "bno"
-    },
-    "speakers": {
-      "total": 150000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "mki"
-    },
-    "speakers": {
-      "total": 150000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "hus"
+      "iso639_3": "xsr"
     },
     "speakers": {
       "total": 150000
@@ -4882,7 +4882,7 @@
   },
   {
     "codes": {
-      "iso639_3": "pua"
+      "iso639_3": "anu"
     },
     "speakers": {
       "total": 140000
@@ -4898,7 +4898,7 @@
   },
   {
     "codes": {
-      "iso639_3": "anu"
+      "iso639_3": "pbb"
     },
     "speakers": {
       "total": 140000
@@ -4906,7 +4906,7 @@
   },
   {
     "codes": {
-      "iso639_3": "pbb"
+      "iso639_3": "pua"
     },
     "speakers": {
       "total": 140000
@@ -4994,14 +4994,6 @@
   },
   {
     "codes": {
-      "iso639_3": "rsl"
-    },
-    "speakers": {
-      "total": 120000
-    }
-  },
-  {
-    "codes": {
       "iso639_3": "cyo"
     },
     "speakers": {
@@ -5011,6 +5003,14 @@
   {
     "codes": {
       "iso639_3": "kkh"
+    },
+    "speakers": {
+      "total": 120000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "rsl"
     },
     "speakers": {
       "total": 120000
@@ -5074,7 +5074,7 @@
   },
   {
     "codes": {
-      "iso639_3": "kkv"
+      "iso639_3": "bzj"
     },
     "speakers": {
       "total": 110000
@@ -5098,7 +5098,7 @@
   },
   {
     "codes": {
-      "iso639_3": "yka"
+      "iso639_3": "kkv"
     },
     "speakers": {
       "total": 110000
@@ -5106,7 +5106,7 @@
   },
   {
     "codes": {
-      "iso639_3": "bzj"
+      "iso639_3": "yka"
     },
     "speakers": {
       "total": 110000
@@ -5162,15 +5162,7 @@
   },
   {
     "codes": {
-      "iso639_3": "fay"
-    },
-    "speakers": {
-      "total": 100000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "tjl"
+      "iso639_3": "aae"
     },
     "speakers": {
       "total": 100000
@@ -5186,7 +5178,7 @@
   },
   {
     "codes": {
-      "iso639_3": "wmw"
+      "iso639_3": "fay"
     },
     "speakers": {
       "total": 100000
@@ -5194,23 +5186,7 @@
   },
   {
     "codes": {
-      "iso639_3": "sdn"
-    },
-    "speakers": {
-      "total": 100000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "sdc"
-    },
-    "speakers": {
-      "total": 100000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "niy"
+      "iso639_3": "fng"
     },
     "speakers": {
       "total": 100000
@@ -5226,7 +5202,7 @@
   },
   {
     "codes": {
-      "iso639_3": "nto"
+      "iso639_3": "ksd"
     },
     "speakers": {
       "total": 100000
@@ -5234,7 +5210,7 @@
   },
   {
     "codes": {
-      "iso639_3": "aae"
+      "iso639_3": "niy"
     },
     "speakers": {
       "total": 100000
@@ -5250,7 +5226,7 @@
   },
   {
     "codes": {
-      "iso639_3": "ksd"
+      "iso639_3": "nto"
     },
     "speakers": {
       "total": 100000
@@ -5258,7 +5234,31 @@
   },
   {
     "codes": {
-      "iso639_3": "fng"
+      "iso639_3": "sdc"
+    },
+    "speakers": {
+      "total": 100000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "sdn"
+    },
+    "speakers": {
+      "total": 100000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "tjl"
+    },
+    "speakers": {
+      "total": 100000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "wmw"
     },
     "speakers": {
       "total": 100000
@@ -5346,7 +5346,7 @@
   },
   {
     "codes": {
-      "iso639_3": "omi"
+      "iso639_3": "kft"
     },
     "speakers": {
       "total": 91000
@@ -5354,7 +5354,7 @@
   },
   {
     "codes": {
-      "iso639_3": "kft"
+      "iso639_3": "omi"
     },
     "speakers": {
       "total": 91000
@@ -5394,7 +5394,7 @@
   },
   {
     "codes": {
-      "iso639_3": "zai"
+      "iso639_3": "jge"
     },
     "speakers": {
       "total": 85000
@@ -5402,7 +5402,7 @@
   },
   {
     "codes": {
-      "iso639_3": "jge"
+      "iso639_3": "zai"
     },
     "speakers": {
       "total": 85000
@@ -5426,22 +5426,6 @@
   },
   {
     "codes": {
-      "iso639_3": "byk"
-    },
-    "speakers": {
-      "total": 80000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "nrb"
-    },
-    "speakers": {
-      "total": 80000
-    }
-  },
-  {
-    "codes": {
       "iso639_3": "atb"
     },
     "speakers": {
@@ -5450,7 +5434,15 @@
   },
   {
     "codes": {
-      "iso639_3": "tay"
+      "iso639_3": "byk"
+    },
+    "speakers": {
+      "total": 80000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "cia"
     },
     "speakers": {
       "total": 80000
@@ -5466,7 +5458,15 @@
   },
   {
     "codes": {
-      "iso639_3": "cia"
+      "iso639_3": "nrb"
+    },
+    "speakers": {
+      "total": 80000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "tay"
     },
     "speakers": {
       "total": 80000
@@ -5498,7 +5498,7 @@
   },
   {
     "codes": {
-      "iso639_3": "lep"
+      "iso639_3": "jjr"
     },
     "speakers": {
       "total": 75000
@@ -5506,7 +5506,7 @@
   },
   {
     "codes": {
-      "iso639_3": "jjr"
+      "iso639_3": "lep"
     },
     "speakers": {
       "total": 75000
@@ -5538,7 +5538,7 @@
   },
   {
     "codes": {
-      "iso639_3": "emp"
+      "iso639_3": "agi"
     },
     "speakers": {
       "total": 72000
@@ -5546,7 +5546,7 @@
   },
   {
     "codes": {
-      "iso639_3": "agi"
+      "iso639_3": "emp"
     },
     "speakers": {
       "total": 72000
@@ -5562,15 +5562,7 @@
   },
   {
     "codes": {
-      "iso639_3": "slr"
-    },
-    "speakers": {
-      "total": 70000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "xsb"
+      "iso639_3": "byn"
     },
     "speakers": {
       "total": 70000
@@ -5594,7 +5586,7 @@
   },
   {
     "codes": {
-      "iso639_3": "byn"
+      "iso639_3": "mbo"
     },
     "speakers": {
       "total": 70000
@@ -5610,7 +5602,15 @@
   },
   {
     "codes": {
-      "iso639_3": "mbo"
+      "iso639_3": "slr"
+    },
+    "speakers": {
+      "total": 70000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "xsb"
     },
     "speakers": {
       "total": 70000
@@ -5652,6 +5652,22 @@
   },
   {
     "codes": {
+      "iso639_3": "bxu"
+    },
+    "speakers": {
+      "total": 65000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "bzy"
+    },
+    "speakers": {
+      "total": 65000
+    }
+  },
+  {
+    "codes": {
       "iso639_3": "dbm"
     },
     "speakers": {
@@ -5669,22 +5685,6 @@
   {
     "codes": {
       "iso639_3": "wlo"
-    },
-    "speakers": {
-      "total": 65000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "bzy"
-    },
-    "speakers": {
-      "total": 65000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "bxu"
     },
     "speakers": {
       "total": 65000
@@ -5717,6 +5717,14 @@
   },
   {
     "codes": {
+      "iso639_3": "jgo"
+    },
+    "speakers": {
+      "total": 63000
+    }
+  },
+  {
+    "codes": {
       "iso639_3": "mqx"
     },
     "speakers": {
@@ -5733,10 +5741,11 @@
   },
   {
     "codes": {
-      "iso639_3": "jgo"
+      "iso639_1": "mh",
+      "iso639_3": "mah"
     },
     "speakers": {
-      "total": 63000
+      "total": 61000
     }
   },
   {
@@ -5750,15 +5759,6 @@
   {
     "codes": {
       "iso639_3": "zom"
-    },
-    "speakers": {
-      "total": 61000
-    }
-  },
-  {
-    "codes": {
-      "iso639_1": "mh",
-      "iso639_3": "mah"
     },
     "speakers": {
       "total": 61000
@@ -5783,46 +5783,6 @@
   },
   {
     "codes": {
-      "iso639_3": "rmq"
-    },
-    "speakers": {
-      "total": 60000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "nxg"
-    },
-    "speakers": {
-      "total": 60000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "jvn"
-    },
-    "speakers": {
-      "total": 60000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "wja"
-    },
-    "speakers": {
-      "total": 60000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "nbh"
-    },
-    "speakers": {
-      "total": 60000
-    }
-  },
-  {
-    "codes": {
       "iso639_3": "bhh"
     },
     "speakers": {
@@ -5839,7 +5799,7 @@
   },
   {
     "codes": {
-      "iso639_3": "sgh"
+      "iso639_3": "jvn"
     },
     "speakers": {
       "total": 60000
@@ -5848,6 +5808,46 @@
   {
     "codes": {
       "iso639_3": "ksf"
+    },
+    "speakers": {
+      "total": 60000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "nbh"
+    },
+    "speakers": {
+      "total": 60000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "nxg"
+    },
+    "speakers": {
+      "total": 60000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "rmq"
+    },
+    "speakers": {
+      "total": 60000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "sgh"
+    },
+    "speakers": {
+      "total": 60000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "wja"
     },
     "speakers": {
       "total": 60000
@@ -5920,7 +5920,7 @@
   },
   {
     "codes": {
-      "iso639_3": "smk"
+      "iso639_3": "abi"
     },
     "speakers": {
       "total": 51000
@@ -5936,7 +5936,7 @@
   },
   {
     "codes": {
-      "iso639_3": "abi"
+      "iso639_3": "smk"
     },
     "speakers": {
       "total": 51000
@@ -5960,31 +5960,7 @@
   },
   {
     "codes": {
-      "iso639_3": "uth"
-    },
-    "speakers": {
-      "total": 50000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "sjs"
-    },
-    "speakers": {
-      "total": 50000
-    }
-  },
-  {
-    "codes": {
       "iso639_3": "mbt"
-    },
-    "speakers": {
-      "total": 50000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "tiy"
     },
     "speakers": {
       "total": 50000
@@ -6001,6 +5977,30 @@
   {
     "codes": {
       "iso639_3": "rml"
+    },
+    "speakers": {
+      "total": 50000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "sjs"
+    },
+    "speakers": {
+      "total": 50000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "tiy"
+    },
+    "speakers": {
+      "total": 50000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "uth"
     },
     "speakers": {
       "total": 50000
@@ -6169,55 +6169,7 @@
   },
   {
     "codes": {
-      "iso639_3": "kvq"
-    },
-    "speakers": {
-      "total": 40000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "geh"
-    },
-    "speakers": {
-      "total": 40000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "xxk"
-    },
-    "speakers": {
-      "total": 40000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "uuu"
-    },
-    "speakers": {
-      "total": 40000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "qub"
-    },
-    "speakers": {
-      "total": 40000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "nhn"
-    },
-    "speakers": {
-      "total": 40000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "tob"
+      "iso639_3": "ask"
     },
     "speakers": {
       "total": 40000
@@ -6233,7 +6185,7 @@
   },
   {
     "codes": {
-      "iso639_3": "ask"
+      "iso639_3": "geh"
     },
     "speakers": {
       "total": 40000
@@ -6249,7 +6201,55 @@
   },
   {
     "codes": {
+      "iso639_3": "kvq"
+    },
+    "speakers": {
+      "total": 40000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "nhn"
+    },
+    "speakers": {
+      "total": 40000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "qub"
+    },
+    "speakers": {
+      "total": 40000
+    }
+  },
+  {
+    "codes": {
       "iso639_3": "sad"
+    },
+    "speakers": {
+      "total": 40000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "tob"
+    },
+    "speakers": {
+      "total": 40000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "uuu"
+    },
+    "speakers": {
+      "total": 40000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "xxk"
     },
     "speakers": {
       "total": 40000
@@ -6266,7 +6266,7 @@
   },
   {
     "codes": {
-      "iso639_3": "mfy"
+      "iso639_3": "meu"
     },
     "speakers": {
       "total": 39000
@@ -6274,7 +6274,7 @@
   },
   {
     "codes": {
-      "iso639_3": "meu"
+      "iso639_3": "mfy"
     },
     "speakers": {
       "total": 39000
@@ -6314,7 +6314,7 @@
   },
   {
     "codes": {
-      "iso639_3": "oyd"
+      "iso639_3": "caq"
     },
     "speakers": {
       "total": 37000
@@ -6322,7 +6322,7 @@
   },
   {
     "codes": {
-      "iso639_3": "caq"
+      "iso639_3": "oyd"
     },
     "speakers": {
       "total": 37000
@@ -6338,7 +6338,7 @@
   },
   {
     "codes": {
-      "iso639_3": "poi"
+      "iso639_3": "ntk"
     },
     "speakers": {
       "total": 36000
@@ -6346,7 +6346,7 @@
   },
   {
     "codes": {
-      "iso639_3": "ntk"
+      "iso639_3": "poi"
     },
     "speakers": {
       "total": 36000
@@ -6410,14 +6410,6 @@
   },
   {
     "codes": {
-      "iso639_3": "ktz"
-    },
-    "speakers": {
-      "total": 33600
-    }
-  },
-  {
-    "codes": {
       "iso639_3": "bsc"
     },
     "speakers": {
@@ -6426,7 +6418,15 @@
   },
   {
     "codes": {
-      "iso639_3": "jac"
+      "iso639_3": "ktz"
+    },
+    "speakers": {
+      "total": 33600
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "inb"
     },
     "speakers": {
       "total": 33000
@@ -6434,7 +6434,7 @@
   },
   {
     "codes": {
-      "iso639_3": "inb"
+      "iso639_3": "jac"
     },
     "speakers": {
       "total": 33000
@@ -6506,86 +6506,6 @@
   },
   {
     "codes": {
-      "iso639_3": "mrj"
-    },
-    "speakers": {
-      "total": 30000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "lsi"
-    },
-    "speakers": {
-      "total": 30000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "cgc"
-    },
-    "speakers": {
-      "total": 30000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "mmd"
-    },
-    "speakers": {
-      "total": 30000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "qvc"
-    },
-    "speakers": {
-      "total": 30000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "blz"
-    },
-    "speakers": {
-      "total": 30000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "mba"
-    },
-    "speakers": {
-      "total": 30000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "caa"
-    },
-    "speakers": {
-      "total": 30000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "nag"
-    },
-    "speakers": {
-      "total": 30000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "tul"
-    },
-    "speakers": {
-      "total": 30000
-    }
-  },
-  {
-    "codes": {
       "iso639_3": "adz"
     },
     "speakers": {
@@ -6602,7 +6522,63 @@
   },
   {
     "codes": {
+      "iso639_3": "blz"
+    },
+    "speakers": {
+      "total": 30000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "caa"
+    },
+    "speakers": {
+      "total": 30000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "cgc"
+    },
+    "speakers": {
+      "total": 30000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "lld"
+    },
+    "speakers": {
+      "total": 30000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "lsi"
+    },
+    "speakers": {
+      "total": 30000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "mba"
+    },
+    "speakers": {
+      "total": 30000
+    }
+  },
+  {
+    "codes": {
       "iso639_3": "mkf"
+    },
+    "speakers": {
+      "total": 30000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "mmd"
     },
     "speakers": {
       "total": 30000
@@ -6618,6 +6594,30 @@
   },
   {
     "codes": {
+      "iso639_3": "mrj"
+    },
+    "speakers": {
+      "total": 30000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "nag"
+    },
+    "speakers": {
+      "total": 30000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "qvc"
+    },
+    "speakers": {
+      "total": 30000
+    }
+  },
+  {
+    "codes": {
       "iso639_3": "sjo"
     },
     "speakers": {
@@ -6626,7 +6626,7 @@
   },
   {
     "codes": {
-      "iso639_3": "wbl"
+      "iso639_3": "tul"
     },
     "speakers": {
       "total": 30000
@@ -6634,7 +6634,7 @@
   },
   {
     "codes": {
-      "iso639_3": "lld"
+      "iso639_3": "wbl"
     },
     "speakers": {
       "total": 30000
@@ -6682,6 +6682,14 @@
   },
   {
     "codes": {
+      "iso639_3": "lbo"
+    },
+    "speakers": {
+      "total": 28000
+    }
+  },
+  {
+    "codes": {
       "iso639_3": "tmw"
     },
     "speakers": {
@@ -6691,14 +6699,6 @@
   {
     "codes": {
       "iso639_3": "zab"
-    },
-    "speakers": {
-      "total": 28000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "lbo"
     },
     "speakers": {
       "total": 28000
@@ -6795,7 +6795,15 @@
   },
   {
     "codes": {
-      "iso639_3": "mhp"
+      "iso639_3": "aol"
+    },
+    "speakers": {
+      "total": 25000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "cfa"
     },
     "speakers": {
       "total": 25000
@@ -6811,14 +6819,6 @@
   },
   {
     "codes": {
-      "iso639_3": "aol"
-    },
-    "speakers": {
-      "total": 25000
-    }
-  },
-  {
-    "codes": {
       "iso639_3": "lmy"
     },
     "speakers": {
@@ -6827,7 +6827,7 @@
   },
   {
     "codes": {
-      "iso639_3": "cfa"
+      "iso639_3": "mhp"
     },
     "speakers": {
       "total": 25000
@@ -6875,22 +6875,6 @@
   },
   {
     "codes": {
-      "iso639_3": "sle"
-    },
-    "speakers": {
-      "total": 24000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "yrk"
-    },
-    "speakers": {
-      "total": 24000
-    }
-  },
-  {
-    "codes": {
       "iso639_3": "doe"
     },
     "speakers": {
@@ -6899,7 +6883,23 @@
   },
   {
     "codes": {
+      "iso639_3": "sle"
+    },
+    "speakers": {
+      "total": 24000
+    }
+  },
+  {
+    "codes": {
       "iso639_3": "yey"
+    },
+    "speakers": {
+      "total": 24000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "yrk"
     },
     "speakers": {
       "total": 24000
@@ -6923,7 +6923,7 @@
   },
   {
     "codes": {
-      "iso639_3": "bcw"
+      "iso639_3": "anm"
     },
     "speakers": {
       "total": 23000
@@ -6931,7 +6931,7 @@
   },
   {
     "codes": {
-      "iso639_3": "tkr"
+      "iso639_3": "bcw"
     },
     "speakers": {
       "total": 23000
@@ -6947,7 +6947,7 @@
   },
   {
     "codes": {
-      "iso639_3": "anm"
+      "iso639_3": "tkr"
     },
     "speakers": {
       "total": 23000
@@ -6995,7 +6995,7 @@
   },
   {
     "codes": {
-      "iso639_3": "ygr"
+      "iso639_3": "csg"
     },
     "speakers": {
       "total": 21000
@@ -7003,7 +7003,7 @@
   },
   {
     "codes": {
-      "iso639_3": "csg"
+      "iso639_3": "ygr"
     },
     "speakers": {
       "total": 21000
@@ -7027,7 +7027,24 @@
   },
   {
     "codes": {
-      "iso639_3": "oua"
+      "iso639_1": "an",
+      "iso639_3": "arg"
+    },
+    "speakers": {
+      "total": 20000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "ani"
+    },
+    "speakers": {
+      "total": 20000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "bvb"
     },
     "speakers": {
       "total": 20000
@@ -7043,23 +7060,7 @@
   },
   {
     "codes": {
-      "iso639_3": "trv"
-    },
-    "speakers": {
-      "total": 20000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "lrt"
-    },
-    "speakers": {
-      "total": 20000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "quf"
+      "iso639_3": "dun"
     },
     "speakers": {
       "total": 20000
@@ -7075,8 +7076,7 @@
   },
   {
     "codes": {
-      "iso639_1": "an",
-      "iso639_3": "arg"
+      "iso639_3": "kcq"
     },
     "speakers": {
       "total": 20000
@@ -7084,7 +7084,7 @@
   },
   {
     "codes": {
-      "iso639_3": "dun"
+      "iso639_3": "kfc"
     },
     "speakers": {
       "total": 20000
@@ -7092,7 +7092,15 @@
   },
   {
     "codes": {
-      "iso639_3": "szn"
+      "iso639_3": "kna"
+    },
+    "speakers": {
+      "total": 20000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "lrt"
     },
     "speakers": {
       "total": 20000
@@ -7116,7 +7124,7 @@
   },
   {
     "codes": {
-      "iso639_3": "kcq"
+      "iso639_3": "oua"
     },
     "speakers": {
       "total": 20000
@@ -7124,7 +7132,7 @@
   },
   {
     "codes": {
-      "iso639_3": "kna"
+      "iso639_3": "quf"
     },
     "speakers": {
       "total": 20000
@@ -7132,7 +7140,7 @@
   },
   {
     "codes": {
-      "iso639_3": "bvb"
+      "iso639_3": "szn"
     },
     "speakers": {
       "total": 20000
@@ -7140,15 +7148,7 @@
   },
   {
     "codes": {
-      "iso639_3": "ani"
-    },
-    "speakers": {
-      "total": 20000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "kfc"
+      "iso639_3": "trv"
     },
     "speakers": {
       "total": 20000
@@ -7196,14 +7196,6 @@
   },
   {
     "codes": {
-      "iso639_3": "mpe"
-    },
-    "speakers": {
-      "total": 18500
-    }
-  },
-  {
-    "codes": {
       "iso639_3": "kie"
     },
     "speakers": {
@@ -7212,10 +7204,10 @@
   },
   {
     "codes": {
-      "iso639_3": "snc"
+      "iso639_3": "mpe"
     },
     "speakers": {
-      "total": 18000
+      "total": 18500
     }
   },
   {
@@ -7237,6 +7229,14 @@
   {
     "codes": {
       "iso639_3": "mfh"
+    },
+    "speakers": {
+      "total": 18000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "snc"
     },
     "speakers": {
       "total": 18000
@@ -7292,7 +7292,7 @@
   },
   {
     "codes": {
-      "iso639_3": "yec"
+      "iso639_3": "srh"
     },
     "speakers": {
       "total": 16000
@@ -7308,7 +7308,7 @@
   },
   {
     "codes": {
-      "iso639_3": "yog"
+      "iso639_3": "yec"
     },
     "speakers": {
       "total": 16000
@@ -7316,7 +7316,7 @@
   },
   {
     "codes": {
-      "iso639_3": "srh"
+      "iso639_3": "yog"
     },
     "speakers": {
       "total": 16000
@@ -7340,31 +7340,7 @@
   },
   {
     "codes": {
-      "iso639_3": "xkz"
-    },
-    "speakers": {
-      "total": 15000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "klr"
-    },
-    "speakers": {
-      "total": 15000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "mbb"
-    },
-    "speakers": {
-      "total": 15000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "ood"
+      "iso639_3": "cto"
     },
     "speakers": {
       "total": 15000
@@ -7380,47 +7356,7 @@
   },
   {
     "codes": {
-      "iso639_3": "mwl"
-    },
-    "speakers": {
-      "total": 15000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "qvs"
-    },
-    "speakers": {
-      "total": 15000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "cto"
-    },
-    "speakers": {
-      "total": 15000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "yli"
-    },
-    "speakers": {
-      "total": 15000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "tby"
-    },
-    "speakers": {
-      "total": 15000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "sva"
+      "iso639_3": "klr"
     },
     "speakers": {
       "total": 15000
@@ -7436,7 +7372,71 @@
   },
   {
     "codes": {
+      "iso639_3": "mbb"
+    },
+    "speakers": {
+      "total": 15000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "mwl"
+    },
+    "speakers": {
+      "total": 15000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "ood"
+    },
+    "speakers": {
+      "total": 15000
+    }
+  },
+  {
+    "codes": {
       "iso639_3": "pmt"
+    },
+    "speakers": {
+      "total": 15000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "qvs"
+    },
+    "speakers": {
+      "total": 15000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "sva"
+    },
+    "speakers": {
+      "total": 15000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "tby"
+    },
+    "speakers": {
+      "total": 15000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "xkz"
+    },
+    "speakers": {
+      "total": 15000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "yli"
     },
     "speakers": {
       "total": 15000
@@ -7468,14 +7468,6 @@
   },
   {
     "codes": {
-      "iso639_3": "cbt"
-    },
-    "speakers": {
-      "total": 14000
-    }
-  },
-  {
-    "codes": {
       "iso639_3": "bgj"
     },
     "speakers": {
@@ -7484,7 +7476,7 @@
   },
   {
     "codes": {
-      "iso639_3": "uhn"
+      "iso639_3": "cbt"
     },
     "speakers": {
       "total": 14000
@@ -7493,6 +7485,14 @@
   {
     "codes": {
       "iso639_3": "riu"
+    },
+    "speakers": {
+      "total": 14000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "uhn"
     },
     "speakers": {
       "total": 14000
@@ -7540,7 +7540,7 @@
   },
   {
     "codes": {
-      "iso639_3": "wap"
+      "iso639_3": "ghs"
     },
     "speakers": {
       "total": 13000
@@ -7564,7 +7564,7 @@
   },
   {
     "codes": {
-      "iso639_3": "ghs"
+      "iso639_3": "tvl"
     },
     "speakers": {
       "total": 13000
@@ -7572,7 +7572,7 @@
   },
   {
     "codes": {
-      "iso639_3": "tvl"
+      "iso639_3": "wap"
     },
     "speakers": {
       "total": 13000
@@ -7637,7 +7637,23 @@
   },
   {
     "codes": {
-      "iso639_3": "mbf"
+      "iso639_3": "atq"
+    },
+    "speakers": {
+      "total": 12000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "aut"
+    },
+    "speakers": {
+      "total": 12000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "bbt"
     },
     "speakers": {
       "total": 12000
@@ -7661,7 +7677,7 @@
   },
   {
     "codes": {
-      "iso639_3": "atq"
+      "iso639_3": "mbf"
     },
     "speakers": {
       "total": 12000
@@ -7670,22 +7686,6 @@
   {
     "codes": {
       "iso639_3": "mqs"
-    },
-    "speakers": {
-      "total": 12000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "bbt"
-    },
-    "speakers": {
-      "total": 12000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "aut"
     },
     "speakers": {
       "total": 12000
@@ -7741,14 +7741,6 @@
   },
   {
     "codes": {
-      "iso639_3": "moe"
-    },
-    "speakers": {
-      "total": 11000
-    }
-  },
-  {
-    "codes": {
       "iso639_3": "fax"
     },
     "speakers": {
@@ -7758,6 +7750,14 @@
   {
     "codes": {
       "iso639_3": "kuh"
+    },
+    "speakers": {
+      "total": 11000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "moe"
     },
     "speakers": {
       "total": 11000
@@ -7806,23 +7806,7 @@
   },
   {
     "codes": {
-      "iso639_3": "peh"
-    },
-    "speakers": {
-      "total": 10000
-    }
-  },
-  {
-    "codes": {
       "iso639_3": "beu"
-    },
-    "speakers": {
-      "total": 10000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "cbi"
     },
     "speakers": {
       "total": 10000
@@ -7839,7 +7823,7 @@
   },
   {
     "codes": {
-      "iso639_3": "lou"
+      "iso639_3": "car"
     },
     "speakers": {
       "total": 10000
@@ -7847,87 +7831,7 @@
   },
   {
     "codes": {
-      "iso639_3": "phl"
-    },
-    "speakers": {
-      "total": 10000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "sea"
-    },
-    "speakers": {
-      "total": 10000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "ryn"
-    },
-    "speakers": {
-      "total": 10000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "kot"
-    },
-    "speakers": {
-      "total": 10000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "ojw"
-    },
-    "speakers": {
-      "total": 10000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "rmf"
-    },
-    "speakers": {
-      "total": 10000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "mcq"
-    },
-    "speakers": {
-      "total": 10000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "kth"
-    },
-    "speakers": {
-      "total": 10000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "vgr"
-    },
-    "speakers": {
-      "total": 10000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "niu"
-    },
-    "speakers": {
-      "total": 10000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "ple"
+      "iso639_3": "cbi"
     },
     "speakers": {
       "total": 10000
@@ -7943,55 +7847,7 @@
   },
   {
     "codes": {
-      "iso639_3": "ssq"
-    },
-    "speakers": {
-      "total": 10000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "kvb"
-    },
-    "speakers": {
-      "total": 10000
-    }
-  },
-  {
-    "codes": {
       "iso639_3": "frr"
-    },
-    "speakers": {
-      "total": 10000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "lur"
-    },
-    "speakers": {
-      "total": 10000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "yva"
-    },
-    "speakers": {
-      "total": 10000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "car"
-    },
-    "speakers": {
-      "total": 10000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "scp"
     },
     "speakers": {
       "total": 10000
@@ -8007,7 +7863,151 @@
   },
   {
     "codes": {
+      "iso639_3": "kot"
+    },
+    "speakers": {
+      "total": 10000
+    }
+  },
+  {
+    "codes": {
       "iso639_3": "kry"
+    },
+    "speakers": {
+      "total": 10000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "kth"
+    },
+    "speakers": {
+      "total": 10000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "kvb"
+    },
+    "speakers": {
+      "total": 10000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "lou"
+    },
+    "speakers": {
+      "total": 10000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "lur"
+    },
+    "speakers": {
+      "total": 10000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "mcq"
+    },
+    "speakers": {
+      "total": 10000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "niu"
+    },
+    "speakers": {
+      "total": 10000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "ojw"
+    },
+    "speakers": {
+      "total": 10000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "peh"
+    },
+    "speakers": {
+      "total": 10000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "phl"
+    },
+    "speakers": {
+      "total": 10000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "ple"
+    },
+    "speakers": {
+      "total": 10000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "rmf"
+    },
+    "speakers": {
+      "total": 10000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "ryn"
+    },
+    "speakers": {
+      "total": 10000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "scp"
+    },
+    "speakers": {
+      "total": 10000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "sea"
+    },
+    "speakers": {
+      "total": 10000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "ssq"
+    },
+    "speakers": {
+      "total": 10000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "vgr"
+    },
+    "speakers": {
+      "total": 10000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "yva"
     },
     "speakers": {
       "total": 10000
@@ -8047,7 +8047,7 @@
   },
   {
     "codes": {
-      "iso639_3": "xav"
+      "iso639_3": "mbc"
     },
     "speakers": {
       "total": 9600
@@ -8055,7 +8055,7 @@
   },
   {
     "codes": {
-      "iso639_3": "mbc"
+      "iso639_3": "xav"
     },
     "speakers": {
       "total": 9600
@@ -8087,15 +8087,6 @@
   },
   {
     "codes": {
-      "iso639_1": "na",
-      "iso639_3": "nau"
-    },
-    "speakers": {
-      "total": 9300
-    }
-  },
-  {
-    "codes": {
       "iso639_3": "kxk"
     },
     "speakers": {
@@ -8104,10 +8095,11 @@
   },
   {
     "codes": {
-      "iso639_3": "mav"
+      "iso639_1": "na",
+      "iso639_3": "nau"
     },
     "speakers": {
-      "total": 9200
+      "total": 9300
     }
   },
   {
@@ -8120,15 +8112,15 @@
   },
   {
     "codes": {
-      "iso639_3": "saf"
+      "iso639_3": "mav"
     },
     "speakers": {
-      "total": 9000
+      "total": 9200
     }
   },
   {
     "codes": {
-      "iso639_3": "lbc"
+      "iso639_3": "aaa"
     },
     "speakers": {
       "total": 9000
@@ -8144,15 +8136,7 @@
   },
   {
     "codes": {
-      "iso639_3": "aaa"
-    },
-    "speakers": {
-      "total": 9000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "vid"
+      "iso639_3": "lbc"
     },
     "speakers": {
       "total": 9000
@@ -8161,6 +8145,22 @@
   {
     "codes": {
       "iso639_3": "rtm"
+    },
+    "speakers": {
+      "total": 9000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "saf"
+    },
+    "speakers": {
+      "total": 9000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "vid"
     },
     "speakers": {
       "total": 9000
@@ -8184,7 +8184,7 @@
   },
   {
     "codes": {
-      "iso639_3": "pyu"
+      "iso639_3": "mlw"
     },
     "speakers": {
       "total": 8500
@@ -8192,7 +8192,7 @@
   },
   {
     "codes": {
-      "iso639_3": "mlw"
+      "iso639_3": "pyu"
     },
     "speakers": {
       "total": 8500
@@ -8224,7 +8224,7 @@
   },
   {
     "codes": {
-      "iso639_3": "swl"
+      "iso639_3": "hub"
     },
     "speakers": {
       "total": 8000
@@ -8232,7 +8232,7 @@
   },
   {
     "codes": {
-      "iso639_3": "hub"
+      "iso639_3": "kgq"
     },
     "speakers": {
       "total": 8000
@@ -8248,7 +8248,7 @@
   },
   {
     "codes": {
-      "iso639_3": "opm"
+      "iso639_3": "kos"
     },
     "speakers": {
       "total": 8000
@@ -8256,7 +8256,7 @@
   },
   {
     "codes": {
-      "iso639_3": "kgq"
+      "iso639_3": "opm"
     },
     "speakers": {
       "total": 8000
@@ -8280,15 +8280,7 @@
   },
   {
     "codes": {
-      "iso639_3": "kos"
-    },
-    "speakers": {
-      "total": 8000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "yrl"
+      "iso639_3": "swl"
     },
     "speakers": {
       "total": 8000
@@ -8304,18 +8296,18 @@
   },
   {
     "codes": {
-      "iso639_3": "txn"
+      "iso639_3": "yrl"
     },
     "speakers": {
-      "total": 7910
+      "total": 8000
     }
   },
   {
     "codes": {
-      "iso639_3": "tcs"
+      "iso639_3": "txn"
     },
     "speakers": {
-      "total": 7800
+      "total": 7910
     }
   },
   {
@@ -8328,7 +8320,15 @@
   },
   {
     "codes": {
-      "iso639_3": "yup"
+      "iso639_3": "tcs"
+    },
+    "speakers": {
+      "total": 7800
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "muz"
     },
     "speakers": {
       "total": 7500
@@ -8344,7 +8344,7 @@
   },
   {
     "codes": {
-      "iso639_3": "muz"
+      "iso639_3": "yup"
     },
     "speakers": {
       "total": 7500
@@ -8400,14 +8400,6 @@
   },
   {
     "codes": {
-      "iso639_3": "gzi"
-    },
-    "speakers": {
-      "total": 7030
-    }
-  },
-  {
-    "codes": {
       "iso639_3": "bsg"
     },
     "speakers": {
@@ -8416,7 +8408,15 @@
   },
   {
     "codes": {
-      "iso639_3": "quk"
+      "iso639_3": "gzi"
+    },
+    "speakers": {
+      "total": 7030
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "eve"
     },
     "speakers": {
       "total": 7000
@@ -8425,14 +8425,6 @@
   {
     "codes": {
       "iso639_3": "gnw"
-    },
-    "speakers": {
-      "total": 7000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "eve"
     },
     "speakers": {
       "total": 7000
@@ -8449,6 +8441,14 @@
   {
     "codes": {
       "iso639_3": "myu"
+    },
+    "speakers": {
+      "total": 7000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "quk"
     },
     "speakers": {
       "total": 7000
@@ -8488,7 +8488,7 @@
   },
   {
     "codes": {
-      "iso639_3": "ruy"
+      "iso639_3": "byr"
     },
     "speakers": {
       "total": 6600
@@ -8496,7 +8496,7 @@
   },
   {
     "codes": {
-      "iso639_3": "byr"
+      "iso639_3": "ruy"
     },
     "speakers": {
       "total": 6600
@@ -8568,31 +8568,7 @@
   },
   {
     "codes": {
-      "iso639_3": "xka"
-    },
-    "speakers": {
-      "total": 6000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "fpe"
-    },
-    "speakers": {
-      "total": 6000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "wca"
-    },
-    "speakers": {
-      "total": 6000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "mch"
+      "iso639_3": "awo"
     },
     "speakers": {
       "total": 6000
@@ -8608,7 +8584,7 @@
   },
   {
     "codes": {
-      "iso639_3": "awo"
+      "iso639_3": "des"
     },
     "speakers": {
       "total": 6000
@@ -8616,7 +8592,39 @@
   },
   {
     "codes": {
-      "iso639_3": "des"
+      "iso639_3": "fpe"
+    },
+    "speakers": {
+      "total": 6000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "kap"
+    },
+    "speakers": {
+      "total": 6000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "kpt"
+    },
+    "speakers": {
+      "total": 6000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "lwt"
+    },
+    "speakers": {
+      "total": 6000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "mch"
     },
     "speakers": {
       "total": 6000
@@ -8640,7 +8648,7 @@
   },
   {
     "codes": {
-      "iso639_3": "lwt"
+      "iso639_3": "wca"
     },
     "speakers": {
       "total": 6000
@@ -8648,7 +8656,7 @@
   },
   {
     "codes": {
-      "iso639_3": "kpt"
+      "iso639_3": "xka"
     },
     "speakers": {
       "total": 6000
@@ -8656,15 +8664,7 @@
   },
   {
     "codes": {
-      "iso639_3": "kap"
-    },
-    "speakers": {
-      "total": 6000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "yad"
+      "iso639_3": "cal"
     },
     "speakers": {
       "total": 5700
@@ -8672,7 +8672,7 @@
   },
   {
     "codes": {
-      "iso639_3": "cal"
+      "iso639_3": "yad"
     },
     "speakers": {
       "total": 5700
@@ -8761,70 +8761,6 @@
   },
   {
     "codes": {
-      "iso639_3": "jje"
-    },
-    "speakers": {
-      "total": 5000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "urk"
-    },
-    "speakers": {
-      "total": 5000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "yle"
-    },
-    "speakers": {
-      "total": 5000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "reb"
-    },
-    "speakers": {
-      "total": 5000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "nmy"
-    },
-    "speakers": {
-      "total": 5000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "pib"
-    },
-    "speakers": {
-      "total": 5000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "xug"
-    },
-    "speakers": {
-      "total": 5000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "kls"
-    },
-    "speakers": {
-      "total": 5000
-    }
-  },
-  {
-    "codes": {
       "iso639_3": "bdc"
     },
     "speakers": {
@@ -8833,15 +8769,7 @@
   },
   {
     "codes": {
-      "iso639_3": "nea"
-    },
-    "speakers": {
-      "total": 5000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "kdx"
+      "iso639_3": "bla"
     },
     "speakers": {
       "total": 5000
@@ -8850,14 +8778,6 @@
   {
     "codes": {
       "iso639_3": "dae"
-    },
-    "speakers": {
-      "total": 5000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "piy"
     },
     "speakers": {
       "total": 5000
@@ -8881,7 +8801,7 @@
   },
   {
     "codes": {
-      "iso639_3": "ruq"
+      "iso639_3": "jje"
     },
     "speakers": {
       "total": 5000
@@ -8889,7 +8809,47 @@
   },
   {
     "codes": {
-      "iso639_3": "bla"
+      "iso639_3": "kdx"
+    },
+    "speakers": {
+      "total": 5000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "kls"
+    },
+    "speakers": {
+      "total": 5000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "nea"
+    },
+    "speakers": {
+      "total": 5000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "nmy"
+    },
+    "speakers": {
+      "total": 5000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "pib"
+    },
+    "speakers": {
+      "total": 5000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "piy"
     },
     "speakers": {
       "total": 5000
@@ -8898,6 +8858,46 @@
   {
     "codes": {
       "iso639_3": "rap"
+    },
+    "speakers": {
+      "total": 5000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "reb"
+    },
+    "speakers": {
+      "total": 5000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "ruq"
+    },
+    "speakers": {
+      "total": 5000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "urk"
+    },
+    "speakers": {
+      "total": 5000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "xug"
+    },
+    "speakers": {
+      "total": 5000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "yle"
     },
     "speakers": {
       "total": 5000
@@ -8937,7 +8937,7 @@
   },
   {
     "codes": {
-      "iso639_3": "ukk"
+      "iso639_3": "duq"
     },
     "speakers": {
       "total": 4500
@@ -8945,7 +8945,7 @@
   },
   {
     "codes": {
-      "iso639_3": "duq"
+      "iso639_3": "ukk"
     },
     "speakers": {
       "total": 4500
@@ -9041,55 +9041,7 @@
   },
   {
     "codes": {
-      "iso639_3": "wuh"
-    },
-    "speakers": {
-      "total": 4000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "kbh"
-    },
-    "speakers": {
-      "total": 4000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "paq"
-    },
-    "speakers": {
-      "total": 4000
-    }
-  },
-  {
-    "codes": {
       "iso639_3": "ckh"
-    },
-    "speakers": {
-      "total": 4000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "yuy"
-    },
-    "speakers": {
-      "total": 4000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "ror"
-    },
-    "speakers": {
-      "total": 4000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "pss"
     },
     "speakers": {
       "total": 4000
@@ -9105,7 +9057,23 @@
   },
   {
     "codes": {
+      "iso639_3": "kbh"
+    },
+    "speakers": {
+      "total": 4000
+    }
+  },
+  {
+    "codes": {
       "iso639_3": "kpc"
+    },
+    "speakers": {
+      "total": 4000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "paq"
     },
     "speakers": {
       "total": 4000
@@ -9129,6 +9097,30 @@
   },
   {
     "codes": {
+      "iso639_3": "pss"
+    },
+    "speakers": {
+      "total": 4000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "ror"
+    },
+    "speakers": {
+      "total": 4000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "wuh"
+    },
+    "speakers": {
+      "total": 4000
+    }
+  },
+  {
+    "codes": {
       "iso639_3": "xhe"
     },
     "speakers": {
@@ -9145,18 +9137,18 @@
   },
   {
     "codes": {
-      "iso639_3": "tge"
+      "iso639_3": "yuy"
     },
     "speakers": {
-      "total": 3980
+      "total": 4000
     }
   },
   {
     "codes": {
-      "iso639_3": "cul"
+      "iso639_3": "tge"
     },
     "speakers": {
-      "total": 3900
+      "total": 3980
     }
   },
   {
@@ -9177,6 +9169,14 @@
   },
   {
     "codes": {
+      "iso639_3": "cul"
+    },
+    "speakers": {
+      "total": 3900
+    }
+  },
+  {
+    "codes": {
       "iso639_3": "sja"
     },
     "speakers": {
@@ -9185,7 +9185,7 @@
   },
   {
     "codes": {
-      "iso639_3": "tao"
+      "iso639_3": "sir"
     },
     "speakers": {
       "total": 3800
@@ -9193,7 +9193,7 @@
   },
   {
     "codes": {
-      "iso639_3": "sir"
+      "iso639_3": "tao"
     },
     "speakers": {
       "total": 3800
@@ -9225,39 +9225,7 @@
   },
   {
     "codes": {
-      "iso639_3": "pbh"
-    },
-    "speakers": {
-      "total": 3500
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "sui"
-    },
-    "speakers": {
-      "total": 3500
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "nhg"
-    },
-    "speakers": {
-      "total": 3500
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "mxe"
-    },
-    "speakers": {
-      "total": 3500
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "saj"
+      "iso639_3": "kpy"
     },
     "speakers": {
       "total": 3500
@@ -9273,7 +9241,39 @@
   },
   {
     "codes": {
-      "iso639_3": "kpy"
+      "iso639_3": "mxe"
+    },
+    "speakers": {
+      "total": 3500
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "nhg"
+    },
+    "speakers": {
+      "total": 3500
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "pbh"
+    },
+    "speakers": {
+      "total": 3500
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "saj"
+    },
+    "speakers": {
+      "total": 3500
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "sui"
     },
     "speakers": {
       "total": 3500
@@ -9337,55 +9337,7 @@
   },
   {
     "codes": {
-      "iso639_3": "lud"
-    },
-    "speakers": {
-      "total": 3000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "wrx"
-    },
-    "speakers": {
-      "total": 3000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "pwg"
-    },
-    "speakers": {
-      "total": 3000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "pui"
-    },
-    "speakers": {
-      "total": 3000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "tow"
-    },
-    "speakers": {
-      "total": 3000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "sqk"
-    },
-    "speakers": {
-      "total": 3000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "auj"
+      "iso639_3": "abp"
     },
     "speakers": {
       "total": 3000
@@ -9409,23 +9361,7 @@
   },
   {
     "codes": {
-      "iso639_3": "scw"
-    },
-    "speakers": {
-      "total": 3000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "moc"
-    },
-    "speakers": {
-      "total": 3000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "abp"
+      "iso639_3": "auj"
     },
     "speakers": {
       "total": 3000
@@ -9441,6 +9377,30 @@
   },
   {
     "codes": {
+      "iso639_3": "kgr"
+    },
+    "speakers": {
+      "total": 3000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "lud"
+    },
+    "speakers": {
+      "total": 3000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "moc"
+    },
+    "speakers": {
+      "total": 3000
+    }
+  },
+  {
+    "codes": {
       "iso639_3": "nsy"
     },
     "speakers": {
@@ -9449,7 +9409,31 @@
   },
   {
     "codes": {
-      "iso639_3": "kgr"
+      "iso639_3": "pui"
+    },
+    "speakers": {
+      "total": 3000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "pwg"
+    },
+    "speakers": {
+      "total": 3000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "scw"
+    },
+    "speakers": {
+      "total": 3000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "sqk"
     },
     "speakers": {
       "total": 3000
@@ -9465,18 +9449,26 @@
   },
   {
     "codes": {
-      "iso639_3": "mte"
+      "iso639_3": "tow"
     },
     "speakers": {
-      "total": 2940
+      "total": 3000
     }
   },
   {
     "codes": {
-      "iso639_3": "huu"
+      "iso639_3": "wrx"
     },
     "speakers": {
-      "total": 2900
+      "total": 3000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "mte"
+    },
+    "speakers": {
+      "total": 2940
     }
   },
   {
@@ -9497,7 +9489,15 @@
   },
   {
     "codes": {
-      "iso639_3": "sws"
+      "iso639_3": "huu"
+    },
+    "speakers": {
+      "total": 2900
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "cjs"
     },
     "speakers": {
       "total": 2839
@@ -9505,7 +9505,7 @@
   },
   {
     "codes": {
-      "iso639_3": "cjs"
+      "iso639_3": "sws"
     },
     "speakers": {
       "total": 2839
@@ -9537,7 +9537,7 @@
   },
   {
     "codes": {
-      "iso639_3": "mgn"
+      "iso639_3": "kvv"
     },
     "speakers": {
       "total": 2750
@@ -9545,7 +9545,7 @@
   },
   {
     "codes": {
-      "iso639_3": "kvv"
+      "iso639_3": "mgn"
     },
     "speakers": {
       "total": 2750
@@ -9577,14 +9577,6 @@
   },
   {
     "codes": {
-      "iso639_3": "mue"
-    },
-    "speakers": {
-      "total": 2600
-    }
-  },
-  {
-    "codes": {
       "iso639_3": "gvc"
     },
     "speakers": {
@@ -9594,6 +9586,14 @@
   {
     "codes": {
       "iso639_3": "mbq"
+    },
+    "speakers": {
+      "total": 2600
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "mue"
     },
     "speakers": {
       "total": 2600
@@ -9617,22 +9617,6 @@
   },
   {
     "codes": {
-      "iso639_3": "dlk"
-    },
-    "speakers": {
-      "total": 2500
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "wpc"
-    },
-    "speakers": {
-      "total": 2500
-    }
-  },
-  {
-    "codes": {
       "iso639_3": "agv"
     },
     "speakers": {
@@ -9649,7 +9633,23 @@
   },
   {
     "codes": {
+      "iso639_3": "dlk"
+    },
+    "speakers": {
+      "total": 2500
+    }
+  },
+  {
+    "codes": {
       "iso639_3": "ktc"
+    },
+    "speakers": {
+      "total": 2500
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "wpc"
     },
     "speakers": {
       "total": 2500
@@ -9681,6 +9681,14 @@
   },
   {
     "codes": {
+      "iso639_3": "boa"
+    },
+    "speakers": {
+      "total": 2400
+    }
+  },
+  {
+    "codes": {
       "iso639_3": "cax"
     },
     "speakers": {
@@ -9690,14 +9698,6 @@
   {
     "codes": {
       "iso639_3": "chy"
-    },
-    "speakers": {
-      "total": 2400
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "boa"
     },
     "speakers": {
       "total": 2400
@@ -9737,15 +9737,7 @@
   },
   {
     "codes": {
-      "iso639_3": "uve"
-    },
-    "speakers": {
-      "total": 2200
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "mcm"
+      "iso639_3": "ddi"
     },
     "speakers": {
       "total": 2200
@@ -9761,7 +9753,15 @@
   },
   {
     "codes": {
-      "iso639_3": "ddi"
+      "iso639_3": "mcm"
+    },
+    "speakers": {
+      "total": 2200
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "uve"
     },
     "speakers": {
       "total": 2200
@@ -9849,47 +9849,7 @@
   },
   {
     "codes": {
-      "iso639_3": "tsd"
-    },
-    "speakers": {
-      "total": 2000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "tez"
-    },
-    "speakers": {
-      "total": 2000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "lkt"
-    },
-    "speakers": {
-      "total": 2000
-    }
-  },
-  {
-    "codes": {
       "iso639_3": "ceg"
-    },
-    "speakers": {
-      "total": 2000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "kyj"
-    },
-    "speakers": {
-      "total": 2000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "ovd"
     },
     "speakers": {
       "total": 2000
@@ -9905,23 +9865,7 @@
   },
   {
     "codes": {
-      "iso639_3": "nll"
-    },
-    "speakers": {
-      "total": 2000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "tgd"
-    },
-    "speakers": {
-      "total": 2000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "kil"
+      "iso639_3": "jbe"
     },
     "speakers": {
       "total": 2000
@@ -9937,15 +9881,7 @@
   },
   {
     "codes": {
-      "iso639_3": "smj"
-    },
-    "speakers": {
-      "total": 2000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "kyd"
+      "iso639_3": "kil"
     },
     "speakers": {
       "total": 2000
@@ -9961,7 +9897,55 @@
   },
   {
     "codes": {
+      "iso639_3": "kyd"
+    },
+    "speakers": {
+      "total": 2000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "kyj"
+    },
+    "speakers": {
+      "total": 2000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "lkt"
+    },
+    "speakers": {
+      "total": 2000
+    }
+  },
+  {
+    "codes": {
       "iso639_3": "lsl"
+    },
+    "speakers": {
+      "total": 2000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "nll"
+    },
+    "speakers": {
+      "total": 2000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "ovd"
+    },
+    "speakers": {
+      "total": 2000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "smj"
     },
     "speakers": {
       "total": 2000
@@ -9977,7 +9961,23 @@
   },
   {
     "codes": {
-      "iso639_3": "jbe"
+      "iso639_3": "tez"
+    },
+    "speakers": {
+      "total": 2000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "tgd"
+    },
+    "speakers": {
+      "total": 2000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "tsd"
     },
     "speakers": {
       "total": 2000
@@ -10025,14 +10025,6 @@
   },
   {
     "codes": {
-      "iso639_3": "pab"
-    },
-    "speakers": {
-      "total": 1800
-    }
-  },
-  {
-    "codes": {
       "iso639_3": "ams"
     },
     "speakers": {
@@ -10049,6 +10041,22 @@
   },
   {
     "codes": {
+      "iso639_3": "ess"
+    },
+    "speakers": {
+      "total": 1800
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "pab"
+    },
+    "speakers": {
+      "total": 1800
+    }
+  },
+  {
+    "codes": {
       "iso639_3": "tna"
     },
     "speakers": {
@@ -10058,14 +10066,6 @@
   {
     "codes": {
       "iso639_3": "ycn"
-    },
-    "speakers": {
-      "total": 1800
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "ess"
     },
     "speakers": {
       "total": 1800
@@ -10121,22 +10121,6 @@
   },
   {
     "codes": {
-      "iso639_3": "way"
-    },
-    "speakers": {
-      "total": 1700
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "jup"
-    },
-    "speakers": {
-      "total": 1700
-    }
-  },
-  {
-    "codes": {
       "iso639_3": "con"
     },
     "speakers": {
@@ -10153,7 +10137,23 @@
   },
   {
     "codes": {
-      "iso639_3": "knm"
+      "iso639_3": "jup"
+    },
+    "speakers": {
+      "total": 1700
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "way"
+    },
+    "speakers": {
+      "total": 1700
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "auc"
     },
     "speakers": {
       "total": 1650
@@ -10161,7 +10161,7 @@
   },
   {
     "codes": {
-      "iso639_3": "auc"
+      "iso639_3": "knm"
     },
     "speakers": {
       "total": 1650
@@ -10201,47 +10201,7 @@
   },
   {
     "codes": {
-      "iso639_3": "syw"
-    },
-    "speakers": {
-      "total": 1500
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "eso"
-    },
-    "speakers": {
-      "total": 1500
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "vay"
-    },
-    "speakers": {
-      "total": 1500
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "jkr"
-    },
-    "speakers": {
-      "total": 1500
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "slc"
-    },
-    "speakers": {
-      "total": 1500
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "tee"
+      "iso639_3": "amp"
     },
     "speakers": {
       "total": 1500
@@ -10257,7 +10217,15 @@
   },
   {
     "codes": {
-      "iso639_3": "amp"
+      "iso639_3": "eso"
+    },
+    "speakers": {
+      "total": 1500
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "jkr"
     },
     "speakers": {
       "total": 1500
@@ -10273,7 +10241,39 @@
   },
   {
     "codes": {
+      "iso639_3": "slc"
+    },
+    "speakers": {
+      "total": 1500
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "syw"
+    },
+    "speakers": {
+      "total": 1500
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "tee"
+    },
+    "speakers": {
+      "total": 1500
+    }
+  },
+  {
+    "codes": {
       "iso639_3": "tlv"
+    },
+    "speakers": {
+      "total": 1500
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "vay"
     },
     "speakers": {
       "total": 1500
@@ -10297,7 +10297,7 @@
   },
   {
     "codes": {
-      "iso639_3": "xns"
+      "iso639_3": "naz"
     },
     "speakers": {
       "total": 1400
@@ -10305,7 +10305,7 @@
   },
   {
     "codes": {
-      "iso639_3": "naz"
+      "iso639_3": "xns"
     },
     "speakers": {
       "total": 1400
@@ -10337,14 +10337,6 @@
   },
   {
     "codes": {
-      "iso639_3": "sny"
-    },
-    "speakers": {
-      "total": 1300
-    }
-  },
-  {
-    "codes": {
       "iso639_3": "pfa"
     },
     "speakers": {
@@ -10354,6 +10346,14 @@
   {
     "codes": {
       "iso639_3": "ppl"
+    },
+    "speakers": {
+      "total": 1300
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "sny"
     },
     "speakers": {
       "total": 1300
@@ -10385,15 +10385,7 @@
   },
   {
     "codes": {
-      "iso639_3": "yui"
-    },
-    "speakers": {
-      "total": 1200
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "orh"
+      "iso639_3": "cbr"
     },
     "speakers": {
       "total": 1200
@@ -10409,7 +10401,7 @@
   },
   {
     "codes": {
-      "iso639_3": "cbr"
+      "iso639_3": "kud"
     },
     "speakers": {
       "total": 1200
@@ -10425,14 +10417,6 @@
   },
   {
     "codes": {
-      "iso639_3": "kud"
-    },
-    "speakers": {
-      "total": 1200
-    }
-  },
-  {
-    "codes": {
       "iso639_3": "mwc"
     },
     "speakers": {
@@ -10441,7 +10425,23 @@
   },
   {
     "codes": {
+      "iso639_3": "orh"
+    },
+    "speakers": {
+      "total": 1200
+    }
+  },
+  {
+    "codes": {
       "iso639_3": "sey"
+    },
+    "speakers": {
+      "total": 1200
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "yui"
     },
     "speakers": {
       "total": 1200
@@ -10521,7 +10521,7 @@
   },
   {
     "codes": {
-      "iso639_3": "wno"
+      "iso639_3": "abo"
     },
     "speakers": {
       "total": 1000
@@ -10529,7 +10529,23 @@
   },
   {
     "codes": {
-      "iso639_3": "tia"
+      "iso639_3": "air"
+    },
+    "speakers": {
+      "total": 1000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "arp"
+    },
+    "speakers": {
+      "total": 1000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "goe"
     },
     "speakers": {
       "total": 1000
@@ -10545,7 +10561,7 @@
   },
   {
     "codes": {
-      "iso639_3": "kxs"
+      "iso639_3": "huz"
     },
     "speakers": {
       "total": 1000
@@ -10553,7 +10569,7 @@
   },
   {
     "codes": {
-      "iso639_3": "shh"
+      "iso639_3": "ist"
     },
     "speakers": {
       "total": 1000
@@ -10593,7 +10609,7 @@
   },
   {
     "codes": {
-      "iso639_3": "air"
+      "iso639_3": "kxs"
     },
     "speakers": {
       "total": 1000
@@ -10609,55 +10625,7 @@
   },
   {
     "codes": {
-      "iso639_3": "tak"
-    },
-    "speakers": {
-      "total": 1000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "abo"
-    },
-    "speakers": {
-      "total": 1000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "goe"
-    },
-    "speakers": {
-      "total": 1000
-    }
-  },
-  {
-    "codes": {
       "iso639_3": "psd"
-    },
-    "speakers": {
-      "total": 1000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "arp"
-    },
-    "speakers": {
-      "total": 1000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "huz"
-    },
-    "speakers": {
-      "total": 1000
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "stq"
     },
     "speakers": {
       "total": 1000
@@ -10673,6 +10641,38 @@
   },
   {
     "codes": {
+      "iso639_3": "shh"
+    },
+    "speakers": {
+      "total": 1000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "stq"
+    },
+    "speakers": {
+      "total": 1000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "tak"
+    },
+    "speakers": {
+      "total": 1000
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "tia"
+    },
+    "speakers": {
+      "total": 1000
+    }
+  },
+  {
+    "codes": {
       "iso639_3": "trm"
     },
     "speakers": {
@@ -10681,7 +10681,7 @@
   },
   {
     "codes": {
-      "iso639_3": "ist"
+      "iso639_3": "wno"
     },
     "speakers": {
       "total": 1000
@@ -10753,7 +10753,15 @@
   },
   {
     "codes": {
-      "iso639_3": "yau"
+      "iso639_3": "lcd"
+    },
+    "speakers": {
+      "total": 900
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "sei"
     },
     "speakers": {
       "total": 900
@@ -10769,15 +10777,7 @@
   },
   {
     "codes": {
-      "iso639_3": "lcd"
-    },
-    "speakers": {
-      "total": 900
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "sei"
+      "iso639_3": "yau"
     },
     "speakers": {
       "total": 900
@@ -10817,31 +10817,7 @@
   },
   {
     "codes": {
-      "iso639_3": "vkp"
-    },
-    "speakers": {
-      "total": 800
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "tkw"
-    },
-    "speakers": {
-      "total": 800
-    }
-  },
-  {
-    "codes": {
       "iso639_3": "anz"
-    },
-    "speakers": {
-      "total": 800
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "twf"
     },
     "speakers": {
       "total": 800
@@ -10858,6 +10834,30 @@
   {
     "codes": {
       "iso639_3": "hts"
+    },
+    "speakers": {
+      "total": 800
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "tkw"
+    },
+    "speakers": {
+      "total": 800
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "twf"
+    },
+    "speakers": {
+      "total": 800
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "vkp"
     },
     "speakers": {
       "total": 800
@@ -10905,7 +10905,7 @@
   },
   {
     "codes": {
-      "iso639_3": "rma"
+      "iso639_3": "dny"
     },
     "speakers": {
       "total": 740
@@ -10913,7 +10913,7 @@
   },
   {
     "codes": {
-      "iso639_3": "dny"
+      "iso639_3": "rma"
     },
     "speakers": {
       "total": 740
@@ -10953,7 +10953,7 @@
   },
   {
     "codes": {
-      "iso639_3": "knt"
+      "iso639_3": "ese"
     },
     "speakers": {
       "total": 700
@@ -10961,7 +10961,7 @@
   },
   {
     "codes": {
-      "iso639_3": "ese"
+      "iso639_3": "knt"
     },
     "speakers": {
       "total": 700
@@ -11009,39 +11009,6 @@
   },
   {
     "codes": {
-      "iso639_3": "kdd"
-    },
-    "speakers": {
-      "total": 600
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "kay"
-    },
-    "speakers": {
-      "total": 600
-    }
-  },
-  {
-    "codes": {
-      "iso639_1": "kw",
-      "iso639_3": "cor"
-    },
-    "speakers": {
-      "total": 600
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "yha"
-    },
-    "speakers": {
-      "total": 600
-    }
-  },
-  {
-    "codes": {
       "iso639_3": "cao"
     },
     "speakers": {
@@ -11058,30 +11025,6 @@
   },
   {
     "codes": {
-      "iso639_3": "zsa"
-    },
-    "speakers": {
-      "total": 600
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "sma"
-    },
-    "speakers": {
-      "total": 600
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "nce"
-    },
-    "speakers": {
-      "total": 600
-    }
-  },
-  {
-    "codes": {
       "iso639_3": "isk"
     },
     "speakers": {
@@ -11090,7 +11033,24 @@
   },
   {
     "codes": {
-      "iso639_3": "pyy"
+      "iso639_3": "kay"
+    },
+    "speakers": {
+      "total": 600
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "kdd"
+    },
+    "speakers": {
+      "total": 600
+    }
+  },
+  {
+    "codes": {
+      "iso639_1": "kw",
+      "iso639_3": "cor"
     },
     "speakers": {
       "total": 600
@@ -11106,7 +11066,31 @@
   },
   {
     "codes": {
+      "iso639_3": "nce"
+    },
+    "speakers": {
+      "total": 600
+    }
+  },
+  {
+    "codes": {
       "iso639_3": "nil"
+    },
+    "speakers": {
+      "total": 600
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "pyy"
+    },
+    "speakers": {
+      "total": 600
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "sma"
     },
     "speakers": {
       "total": 600
@@ -11122,18 +11106,26 @@
   },
   {
     "codes": {
-      "iso639_3": "pqm"
+      "iso639_3": "yha"
     },
     "speakers": {
-      "total": 590
+      "total": 600
     }
   },
   {
     "codes": {
-      "iso639_3": "unk"
+      "iso639_3": "zsa"
     },
     "speakers": {
-      "total": 570
+      "total": 600
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "pqm"
+    },
+    "speakers": {
+      "total": 590
     }
   },
   {
@@ -11146,7 +11138,15 @@
   },
   {
     "codes": {
-      "iso639_3": "snn"
+      "iso639_3": "unk"
+    },
+    "speakers": {
+      "total": 570
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "esy"
     },
     "speakers": {
       "total": 550
@@ -11154,7 +11154,7 @@
   },
   {
     "codes": {
-      "iso639_3": "esy"
+      "iso639_3": "snn"
     },
     "speakers": {
       "total": 550
@@ -11194,47 +11194,7 @@
   },
   {
     "codes": {
-      "iso639_3": "txi"
-    },
-    "speakers": {
-      "total": 500
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "jic"
-    },
-    "speakers": {
-      "total": 500
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "cot"
-    },
-    "speakers": {
-      "total": 500
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "kwk"
-    },
-    "speakers": {
-      "total": 500
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "cji"
-    },
-    "speakers": {
-      "total": 500
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "tsy"
+      "iso639_3": "amr"
     },
     "speakers": {
       "total": 500
@@ -11250,6 +11210,38 @@
   },
   {
     "codes": {
+      "iso639_3": "cji"
+    },
+    "speakers": {
+      "total": 500
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "cot"
+    },
+    "speakers": {
+      "total": 500
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "jic"
+    },
+    "speakers": {
+      "total": 500
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "kwk"
+    },
+    "speakers": {
+      "total": 500
+    }
+  },
+  {
+    "codes": {
       "iso639_3": "sjd"
     },
     "speakers": {
@@ -11258,7 +11250,15 @@
   },
   {
     "codes": {
-      "iso639_3": "amr"
+      "iso639_3": "tsy"
+    },
+    "speakers": {
+      "total": 500
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "txi"
     },
     "speakers": {
       "total": 500
@@ -11274,6 +11274,14 @@
   },
   {
     "codes": {
+      "iso639_3": "ems"
+    },
+    "speakers": {
+      "total": 450
+    }
+  },
+  {
+    "codes": {
       "iso639_3": "jmw"
     },
     "speakers": {
@@ -11283,14 +11291,6 @@
   {
     "codes": {
       "iso639_3": "pkp"
-    },
-    "speakers": {
-      "total": 450
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "ems"
     },
     "speakers": {
       "total": 450
@@ -11330,71 +11330,7 @@
   },
   {
     "codes": {
-      "iso639_3": "yoi"
-    },
-    "speakers": {
-      "total": 400
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "eme"
-    },
-    "speakers": {
-      "total": 400
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "tav"
-    },
-    "speakers": {
-      "total": 400
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "srq"
-    },
-    "speakers": {
-      "total": 400
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "zem"
-    },
-    "speakers": {
-      "total": 400
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "cim"
-    },
-    "speakers": {
-      "total": 400
-    }
-  },
-  {
-    "codes": {
       "iso639_3": "bxd"
-    },
-    "speakers": {
-      "total": 400
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "sbf"
-    },
-    "speakers": {
-      "total": 400
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "yab"
     },
     "speakers": {
       "total": 400
@@ -11410,7 +11346,7 @@
   },
   {
     "codes": {
-      "iso639_3": "dmr"
+      "iso639_3": "cim"
     },
     "speakers": {
       "total": 400
@@ -11419,6 +11355,70 @@
   {
     "codes": {
       "iso639_3": "dal"
+    },
+    "speakers": {
+      "total": 400
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "dmr"
+    },
+    "speakers": {
+      "total": 400
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "eme"
+    },
+    "speakers": {
+      "total": 400
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "sbf"
+    },
+    "speakers": {
+      "total": 400
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "srq"
+    },
+    "speakers": {
+      "total": 400
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "tav"
+    },
+    "speakers": {
+      "total": 400
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "yab"
+    },
+    "speakers": {
+      "total": 400
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "yoi"
+    },
+    "speakers": {
+      "total": 400
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "zem"
     },
     "speakers": {
       "total": 400
@@ -11458,6 +11458,14 @@
   },
   {
     "codes": {
+      "iso639_3": "ano"
+    },
+    "speakers": {
+      "total": 370
+    }
+  },
+  {
+    "codes": {
       "iso639_3": "cku"
     },
     "speakers": {
@@ -11470,22 +11478,6 @@
     },
     "speakers": {
       "total": 370
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "ano"
-    },
-    "speakers": {
-      "total": 370
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "suy"
-    },
-    "speakers": {
-      "total": 350
     }
   },
   {
@@ -11514,10 +11506,10 @@
   },
   {
     "codes": {
-      "iso639_3": "wmd"
+      "iso639_3": "suy"
     },
     "speakers": {
-      "total": 340
+      "total": 350
     }
   },
   {
@@ -11531,6 +11523,14 @@
   {
     "codes": {
       "iso639_3": "lnn"
+    },
+    "speakers": {
+      "total": 340
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "wmd"
     },
     "speakers": {
       "total": 340
@@ -11562,7 +11562,7 @@
   },
   {
     "codes": {
-      "iso639_3": "dhg"
+      "iso639_3": "amc"
     },
     "speakers": {
       "total": 310
@@ -11578,7 +11578,7 @@
   },
   {
     "codes": {
-      "iso639_3": "amc"
+      "iso639_3": "dhg"
     },
     "speakers": {
       "total": 310
@@ -11590,6 +11590,14 @@
     },
     "speakers": {
       "total": 310
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "bsa"
+    },
+    "speakers": {
+      "total": 300
     }
   },
   {
@@ -11610,7 +11618,15 @@
   },
   {
     "codes": {
-      "iso639_3": "bsa"
+      "iso639_3": "smn"
+    },
+    "speakers": {
+      "total": 300
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "tip"
     },
     "speakers": {
       "total": 300
@@ -11642,18 +11658,10 @@
   },
   {
     "codes": {
-      "iso639_3": "tip"
+      "iso639_3": "aag"
     },
     "speakers": {
-      "total": 300
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "smn"
-    },
-    "speakers": {
-      "total": 300
+      "total": 290
     }
   },
   {
@@ -11667,14 +11675,6 @@
   {
     "codes": {
       "iso639_3": "rmh"
-    },
-    "speakers": {
-      "total": 290
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "aag"
     },
     "speakers": {
       "total": 290
@@ -11722,7 +11722,7 @@
   },
   {
     "codes": {
-      "iso639_3": "rey"
+      "iso639_3": "cod"
     },
     "speakers": {
       "total": 250
@@ -11738,7 +11738,7 @@
   },
   {
     "codes": {
-      "iso639_3": "cod"
+      "iso639_3": "rey"
     },
     "speakers": {
       "total": 250
@@ -11786,7 +11786,7 @@
   },
   {
     "codes": {
-      "iso639_3": "sri"
+      "iso639_3": "kis"
     },
     "speakers": {
       "total": 220
@@ -11802,7 +11802,7 @@
   },
   {
     "codes": {
-      "iso639_3": "kis"
+      "iso639_3": "sri"
     },
     "speakers": {
       "total": 220
@@ -11818,7 +11818,7 @@
   },
   {
     "codes": {
-      "iso639_3": "bph"
+      "iso639_3": "arr"
     },
     "speakers": {
       "total": 210
@@ -11826,7 +11826,7 @@
   },
   {
     "codes": {
-      "iso639_3": "arr"
+      "iso639_3": "bph"
     },
     "speakers": {
       "total": 210
@@ -11850,47 +11850,7 @@
   },
   {
     "codes": {
-      "iso639_3": "zen"
-    },
-    "speakers": {
-      "total": 200
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "ure"
-    },
-    "speakers": {
-      "total": 200
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "ale"
-    },
-    "speakers": {
-      "total": 200
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "bdk"
-    },
-    "speakers": {
-      "total": 200
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "tba"
-    },
-    "speakers": {
-      "total": 200
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "lnb"
+      "iso639_3": "aaf"
     },
     "speakers": {
       "total": 200
@@ -11906,23 +11866,7 @@
   },
   {
     "codes": {
-      "iso639_3": "rac"
-    },
-    "speakers": {
-      "total": 200
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "wrm"
-    },
-    "speakers": {
-      "total": 200
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "tno"
+      "iso639_3": "ale"
     },
     "speakers": {
       "total": 200
@@ -11938,7 +11882,7 @@
   },
   {
     "codes": {
-      "iso639_3": "aaf"
+      "iso639_3": "bdk"
     },
     "speakers": {
       "total": 200
@@ -11954,6 +11898,62 @@
   },
   {
     "codes": {
+      "iso639_3": "lnb"
+    },
+    "speakers": {
+      "total": 200
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "rac"
+    },
+    "speakers": {
+      "total": 200
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "tba"
+    },
+    "speakers": {
+      "total": 200
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "tno"
+    },
+    "speakers": {
+      "total": 200
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "ure"
+    },
+    "speakers": {
+      "total": 200
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "wrm"
+    },
+    "speakers": {
+      "total": 200
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "zen"
+    },
+    "speakers": {
+      "total": 200
+    }
+  },
+  {
+    "codes": {
       "iso639_3": "niv"
     },
     "speakers": {
@@ -11962,7 +11962,7 @@
   },
   {
     "codes": {
-      "iso639_3": "oca"
+      "iso639_3": "mik"
     },
     "speakers": {
       "total": 190
@@ -11970,7 +11970,7 @@
   },
   {
     "codes": {
-      "iso639_3": "mik"
+      "iso639_3": "oca"
     },
     "speakers": {
       "total": 190
@@ -12034,7 +12034,7 @@
   },
   {
     "codes": {
-      "iso639_3": "cby"
+      "iso639_3": "bmr"
     },
     "speakers": {
       "total": 150
@@ -12042,7 +12042,7 @@
   },
   {
     "codes": {
-      "iso639_3": "bmr"
+      "iso639_3": "cby"
     },
     "speakers": {
       "total": 150
@@ -12106,6 +12106,14 @@
   },
   {
     "codes": {
+      "iso639_3": "irn"
+    },
+    "speakers": {
+      "total": 125
+    }
+  },
+  {
+    "codes": {
       "iso639_3": "nio"
     },
     "speakers": {
@@ -12114,10 +12122,10 @@
   },
   {
     "codes": {
-      "iso639_3": "irn"
+      "iso639_3": "ili"
     },
     "speakers": {
-      "total": 125
+      "total": 120
     }
   },
   {
@@ -12138,15 +12146,7 @@
   },
   {
     "codes": {
-      "iso639_3": "ili"
-    },
-    "speakers": {
-      "total": 120
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "drl"
+      "iso639_3": "bck"
     },
     "speakers": {
       "total": 110
@@ -12154,7 +12154,7 @@
   },
   {
     "codes": {
-      "iso639_3": "bck"
+      "iso639_3": "drl"
     },
     "speakers": {
       "total": 110
@@ -12178,71 +12178,7 @@
   },
   {
     "codes": {
-      "iso639_3": "sju"
-    },
-    "speakers": {
-      "total": 100
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "pre"
-    },
-    "speakers": {
-      "total": 100
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "uln"
-    },
-    "speakers": {
-      "total": 100
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "kut"
-    },
-    "speakers": {
-      "total": 100
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "see"
-    },
-    "speakers": {
-      "total": 100
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "tau"
-    },
-    "speakers": {
-      "total": 100
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "ukq"
-    },
-    "speakers": {
-      "total": 100
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "pby"
-    },
-    "speakers": {
-      "total": 100
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "tae"
+      "iso639_3": "akz"
     },
     "speakers": {
       "total": 100
@@ -12266,6 +12202,14 @@
   },
   {
     "codes": {
+      "iso639_3": "kut"
+    },
+    "speakers": {
+      "total": 100
+    }
+  },
+  {
+    "codes": {
       "iso639_3": "nez"
     },
     "speakers": {
@@ -12274,7 +12218,63 @@
   },
   {
     "codes": {
-      "iso639_3": "akz"
+      "iso639_3": "pby"
+    },
+    "speakers": {
+      "total": 100
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "pre"
+    },
+    "speakers": {
+      "total": 100
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "see"
+    },
+    "speakers": {
+      "total": 100
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "sju"
+    },
+    "speakers": {
+      "total": 100
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "tae"
+    },
+    "speakers": {
+      "total": 100
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "tau"
+    },
+    "speakers": {
+      "total": 100
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "ukq"
+    },
+    "speakers": {
+      "total": 100
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "uln"
     },
     "speakers": {
       "total": 100
@@ -12314,14 +12314,6 @@
   },
   {
     "codes": {
-      "iso639_3": "kgs"
-    },
-    "speakers": {
-      "total": 90
-    }
-  },
-  {
-    "codes": {
       "iso639_3": "hei"
     },
     "speakers": {
@@ -12330,7 +12322,15 @@
   },
   {
     "codes": {
-      "iso639_3": "itl"
+      "iso639_3": "kgs"
+    },
+    "speakers": {
+      "total": 90
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "isc"
     },
     "speakers": {
       "total": 82
@@ -12338,7 +12338,7 @@
   },
   {
     "codes": {
-      "iso639_3": "isc"
+      "iso639_3": "itl"
     },
     "speakers": {
       "total": 82
@@ -12354,7 +12354,7 @@
   },
   {
     "codes": {
-      "iso639_3": "kdr"
+      "iso639_3": "aht"
     },
     "speakers": {
       "total": 80
@@ -12362,7 +12362,7 @@
   },
   {
     "codes": {
-      "iso639_3": "aht"
+      "iso639_3": "kdr"
     },
     "speakers": {
       "total": 80
@@ -12386,15 +12386,7 @@
   },
   {
     "codes": {
-      "iso639_3": "ehs"
-    },
-    "speakers": {
-      "total": 70
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "ore"
+      "iso639_3": "auq"
     },
     "speakers": {
       "total": 70
@@ -12410,7 +12402,15 @@
   },
   {
     "codes": {
-      "iso639_3": "auq"
+      "iso639_3": "ehs"
+    },
+    "speakers": {
+      "total": 70
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "ore"
     },
     "speakers": {
       "total": 70
@@ -12434,7 +12434,7 @@
   },
   {
     "codes": {
-      "iso639_3": "gge"
+      "iso639_3": "cuj"
     },
     "speakers": {
       "total": 60
@@ -12442,7 +12442,7 @@
   },
   {
     "codes": {
-      "iso639_3": "cuj"
+      "iso639_3": "gge"
     },
     "speakers": {
       "total": 60
@@ -12466,7 +12466,7 @@
   },
   {
     "codes": {
-      "iso639_3": "one"
+      "iso639_3": "cay"
     },
     "speakers": {
       "total": 55
@@ -12474,7 +12474,7 @@
   },
   {
     "codes": {
-      "iso639_3": "cay"
+      "iso639_3": "one"
     },
     "speakers": {
       "total": 55
@@ -12498,22 +12498,6 @@
   },
   {
     "codes": {
-      "iso639_3": "mzs"
-    },
-    "speakers": {
-      "total": 50
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "teu"
-    },
-    "speakers": {
-      "total": 50
-    }
-  },
-  {
-    "codes": {
       "iso639_3": "aac"
     },
     "speakers": {
@@ -12522,7 +12506,39 @@
   },
   {
     "codes": {
+      "iso639_3": "arl"
+    },
+    "speakers": {
+      "total": 50
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "brd"
+    },
+    "speakers": {
+      "total": 50
+    }
+  },
+  {
+    "codes": {
       "iso639_3": "mok"
+    },
+    "speakers": {
+      "total": 50
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "mzs"
+    },
+    "speakers": {
+      "total": 50
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "prg"
     },
     "speakers": {
       "total": 50
@@ -12546,23 +12562,7 @@
   },
   {
     "codes": {
-      "iso639_3": "arl"
-    },
-    "speakers": {
-      "total": 50
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "yux"
-    },
-    "speakers": {
-      "total": 50
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "brd"
+      "iso639_3": "teu"
     },
     "speakers": {
       "total": 50
@@ -12578,7 +12578,7 @@
   },
   {
     "codes": {
-      "iso639_3": "prg"
+      "iso639_3": "yux"
     },
     "speakers": {
       "total": 50
@@ -12594,7 +12594,7 @@
   },
   {
     "codes": {
-      "iso639_3": "kju"
+      "iso639_3": "bpl"
     },
     "speakers": {
       "total": 45
@@ -12602,7 +12602,7 @@
   },
   {
     "codes": {
-      "iso639_3": "bpl"
+      "iso639_3": "kju"
     },
     "speakers": {
       "total": 45
@@ -12618,7 +12618,7 @@
   },
   {
     "codes": {
-      "iso639_3": "ono"
+      "iso639_3": "alr"
     },
     "speakers": {
       "total": 40
@@ -12634,7 +12634,15 @@
   },
   {
     "codes": {
-      "iso639_3": "alr"
+      "iso639_3": "ing"
+    },
+    "speakers": {
+      "total": 40
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "ono"
     },
     "speakers": {
       "total": 40
@@ -12646,38 +12654,6 @@
     },
     "speakers": {
       "total": 40
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "ing"
-    },
-    "speakers": {
-      "total": 40
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "mrc"
-    },
-    "speakers": {
-      "total": 35
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "mez"
-    },
-    "speakers": {
-      "total": 35
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "qvp"
-    },
-    "speakers": {
-      "total": 35
     }
   },
   {
@@ -12698,10 +12674,42 @@
   },
   {
     "codes": {
+      "iso639_3": "mez"
+    },
+    "speakers": {
+      "total": 35
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "mrc"
+    },
+    "speakers": {
+      "total": 35
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "qvp"
+    },
+    "speakers": {
+      "total": 35
+    }
+  },
+  {
+    "codes": {
       "iso639_3": "xpk"
     },
     "speakers": {
       "total": 32
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "amy"
+    },
+    "speakers": {
+      "total": 30
     }
   },
   {
@@ -12714,7 +12722,7 @@
   },
   {
     "codes": {
-      "iso639_3": "amy"
+      "iso639_3": "jmd"
     },
     "speakers": {
       "total": 30
@@ -12746,15 +12754,7 @@
   },
   {
     "codes": {
-      "iso639_3": "jmd"
-    },
-    "speakers": {
-      "total": 30
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "xor"
+      "iso639_3": "agu"
     },
     "speakers": {
       "total": 27
@@ -12762,7 +12762,7 @@
   },
   {
     "codes": {
-      "iso639_3": "agu"
+      "iso639_3": "xor"
     },
     "speakers": {
       "total": 27
@@ -12786,7 +12786,7 @@
   },
   {
     "codes": {
-      "iso639_3": "was"
+      "iso639_3": "kio"
     },
     "speakers": {
       "total": 20
@@ -12794,7 +12794,7 @@
   },
   {
     "codes": {
-      "iso639_3": "kio"
+      "iso639_3": "mfr"
     },
     "speakers": {
       "total": 20
@@ -12818,23 +12818,7 @@
   },
   {
     "codes": {
-      "iso639_3": "mfr"
-    },
-    "speakers": {
-      "total": 20
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "zmd"
-    },
-    "speakers": {
-      "total": 20
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "zmy"
+      "iso639_3": "was"
     },
     "speakers": {
       "total": 20
@@ -12850,7 +12834,23 @@
   },
   {
     "codes": {
+      "iso639_3": "zmd"
+    },
+    "speakers": {
+      "total": 20
+    }
+  },
+  {
+    "codes": {
       "iso639_3": "zmj"
+    },
+    "speakers": {
+      "total": 20
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "zmy"
     },
     "speakers": {
       "total": 20
@@ -12874,7 +12874,7 @@
   },
   {
     "codes": {
-      "iso639_3": "zmr"
+      "iso639_3": "zmm"
     },
     "speakers": {
       "total": 15
@@ -12882,7 +12882,7 @@
   },
   {
     "codes": {
-      "iso639_3": "zmm"
+      "iso639_3": "zmr"
     },
     "speakers": {
       "total": 15
@@ -12898,6 +12898,14 @@
   },
   {
     "codes": {
+      "iso639_3": "alc"
+    },
+    "speakers": {
+      "total": 12
+    }
+  },
+  {
+    "codes": {
       "iso639_3": "alh"
     },
     "speakers": {
@@ -12907,6 +12915,14 @@
   {
     "codes": {
       "iso639_3": "bxe"
+    },
+    "speakers": {
+      "total": 12
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "csm"
     },
     "speakers": {
       "total": 12
@@ -12930,22 +12946,6 @@
   },
   {
     "codes": {
-      "iso639_3": "csm"
-    },
-    "speakers": {
-      "total": 12
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "alc"
-    },
-    "speakers": {
-      "total": 12
-    }
-  },
-  {
-    "codes": {
       "iso639_3": "lio"
     },
     "speakers": {
@@ -12962,31 +12962,31 @@
   },
   {
     "codes": {
+      "iso639_3": "ain"
+    },
+    "speakers": {
+      "total": 10
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "ari"
+    },
+    "speakers": {
+      "total": 10
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "ats"
+    },
+    "speakers": {
+      "total": 10
+    }
+  },
+  {
+    "codes": {
       "iso639_3": "cbd"
-    },
-    "speakers": {
-      "total": 10
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "yhs"
-    },
-    "speakers": {
-      "total": 10
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "sxr"
-    },
-    "speakers": {
-      "total": 10
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "tpv"
     },
     "speakers": {
       "total": 10
@@ -13010,38 +13010,6 @@
   },
   {
     "codes": {
-      "iso639_3": "scq"
-    },
-    "speakers": {
-      "total": 10
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "ain"
-    },
-    "speakers": {
-      "total": 10
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "xat"
-    },
-    "speakers": {
-      "total": 10
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "ats"
-    },
-    "speakers": {
-      "total": 10
-    }
-  },
-  {
-    "codes": {
       "iso639_3": "nju"
     },
     "speakers": {
@@ -13058,7 +13026,7 @@
   },
   {
     "codes": {
-      "iso639_3": "ari"
+      "iso639_3": "scq"
     },
     "speakers": {
       "total": 10
@@ -13066,10 +13034,34 @@
   },
   {
     "codes": {
-      "iso639_3": "gyd"
+      "iso639_3": "sxr"
     },
     "speakers": {
-      "total": 8
+      "total": 10
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "tpv"
+    },
+    "speakers": {
+      "total": 10
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "xat"
+    },
+    "speakers": {
+      "total": 10
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "yhs"
+    },
+    "speakers": {
+      "total": 10
     }
   },
   {
@@ -13082,7 +13074,15 @@
   },
   {
     "codes": {
-      "iso639_3": "yaw"
+      "iso639_3": "gyd"
+    },
+    "speakers": {
+      "total": 8
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "hup"
     },
     "speakers": {
       "total": 8
@@ -13098,7 +13098,7 @@
   },
   {
     "codes": {
-      "iso639_3": "hup"
+      "iso639_3": "yaw"
     },
     "speakers": {
       "total": 8
@@ -13130,7 +13130,7 @@
   },
   {
     "codes": {
-      "iso639_3": "atx"
+      "iso639_3": "abg"
     },
     "speakers": {
       "total": 5
@@ -13138,7 +13138,7 @@
   },
   {
     "codes": {
-      "iso639_3": "orw"
+      "iso639_3": "atx"
     },
     "speakers": {
       "total": 5
@@ -13154,7 +13154,7 @@
   },
   {
     "codes": {
-      "iso639_3": "wdj"
+      "iso639_3": "orw"
     },
     "speakers": {
       "total": 5
@@ -13162,7 +13162,7 @@
   },
   {
     "codes": {
-      "iso639_3": "abg"
+      "iso639_3": "wdj"
     },
     "speakers": {
       "total": 5
@@ -13178,15 +13178,7 @@
   },
   {
     "codes": {
-      "iso639_3": "xnb"
-    },
-    "speakers": {
-      "total": 4
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "tnx"
+      "iso639_3": "bdn"
     },
     "speakers": {
       "total": 4
@@ -13210,7 +13202,7 @@
   },
   {
     "codes": {
-      "iso639_3": "bdn"
+      "iso639_3": "inp"
     },
     "speakers": {
       "total": 4
@@ -13218,7 +13210,15 @@
   },
   {
     "codes": {
-      "iso639_3": "inp"
+      "iso639_3": "tnx"
+    },
+    "speakers": {
+      "total": 4
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "xnb"
     },
     "speakers": {
       "total": 4
@@ -13242,7 +13242,7 @@
   },
   {
     "codes": {
-      "iso639_3": "zmg"
+      "iso639_3": "ngh"
     },
     "speakers": {
       "total": 3
@@ -13258,7 +13258,7 @@
   },
   {
     "codes": {
-      "iso639_3": "ngh"
+      "iso639_3": "zmg"
     },
     "speakers": {
       "total": 3
@@ -13266,7 +13266,7 @@
   },
   {
     "codes": {
-      "iso639_3": "omg"
+      "iso639_3": "ccc"
     },
     "speakers": {
       "total": 2
@@ -13290,7 +13290,7 @@
   },
   {
     "codes": {
-      "iso639_3": "ccc"
+      "iso639_3": "omg"
     },
     "speakers": {
       "total": 2
@@ -13302,6 +13302,22 @@
     },
     "speakers": {
       "total": 2
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "chn"
+    },
+    "speakers": {
+      "total": 1
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "ito"
+    },
+    "speakers": {
+      "total": 1
     }
   },
   {
@@ -13330,14 +13346,6 @@
   },
   {
     "codes": {
-      "iso639_3": "ito"
-    },
-    "speakers": {
-      "total": 1
-    }
-  },
-  {
-    "codes": {
       "iso639_3": "trr"
     },
     "speakers": {
@@ -13346,15 +13354,23 @@
   },
   {
     "codes": {
-      "iso639_3": "chn"
+      "iso639_3": "ako"
     },
     "speakers": {
-      "total": 1
+      "total": 0
     }
   },
   {
     "codes": {
-      "iso639_3": "ako"
+      "iso639_3": "amg"
+    },
+    "speakers": {
+      "total": 0
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "cah"
     },
     "speakers": {
       "total": 0
@@ -13378,7 +13394,7 @@
   },
   {
     "codes": {
-      "iso639_3": "pzh"
+      "iso639_3": "elo"
     },
     "speakers": {
       "total": 0
@@ -13386,23 +13402,7 @@
   },
   {
     "codes": {
-      "iso639_3": "cah"
-    },
-    "speakers": {
-      "total": 0
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "amg"
-    },
-    "speakers": {
-      "total": 0
-    }
-  },
-  {
-    "codes": {
-      "iso639_3": "pmw"
+      "iso639_3": "gbu"
     },
     "speakers": {
       "total": 0
@@ -13418,14 +13418,6 @@
   },
   {
     "codes": {
-      "iso639_3": "elo"
-    },
-    "speakers": {
-      "total": 0
-    }
-  },
-  {
-    "codes": {
       "iso639_3": "paw"
     },
     "speakers": {
@@ -13434,7 +13426,7 @@
   },
   {
     "codes": {
-      "iso639_3": "yej"
+      "iso639_3": "pmw"
     },
     "speakers": {
       "total": 0
@@ -13442,7 +13434,15 @@
   },
   {
     "codes": {
-      "iso639_3": "gbu"
+      "iso639_3": "pzh"
+    },
+    "speakers": {
+      "total": 0
+    }
+  },
+  {
+    "codes": {
+      "iso639_3": "yej"
     },
     "speakers": {
       "total": 0
