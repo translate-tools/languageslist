@@ -1,6 +1,6 @@
 {
 	"name": "langstats",
-	"version": "0.0.1",
+	"version": "0.1.0",
 	"license": "MIT",
 	"author": "Robert Vitonsky <https://github.com/vitonsky>",
 	"homepage": "https://github.com/translate-tools/langstats",
