@@ -123,6 +123,15 @@ export class WikidataLanguagesInfoFetcher implements SummaryFetcher<LanguageInfo
 		// Sort results
 		return Object.entries(languagesStats)
 			.map(([_key, lang]) => lang)
-			.sort((a, b) => b.speakers.total - a.speakers.total);
+			.sort((a, b) => {
+				// Order by speakers
+				const totalSpeakersDelta = b.speakers.total - a.speakers.total;
+				if (totalSpeakersDelta !== 0) return totalSpeakersDelta;
+
+				// Order by codes
+				const codeA = a.codes.iso639_1 ?? a.codes.iso639_3 ?? '';
+				const codeB = b.codes.iso639_1 ?? b.codes.iso639_3 ?? '';
+				return codeA < codeB ? -1 : 1;
+			});
 	}
 }
