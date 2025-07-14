@@ -1,16 +1,14 @@
 import { CountrySummaryScheme } from '../types/countries';
 import { LanguageSummaryScheme } from '../types/languages';
-import { readFile } from 'fs/promises';
-import { COUNTRIES_DB_PATH, LANGUAGES_DB_PATH } from './const';
 
 export const getLanguagesList = async () => {
-	const rawJson = await readFile(LANGUAGES_DB_PATH, { encoding: 'utf8' });
-
-	return LanguageSummaryScheme.array().parse(JSON.parse(rawJson));
+	return LanguageSummaryScheme.array().parse(
+		(await import('./languages-list.json')).default,
+	);
 };
 
 export const getCountriesList = async () => {
-	const rawJson = await readFile(COUNTRIES_DB_PATH, { encoding: 'utf8' });
-
-	return CountrySummaryScheme.array().parse(JSON.parse(rawJson));
+	return CountrySummaryScheme.array().parse(
+		(await import('./countries-list.json')).default,
+	);
 };
